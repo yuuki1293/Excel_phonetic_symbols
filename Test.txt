@@ -1,0 +1,1670 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Helloの意味・使い方・読み方 | Weblio英和辞書</title>
+<meta name="description" content="1000万語収録！Weblio辞書 - Hello とは【意味】お(ー)い!,もし!... 【例文】Hello, Tom!... 「Hello」の意味・例文・用例ならWeblio英和・和英辞書">
+<meta name="keywords" content="Hello,意味,辞書,英和,とは,使い方,読み方,和訳,翻訳,用例,発音,英和辞典">
+<meta name="apple-itunes-app" content="app-id=1012838112">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript">
+(function($) {
+var weblioAdsByGoogle = window.weblioAdsByGoogle = window.weblioAdsByGoogle || [];
+$(function() {
+  for (var i = 0; i < weblioAdsByGoogle.length; ++i) {
+    (adsbygoogle = window.adsbygoogle || []).push(weblioAdsByGoogle[i]);
+  }
+});
+})(jQuery);
+</script>
+<link rel="manifest" href="https://ejje.weblio.jp/manifest.json">
+<link rel="icon" sizes="144x144" href="https://weblio.hs.llnwd.net/e7/img/favicon/ejje.png">
+<link rel="apple-touch-icon" href="https://weblio.hs.llnwd.net/e7/img/favicon/ejje/safari/apple-touch-icon.png">
+<meta name="msapplication-square70x70logo" content="https://weblio.hs.llnwd.net/e7/img/favicon/ejje/ie/site-tile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="https://weblio.hs.llnwd.net/e7/img/favicon/ejje/ie/site-tile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="https://weblio.hs.llnwd.net/e7/img/favicon/ejje/ie/site-tile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="https://weblio.hs.llnwd.net/e7/img/favicon/ejje/ie/site-tile-310x310.png" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@weblio">
+<meta name="twitter:title" content="Hello - Weblio 英和・和英辞典">
+<meta name="twitter:description" content="Hello: お(ー)い!,もし!,やあ!,よお!,こんにちは!,もしもし!,おや!,あら!">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="https://weblio.hs.llnwd.net/e7/css/ejje/content_renew.css?sd=ejje&amp;tst=2020121810"><link rel="stylesheet" type="text/css" href="https://weblio.hs.llnwd.net/e7/css/dict.css?tst=2020121810" title="Main">
+<link rel="amphtml" href="https://ejje.weblio.jp/content/amp/Hello">
+<script>
+$(function(){
+    $('a[href*="#KnenjPartOfSpeechIndex"]').on('click', function(){
+        var headerOffset = 110;
+        var href= $(this).attr("href");
+        var position = $(href).offset().top - headerOffset;
+        $(window).scrollTop(position);
+        return false;
+    });
+});
+</script>
+
+<!--  prebidを動かすために必要なタグ -->
+    <script type="text/javascript">
+        var pbjs=pbjs||{};
+        pbjs.que=pbjs.que||[];
+    </script>
+
+    <script src="https://ads.pubmatic.com/AdServer/js/pwt/156601/2458/pwt.js"></script>
+<!-- DataLayer -->
+<script>
+    
+    dataLayer = [{
+        
+        'member':'non-member','renew': 'new',
+        'splitTest': 'B'
+    }];
+</script>
+<!-- /DataLayer -->
+<!-- Start Google Tag Manager -->
+<script>
+    (function(w,d,s,l,i) {
+        w[l]=w[l]||[];
+        w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+        var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+        j.async=true;
+        j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;
+        f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WCM52W');
+</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript" language="javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://weblio.hs.llnwd.net/e7/script/content_ejje.js?tst=2020121810" charset="UTF-8"></script>
+<!-- DFP head -->
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+</script>
+<!-- /DFP head -->
+
+<script>
+googletag.cmd.push(function() {
+  
+    googletag.defineSlot('/2211331/Weblio_PC_ejje_RightTop_300_600', [300, 600], 'div-gpt-ad-1581914072300-0').addService(googletag.pubads());
+    googletag.defineSlot('/2211331/Weblio_PC_ejje_RightMiddle_300_600', [300, 600], 'div-gpt-ad-1535430216535-0').addService(googletag.pubads());
+    googletag.defineSlot('/2211331/Weblio_PC_ejje_RightBottom_300_600', [300, 600], 'div-gpt-ad-1581914346279-0').addService(googletag.pubads());
+    
+    googletag.defineSlot('/2211331/Weblio_PC_ejje_1stdicLeft_300_250', [336, 280], 'div-gpt-ad-1550025720496-0').addService(googletag.pubads());
+    googletag.defineSlot('/2211331/Weblio_PC_ejje_1stdicRight_300_250', [336, 280], 'div-gpt-ad-1550025796433-0').addService(googletag.pubads());
+    googletag.defineSlot('/2211331/ejje_LeftMiddleLeft_300_250_renew1602', [336, 280], 'div-gpt-ad-1550025888682-0').addService(googletag.pubads());
+    googletag.defineSlot('/2211331/Weblio_PC_ejje_1stdic_recommend', [[1, 1], 'fluid'], 'div-gpt-ad-1605863382747-0').addService(googletag.pubads());
+    googletag.defineSlot('/2211331/ejje_LeftMiddleRight_300_250_renew1602', [336, 280], 'div-gpt-ad-1550025958674-0').addService(googletag.pubads());
+    googletag.defineSlot('/2211331/Weblio_PC_ejje_Middle2Left_300_250', [336, 280], 'div-gpt-ad-1550026040892-0').addService(googletag.pubads());
+    googletag.defineSlot('/2211331/Weblio_PC_ejje_Middle2Right_300_250', [336, 280], 'div-gpt-ad-1550026173177-0').addService(googletag.pubads());
+    googletag.defineSlot('/2211331/ejje_LeftBottomLeft_300_250_renew1602', [336, 280], 'div-gpt-ad-1598965058956-0').addService(googletag.pubads());
+    googletag.defineSlot('/2211331/ejje_LeftBottomRight_300_250_renew1602', [336, 280], 'div-gpt-ad-1598965192655-0').addService(googletag.pubads());
+    
+    googletag.defineSlot('/2211331/Weblio_PC_ejje_Overlay_728_90', [728, 90], 'div-gpt-ad-1597809707797-0').addService(googletag.pubads());
+    googletag.pubads().disableInitialLoad();
+  
+  googletag.pubads().enableSingleRequest();
+  googletag.enableServices();
+});
+</script>
+
+<!-- Define callback function -->
+<script type="text/javascript">
+var readyBids = {
+  prebid: false,
+  amazon: false,
+  google: false
+};
+var failSafeTimeout = 3e3;
+var launchAdServer = function () {
+  if (!readyBids.amazon || !readyBids.prebid) {
+    return;
+  }
+  requestAdServer();
+};
+var requestAdServer = function () {
+  if(!readyBids.google){
+    readyBids.google = true;
+    googletag.cmd.push(function () {
+      pbjs.que.push(function () {
+        pbjs.setTargetingForGPTAsync();
+      });
+      apstag.setDisplayBids();
+      googletag.pubads().refresh();
+    });
+  }
+};
+</script>
+<!-- /Define callback function -->
+
+<script src="https://flux-cdn.com/client/weblio/flux_weblio_TM.min.js" type="text/javascript" id="prebid-express" data-prex="on"></script>
+<!-- prebidを動かすために必要なタグ -->
+<script type="text/javascript">
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+</script>
+
+<!-- APS head -->
+<script type='text/javascript'>
+!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},_Q: []};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+apstag.init({
+pubID: '3925',
+adServer: 'googletag',
+bidTimeout: 1e3
+});
+
+var amazonBidder = function () {
+
+  apstag.fetchBids({
+    slots: [{
+      slotID: 'div-gpt-ad-1581914072300-0',
+      slotName: '/2211331/Weblio_PC_ejje_RightTop_300_600',
+      sizes: [[300, 600]]
+    },
+    {
+      slotID: 'div-gpt-ad-1535430216535-0',
+      slotName: '/2211331/Weblio_PC_ejje_RightMiddle_300_600',
+      sizes: [[300, 600]]
+    },
+    {
+      slotID: 'div-gpt-ad-1550025720496-0',
+      slotName: '/2211331/Weblio_PC_ejje_1stdicLeft_300_250',
+      sizes: [[336, 280]]
+    },
+    {
+      slotID: 'div-gpt-ad-1550025796433-0',
+      slotName: '/2211331/Weblio_PC_ejje_1stdicRight_300_250',
+      sizes: [[336, 280]]
+    },
+    {
+      slotID: 'div-gpt-ad-1550025888682-0',
+      slotName: '/2211331/ejje_LeftMiddleLeft_300_250_renew1602',
+      sizes: [[336, 280]]
+    },
+    {
+      slotID: 'div-gpt-ad-1605863382747-0',
+      slotName: '/2211331/Weblio_PC_ejje_1stdic_recommend',
+      sizes: [[1, 1], 'fluid']
+    },
+    {
+      slotID: 'div-gpt-ad-1550025958674-0',
+      slotName: '/2211331/ejje_LeftMiddleRight_300_250_renew1602',
+      sizes: [[336, 280]]
+    },
+    {
+      slotID: 'div-gpt-ad-1550026040892-0',
+      slotName: '/2211331/Weblio_PC_ejje_Middle2Left_300_250',
+      sizes: [[336, 280]]
+    },
+    {
+      slotID: 'div-gpt-ad-1550026173177-0',
+      slotName: '/2211331/Weblio_PC_ejje_Middle2Right_300_250',
+      sizes: [[336, 280]]
+    },
+    {
+      slotID: 'div-gpt-ad-1581914346279-0',
+      slotName: '/2211331/Weblio_PC_ejje_RightBottom_300_600',
+      sizes: [[300, 600]]
+    }]
+  }, function (bids) {
+    readyBids.amazon = true;
+    launchAdServer();
+  });
+
+}
+</script>
+
+<script type="text/javascript">
+var headerBiddingCall = function () {
+  prebidBidder();
+  amazonBidder();
+}
+headerBiddingCall();
+setTimeout(function () {
+  if (readyBids.google === false) {
+    requestAdServer();
+  }
+}, failSafeTimeout);
+</script>
+<script src="https://yads.c.yimg.jp/js/ytag.js"></script>
+<script>
+  window.yjDataLayer = window.yjDataLayer || [];
+  function ytag() {yjDataLayer.push(arguments);}
+  ytag({"type": "ycl_cookie"});
+  ytag({"type": "ycl_cookie_extended"});
+</script>
+</head>
+<!--Helloとは ハロー 本文-->
+<body>
+<!-- Start Google Tag Manager (noscript) -->
+<noscript>
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WCM52W" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- P1広告 -->
+    <ins id="yoneads87557"></ins>
+    <script type="text/javascript" src="//img.ak.impact-ad.jp/ic/pone/tags/4041/087557_2.js"></script>
+<!-- ヘッダ-->
+<div ID=headWrp>
+
+<a href="javascript:vaid(0)" id="loginStatus" data-login="false" data-premium="false"></a>
+
+<div ID=headTabWrp>
+<div ID=headTab>
+
+<table ID=logoBar>
+<tr>
+<td ID=logo>
+<div id="logoTxtWrp">
+<a href="https://ejje.weblio.jp/" title="英和辞典・和英辞典 - Weblio辞書">
+<img src="https://weblio.hs.llnwd.net/e7/img/icons/logo.png" alt="英和辞典・和英辞典 - Weblio辞書">
+</a>
+<span class=logoTxt>英和辞典・和英辞典</span>
+</div>
+</td>
+<td>
+<div ID=logoBarTE>
+1172万語<br>収録！</div></td>
+<td class=headTabTd>
+<div ID=submenuBoxWrp>
+<table>
+<tr>
+<td onclick="location.href='https://ejje.weblio.jp/'" id=CONTENT class="formBoxENo  formBoxENoSelf">
+<a onclick="location.href='https://ejje.weblio.jp/'" href="https://ejje.weblio.jp/" title="英和・和英辞典">英和和英辞典</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="erasePlaceholder(document.getElementById('searchWord'));ht(this, 'https://ejje.weblio.jp/sentence/content/');" id=SENTENCE class="formBoxENo ">
+<a onclick="erasePlaceholder(document.getElementById('searchWord'));return cu(this, 'https://ejje.weblio.jp/sentence/content/')" href="https://ejje.weblio.jp/sentence/" title="英語例文">英語例文</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="erasePlaceholder(document.getElementById('searchWord'));ht(this, 'https://ejje.weblio.jp/english-thesaurus/content/');" id=ENGLISH_THESAURUS class="formBoxENo ">
+<a onclick="erasePlaceholder(document.getElementById('searchWord'));return cu(this, 'https://ejje.weblio.jp/english-thesaurus/content/')" href="https://ejje.weblio.jp/english-thesaurus/" title="英語類語">英語類語</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="erasePlaceholder(document.getElementById('searchWord'));ht(this, 'https://ejje.weblio.jp/concordance/content/');" id=CONCORDANCE class="formBoxENo ">
+<a onclick="erasePlaceholder(document.getElementById('searchWord'));return cu(this, 'https://ejje.weblio.jp/concordance/content/')" href="https://ejje.weblio.jp/concordance/" title="共起表現">共起表現</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="location.href='https://uwl.weblio.jp/?wpm_source=ejje&amp;wpm_medium=link&amp;wpm_content=gnavi&amp;wpm_campaign=uwl_free'" id=UWL class="formBoxENo ">
+<a onclick="location.href='https://uwl.weblio.jp/?wpm_source=ejje&amp;wpm_medium=link&amp;wpm_content=gnavi&amp;wpm_campaign=uwl_free'" href="https://uwl.weblio.jp/?wpm_source=ejje&amp;wpm_medium=link&amp;wpm_content=gnavi&amp;wpm_campaign=uwl_free" title="英単語帳">英単語帳</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="erasePlaceholder(document.getElementById('searchWord'));ht(this, 'https://uwl.weblio.jp/vocab-index');" id=UWL_VOCAB class="formBoxENo gtm-glb-vocab_test">
+<a onclick="erasePlaceholder(document.getElementById('searchWord'));return cu(this, 'https://uwl.weblio.jp/vocab-index')" href="https://uwl.weblio.jp/vocab-index" title="英語力診断">英語力診断</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="location.href='https://translate.weblio.jp/'" id=TRANSLATE class="formBoxENo gtm-glb-trns">
+<a onclick="location.href='https://translate.weblio.jp/'" href="https://translate.weblio.jp/" title="英語翻訳">英語翻訳</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="location.href='https://eikaiwa.weblio.jp/'" id=WEBLIO_EIKAIWA class="formBoxENo ">
+<a onclick="location.href='https://eikaiwa.weblio.jp/'" href="https://eikaiwa.weblio.jp/" title="オンライン英会話">オンライン英会話</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="location.href='https://uwl.weblio.jp/speaking-test?wpm_source=ejje_glonavi&amp;wpm_campaign=speaking-test&amp;wpm_medium=link'" id=SPEAKING_TEST class="formBoxENo ">
+<a onclick="location.href='https://uwl.weblio.jp/speaking-test?wpm_source=ejje_glonavi&amp;wpm_campaign=speaking-test&amp;wpm_medium=link'" href="https://uwl.weblio.jp/speaking-test?wpm_source=ejje_glonavi&amp;wpm_campaign=speaking-test&amp;wpm_medium=link" title="スピーキングテスト">スピーキングテスト</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="location.href='https://accounts.weblio.jp/exclusive_benefits'" id=EXCLUSIVE class="formBoxENo gtm-glb-ex_benefit">
+<a onclick="location.href='https://accounts.weblio.jp/exclusive_benefits'" href="https://accounts.weblio.jp/exclusive_benefits" title="優待">優待</a>
+</td>
+<td class=emptyTd></td>
+<td onclick="location.href='https://qa.weblio.jp/'" id=QA class="formBoxENo ">
+<a onclick="location.href='https://qa.weblio.jp/'" href="https://qa.weblio.jp/" title="英語の質問箱">英語の質問箱</a>
+</td>
+<td class=emptyTd></td>
+<td class=emptyTd></td>
+</tr>
+</table>
+</div>
+</td>
+<td class=headMidashiE>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+
+<div ID=headFormWrp>
+<div id=headForm>
+
+<table>
+<tr>
+<td>
+<form action="https://ejje.weblio.jp/content_find" method="get" name="f">
+<table class=formBoxIWrp>
+<tr>
+<td id="headTurboLink"><p id="turbo" status="0"><img src="https://weblio.hs.llnwd.net/e7/img/icons/turbo_off.png" alt="" class="formBoxLEFxFmBtn"></p></td><td class=formBoxInputTd><input maxlength="2048" type="text" name="query" class=formBoxITxt id=searchWord value="Hello" onFocus="erasePlaceholder(this);" onBlur="showPlaceholder(this);"></td>
+<td class=formBoxClearTd><div class=formBoxIClIcnNonWrp><div class="combo_txt_clr formBoxIClIcnNon" onclick="setFormFocus();"></div></div></td>
+<td ID=headFixBxTC><div class=formSelectWrp><select name="searchType" class=formSelect>
+<option value="exact" selected>と一致する</option>
+<option value="prefix">で始まる</option>
+<option value="contains">を含む</option>
+<option value="suffix">で終わる</option>
+<option value="text">を解説文に含む</option>
+</select></div>
+</td>
+<td ID=headFixBxTR>
+<input type="submit" value="項目を検索" class=formButton onclick="erasePlaceholder(document.getElementById('searchWord'));" onmousedown="displayPushedButton(this, 0, 2);" onmouseup="this.setAttribute('style', '');" onmouseover="changeBackgroundColor(this, '#766c66');" onmouseout="this.setAttribute('style', '');">
+</td>
+<td><b ID=komado onclick="return formBoxSmWin('https://ejje.weblio.jp/small/content/Hello')"><img src="https://weblio.hs.llnwd.net/e7/img/icons/computer.png" alt="" class=formBoxLEFxFmBtn><br>小窓モード</b></td>
+<td onclick="window.open('https://ejje.weblio.jp/lpage/ejje_howto_pc')"><p ID=random>
+<button type="button" class="formBoxRnd"><img src="https://weblio.hs.llnwd.net/e7/img/icons/howto.svg" alt="" class=formBoxLEFxFmBtn><br>使い方</button>
+</p></td>
+</tr>
+</table>
+</form>
+</td>
+<td>
+<div class=headFormBar></div>
+</td>
+<td onclick="window.location='https://uwl.weblio.jp/ps/?wpm_source=ejje_content&amp;wpm_medium=link&amp;wpm_content=ejje-top-navi&amp;wpm_campaign=premium'" class="formBoxRGHT">
+<img src="https://weblio.hs.llnwd.net/e7/img/icons/badge.png" alt=""><br>
+<a href="https://uwl.weblio.jp/ps/?wpm_source=ejje_content&amp;wpm_medium=link&amp;wpm_content=ejje-top-navi&amp;wpm_campaign=premium" title="プレミアム">プレミアム</a>
+</td>
+<td onclick="setFormFocus();ht(this, 'https://uwl.weblio.jp/accounts/login-entry?done=https%3A%2F%2Fejje.weblio.jp%2Fcontent%2FHello&amp;wpm_source=weblio&amp;wpm_medium=link&amp;wpm_content=prem-globalnavi_login&amp;wpm_campaign=ejje_top_globalnavi_login');" class="formBoxRGHT">
+<img src="https://weblio.hs.llnwd.net/e7/img/icons/login.png" alt=""><br>
+<a onclick="setFormFocus();return cu(this, 'https://uwl.weblio.jp/accounts/login-entry?done=https%3A%2F%2Fejje.weblio.jp%2Fcontent%2FHello&amp;wpm_source=weblio&amp;wpm_medium=link&amp;wpm_content=prem-globalnavi_login&amp;wpm_campaign=ejje_top_globalnavi_login');" href="https://uwl.weblio.jp/accounts/login-entry?done=https%3A%2F%2Fejje.weblio.jp%2Fcontent%2FHello&amp;wpm_source=weblio&amp;wpm_medium=link&amp;wpm_content=prem-globalnavi_login&amp;wpm_campaign=ejje_top_globalnavi_login" title="ログイン">ログイン</a>
+</td>
+<td onclick="popUpLoginWindow('https://ejje.weblio.jp/dict-order-setting');" class="formBoxRGHT">
+<img src="https://weblio.hs.llnwd.net/e7/img/icons/gear-arrow.png" alt="設定" title="設定">
+<p class=configBottom>設定</p>
+</td>
+</tr>
+</table>
+
+</div>
+</div>
+
+</div>
+
+<script type="text/javascript"><!--
+$(document).ready(function(){
+
+});
+
+//--></script>
+<!-- ヘッダ -->
+<div ID=contentWrp>
+<div ID=contentBodyWrp>
+<div ID=contentBody>
+<!-- コンテント -->
+<div ID=main>
+<div class=topic><table><tr>
+<td class=topicL>
+<!-- interest_match_relevant_zone_start -->
+<div ID=topicWrp><a href="https://www.weblio.jp/" title="辞典・百科事典の検索サービス - Weblio辞書">Weblio 辞書</a> &gt; <a href="https://ejje.weblio.jp/" title="英和辞典・和英辞典">英和辞典・和英辞典</a> &gt; <a href="https://ejje.weblio.jp/category/dictionary/kenej/a" title="英和辞典">英和辞典</a> &gt; <b class=highlight>Helloの意味・解説</b>&nbsp;</div>
+<!-- interest_match_relevant_zone_end -->
+</td>
+<td class=topicR>
+<script type="text/javascript">
+<!--
+outCntWrRnw(false,'e', 'Hello', false,-1,'https://ejje.weblio.jp/content/Hello');
+//-->
+</script>
+
+</td>
+</tr></table></div>
+<div class=subMenuTop><div class=subMenuTWrp><table class=subMenuT><tr class=subMenuTR><td class=subMenuOn>意味</td><td class=subMenuOff><a class=sb-anchor-sentence href="https://ejje.weblio.jp/sentence/content/Hello">例文</a><span class=subMenuTotalCount> (399件)</span></td><td class=subMenuOff><a class=sb-anchor-english-thesaurus href="https://ejje.weblio.jp/english-thesaurus/content/Hello">類語</a></td><td class=subMenuOff><a class=sb-anchor-concordance href="https://ejje.weblio.jp/concordance/content/Hello">共起表現</a></td><td class=subMenuEmp>&nbsp;</td></tr></table></div></div>
+<div id=summary class="mainBlock non-member hlt_SUMRY">
+<div class=addLmFdWr id=addLmFdWrHdId></div>
+<table class=summaryTbl><tr>
+<td class=summaryL><h1 title="Helloとは 意味・読み方・使い方"><div><span ID=h1Query>Hello</span><span id=h1Suffix>とは</span></div><div class="h1keywords">意味・読み方・使い方</div></h1></td>
+<td class=summaryC>
+<table><tr><td><div ID=ePsdQc></div><i class="fa fa-volume-up contentTopAudioIcon"><audio class=contentAudio controls="controls" preload="none"><source src="https://weblio.hs.llnwd.net/e7/img/dict/kenej/audio/S-A5FCC76_E-A5FE9EA.mp3" type="audio/mpeg"></audio></i></td><td><div ID=ePsdDl><a href="https://weblio.hs.llnwd.net/e7/img/dict/kenej/audio/S-A5FCC76_E-A5FE9EA.mp3" id="audioDownloadPlayUrl"><i class="fa fa-play-circle"></i><br></div></td></tr><tr><td><span>発音を聞く</span></td><td><span>プレーヤー再生</span></td></tr></table>
+</td>
+<td class=pin-icon-cell><table><tr><td>
+<i id=icon-pin-word class="fa fa-thumb-tack fa-rotate-315" aria-hidden=true></i>
+</td></tr><tr><td><span>ピン留め</span></td></tr></table></td>
+<td class=summaryR>
+<div class="error">追加できません(登録数上限)</div>
+<div class="commonBtn wlaBtnI" id=addUwl data-encquery="Hello">
+<img src="https://weblio.hs.llnwd.net/e7/img/icons/addWordlist.png" alt="">
+<span class="gtm-addUwl-str">単語を追加</span>
+</div>
+</td>
+</tr></table>
+<div class="summaryM descriptionWrp"><table><tbody><tr><td><b class="squareCircle description">主な意味</b></td><td class="content-explanation ej">お(ー)い!、もし!、やあ!、よお!、こんにちは!、もしもし!、おや!、あら!</td></tr></tbody></table></div>
+
+<div class=summaryM><table><tr>
+<td><b class=squareCircle>音節</b></td><td><span class=syllableEjje>hel・lo</span></td>
+<td><b class=squareCircle>発音記号・読み方</b></td><td><div ID=phoneticEjjeNavi>
+<div class=phoneticEjjeWrp><span class=phoneticEjjeSym>/</span><span class=phoneticEjjeDesc>həlóʊ</span><span class=phoneticEjjeDc>(米国英語)</span>, <span class=phoneticEjjeDesc>həlˈəʊ</span><span class=phoneticEjjeDc>(英国英語)</span><span class=phoneticEjjeSym>/</span></div>
+</div>
+</td>
+
+</tr></table></div>
+<table class="intrst"><tr><td class="intrstL"><h2>Helloの<br>品詞ごとの意味や使い方</h2></td><td class="intrstR"><div class="partOfSpeechIndex"><a href="#KnenjPartOfSpeechIndex0" title="間投詞としての意味・使い方">間投詞としての意味・使い方</a><a href="#KnenjPartOfSpeechIndex1" title="名詞 可算名詞としての意味・使い方">名詞 可算名詞としての意味・使い方</a><a href="#KnenjPartOfSpeechIndex2" title="動詞 自動詞としての意味・使い方">動詞 自動詞としての意味・使い方</a></div>
+</td></tr></table>
+<table class=intrst><tr><td class=intrstL><h2>Helloの<br>イディオムやフレーズ</h2></td><td class=intrstR><div class=phraseEjjeDesc><a href="https://ejje.weblio.jp/content/say+hello+to" title="say hello to">say hello to</a></div>
+</td></tr></table>
+<table class="intrst"><tr><td class="intrstL"><h2>Helloの<br>学習レベル</h2></td><td class="intrstR"><div id="learning-level-table-wrap"><div id="learning-level-table"><div><span class="learning-level-row"><span class="learning-level-label">レベル</span><span>：</span><span class="learning-level-content">2</span><span class="learning-level-label">英検</span><span>：</span><span class="learning-level-content">準2級以上の単語</span></span><span class="learning-level-row"><span class="learning-level-label">学校レベル</span><span>：</span><span class="learning-level-content">高校1年以上の水準</span><span class="learning-level-label">TOEIC® L&amp;Rスコア</span><span>：</span><span class="learning-level-content">350点以上の単語</span></span><span class="learning-level-row"><span class="learning-level-label">大学入試</span><span>：</span><span class="learning-level-content">センター試験対策レベル</span></span></div></div><div id="leadBtnWrp"><div id="leadToVocabIndexBtnWrp" class="insideLlTable"><a id="leadToVocabIndexBtn" class="commonBtn" href="https://uwl.weblio.jp/vocab-index?wpm_category=vocab&amp;wpm_action=word&amp;wpm_label=orange-button">語彙力テストを受ける</a></div><div id="leadToSpeakingTestIndexBtnWrp" class="insideLlTable"><a id="leadToSpeakingTestIndexBtn" class="commonBtn" href="https://uwl.weblio.jp/speaking-test">スピーキングテストを受ける</a></div></div></div></td></tr></table>
+</div>
+<div class=mainBlock>
+<div class="flex-rectangle-ads-frame">
+<div>
+<script type="text/javascript">
+<!--
+/* cp971 */document.write('<!-- /2211331/Weblio_PC_ejje_1stdicLeft_300_250 -->');document.write('<div id="div-gpt-ad-1550025720496-0" style="height:280px; width:336px;">');googletag.cmd.push(function() { googletag.display('div-gpt-ad-1550025720496-0'); });document.write('</' + 'div>');
+//-->
+</script>
+
+</div>
+<div>
+<script type="text/javascript">
+<!--
+/* cp972 */document.write('<!-- /2211331/Weblio_PC_ejje_1stdicRight_300_250 -->');document.write('<div id="div-gpt-ad-1550025796433-0" style="height:280px; width:336px;">');googletag.cmd.push(function() { googletag.display('div-gpt-ad-1550025796433-0'); });document.write('</' + 'div>');
+//-->
+</script>
+
+</div>
+</div><br class=clr>
+</div>
+<div id=hideDictMsgKENEJ></div>
+<!-- 開始 #hideDictPrsKENEJ -->
+<div class=hideDictPrs id=hideDictPrsKENEJ>
+<div class="mainBlock">
+<div class="flex-rectangle-ads-frame">
+<!-- /2211331/Weblio_PC_ejje_1stdic_recommend -->
+<div id="div-gpt-ad-1605863382747-0">
+</div>
+</div>
+</div>
+<div class="mainBlock hlt_KENEJ">
+<!--開始 研究社 新英和中辞典-->
+<a name="KENEJ"></a>
+<table class="wrp"><tr><td class="left"><h2 class=dictNm><a href="https://ejje.weblio.jp/category/dictionary/kenej/a" title="英和辞典">研究社 新英和中辞典での「Hello」の意味</a></h2></td>
+<td class="right">
+<div style="float:right;">
+
+</div>
+</td></tr></table>
+<b class=clrBc></b>
+<div class=kijiWrp>
+<div class=hideDictWrp>
+<p class=hideDictBtn onclick="toggleHideDictConfirm('hideDictConfirmKENEJ');"></p>
+<div class=hideDictConfirm style="display:none;" id=hideDictConfirmKENEJ>
+<div class=hideDictConfirmMsg onclick="popUpPremiumModalWindowHideDict('https://ejje.weblio.jp/content/Hello', false);"><span class=hideDictConfirmMsgX>×</span> この辞書を今後表示しない</div>
+<div class=hideDictConfirmLink>※辞書の非表示は、<a href="https://ejje.weblio.jp/dict-order-setting" target="_blank">設定画面</a>から変更可能</div>
+</div>
+</div>
+<div class=kiji>
+<h2 class=midashigo title="hello">hello</h2>
+<div class=Kejje>
+<!--AVOID_CROSSLINK--><b class=KejjeLb>音節</b><b class=KejjeOs>hel・lo</b> <b class=KejjeLb>発音記号・読み方</b><b class=KejjeHt><b class=KejjeLbN>/</b>həló&#650;, he‐<b class=KejjeLbN>｜</b>‐lˈ&#601;&#650;<b class=KejjeLbN>/</b></b><b class=KejjeLb>発音を聞く</b><i class="fa fa-volume-up contentBodyAudioIcon"><audio class=contentAudio controls="controls" preload="none"><source src="https://weblio.hs.llnwd.net/e7/img/dict/kenej/audio/S-A5FCC76_E-A5FE9EA.mp3" type="audio/mpeg"></audio></i><!--/AVOID_CROSSLINK--><br><div class=level0><div class=KnenjSub id="KnenjPartOfSpeechIndex0"><!--AVOID_CROSSLINK-->間投詞<!--/AVOID_CROSSLINK--></div></div><div class=level0><p class=lvlNH>1</p><p class=lvlB>[<a href="https://ejje.weblio.jp/content/%E9%81%A0%E3%81%8F%E3%81%AE" title="遠くのの英語" class=crosslink>遠くの</a><a href="https://ejje.weblio.jp/content/%E4%BA%BA" title="人の英語" class=crosslink>人</a>への<a href="https://ejje.weblio.jp/content/%E6%B3%A8%E6%84%8F%E3%82%92%E5%BC%95%E3%81%8F" title="注意を引くの英語" class=crosslink>注意を引く</a>のに<a href="https://ejje.weblio.jp/content/%E7%94%A8%E3%81%84%E3%81%A6" title="用いての英語" class=crosslink>用いて</a>] お(ー)い!, もし!</p><br class=clr></div><div class=level0><p class=lvlNH>2</p><p class=lvlB>[<a href="https://ejje.weblio.jp/content/%E3%81%82%E3%81%84%E3%81%95%E3%81%A4" title="あいさつの英語" class=crosslink>あいさつ</a>に<a href="https://ejje.weblio.jp/content/%E7%94%A8%E3%81%84%E3%81%A6" title="用いての英語" class=crosslink>用いて</a>] やあ!, よお!, <a href="https://ejje.weblio.jp/content/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF" title="こんにちはの英語" class=crosslink>こんにちは</a>!</p><br class=clr></div><table class=KejjeYr><tr><td class=KejjeYrMS><i class="fa fa-plus-square-o shMreIcn" aria-hidden="true"></i></td><td class=KejjeYrR><div class=KejjeYrHd><div class="KejjeYrLn rmvDots"><span class=KejjeYrEn><span class=KejjeYrKwrd>Hello</span>, <a href="https://ejje.weblio.jp/content/Tom" title="Tomの意味" class=crosslink>Tom</a>!</span> <span class=KejjeYrJp>やあ<a href="https://ejje.weblio.jp/content/%E3%83%88%E3%83%A0" title="トムの英語" class=crosslink>トム</a>, <a href="https://ejje.weblio.jp/content/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF" title="こんにちはの英語" class=crosslink>こんにちは</a>!</span></div></div><div class=KejjeYrTxt><div class="KejjeYrLn rmvDots"><span class=KejjeYrEn><span class=KejjeYrKwrd>Hello</span> <a href="https://ejje.weblio.jp/content/there%21" title="there!の英語" class=crosslink>there!</a></span> <span class=KejjeYrJp><a href="https://ejje.weblio.jp/content/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF" title="こんにちはの英語" class=crosslink>こんにちは</a>!, やあ!</span></div></div></td></tr></table><div class=level0><p class=lvlNH>3</p><p class=lvlB><!--AVOID_CROSSLINK-->【<span ID=categoryName>電話</span>】<!--/AVOID_CROSSLINK--> <a href="https://ejje.weblio.jp/content/%E3%82%82%E3%81%97%E3%82%82%E3%81%97" title="もしもしの英語" class=crosslink>もしもし</a>!</p><br class=clr></div><table class=KejjeYr><tr><td class=KejjeYrMS><i class="fa fa-plus-square-o shMreIcn" aria-hidden="true"></i></td><td class=KejjeYrR><div class=KejjeYrHd><div class="KejjeYrLn rmvDots"><span class=KejjeYrEn><span class=KejjeYrKwrd>Hello</span>, <a href="https://ejje.weblio.jp/content/this+is" title="this isの意味" class=crosslink>this is</a> (<a href="https://ejje.weblio.jp/content/Tom" title="Tomの意味" class=crosslink>Tom</a>) <a href="https://ejje.weblio.jp/content/Brown" title="Brownの意味" class=crosslink>Brown</a> speaking.</span> <span class=KejjeYrJp><a href="https://ejje.weblio.jp/content/%E3%82%82%E3%81%97%E3%82%82%E3%81%97" title="もしもしの英語" class=crosslink>もしもし</a>, <a href="https://ejje.weblio.jp/content/%E3%81%93%E3%81%A1%E3%82%89%E3%81%AF" title="こちらはの英語" class=crosslink>こちらは</a>(<a href="https://ejje.weblio.jp/content/%E3%83%88%E3%83%A0" title="トムの英語" class=crosslink>トム</a>)<a href="https://ejje.weblio.jp/content/%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3" title="ブラウンの英語" class=crosslink>ブラウン</a>です.</span></div></div><div class=KejjeYrTxt><div class="KejjeYrLn rmvDots"><span class=KejjeYrEn><span class=KejjeYrKwrd>Hello</span>, <a href="https://ejje.weblio.jp/content/this+is" title="this isの意味" class=crosslink>this is</a> 557‐2496.</span> <span class=KejjeYrJp><a href="https://ejje.weblio.jp/content/%E3%82%82%E3%81%97%E3%82%82%E3%81%97" title="もしもしの英語" class=crosslink>もしもし</a>, <a href="https://ejje.weblio.jp/content/%E3%81%93%E3%81%A1%E3%82%89%E3%81%AF" title="こちらはの英語" class=crosslink>こちらは</a> 557‐2496 <a href="https://ejje.weblio.jp/content/%E7%95%AA" title="番の英語" class=crosslink>番</a>です 《★<!--AVOID_CROSSLINK-->【読み方】<!--/AVOID_CROSSLINK--> <a href="https://ejje.weblio.jp/content/five" title="fiveの意味" class=crosslink>five</a> <a href="https://ejje.weblio.jp/content/five" title="fiveの意味" class=crosslink>five</a> (<a href="https://ejje.weblio.jp/content/%E3%81%BE%E3%81%9F%E3%81%AF" title="またはの英語" class=crosslink>または</a> <a href="https://ejje.weblio.jp/content/double" title="doubleの意味" class=crosslink>double</a> <a href="https://ejje.weblio.jp/content/five" title="fiveの意味" class=crosslink>five</a>) <a href="https://ejje.weblio.jp/content/seven" title="sevenの意味" class=crosslink>seven</a> <a href="https://ejje.weblio.jp/content/two+four" title="two fourの意味" class=crosslink>two four</a> <a href="https://ejje.weblio.jp/content/nine" title="nineの意味" class=crosslink>nine</a> <a href="https://ejje.weblio.jp/content/six" title="sixの意味" class=crosslink>six</a>》.</span></div></div></td></tr></table><div class=level0><p class=lvlNH>4</p><p class=lvlB>[<a href="https://ejje.weblio.jp/content/%E9%A9%9A%E3%81%8D" title="驚きの英語" class=crosslink>驚き</a>を<a href="https://ejje.weblio.jp/content/%E8%A1%A8%E3%82%8F%E3%81%97%E3%81%A6" title="表わしての英語" class=crosslink>表わして</a>] 《<a href="https://ejje.weblio.jp/content/%E4%B8%BB%E3%81%AB" title="主にの英語" class=crosslink>主に</a><a href="https://ejje.weblio.jp/content/%E8%8B%B1%E5%9B%BD" title="英国の英語" class=crosslink>英国</a><a href="https://ejje.weblio.jp/content/%E3%81%A7%E7%94%A8%E3%81%84%E3%82%89%E3%82%8C%E3%82%8B" title="で用いられるの英語" class=crosslink>で用いられる</a>》 <a href="https://ejje.weblio.jp/content/%E3%81%8A%E3%82%84%21" title="おや!の英語" class=crosslink>おや!</a>, あら!</p><br class=clr></div><div class=level0><A href="https://ejje.weblio.jp/content/Hello%2C+hello%2C+hello%21">Helló，helló，helló!</A></div><div class=level0><div class=KnenjSub id="KnenjPartOfSpeechIndex1"><!--AVOID_CROSSLINK-->名詞<!--/AVOID_CROSSLINK--><span class=KejjeSm><!--AVOID_CROSSLINK-->可算名詞<!--/AVOID_CROSSLINK--></span></div></div><div class=level0>(《<a href="https://ejje.weblio.jp/content/%E8%A4%87%E6%95%B0%E5%BD%A2" title="複数形の英語" class=crosslink>複数形</a>》 <a href="https://ejje.weblio.jp/content/hellos" title="hellosの意味" class=crosslink>hellos</a>) hello <a href="https://ejje.weblio.jp/content/%E3%81%A8%E8%A8%80%E3%81%86" title="と言うの英語" class=crosslink>と言う</a>こと.</div><table class=KejjeYr><tr><td class=KejjeYrR><div class=KejjeYrHd><div class=KejjeYrLn><span class=KejjeYrEn><a href="https://ejje.weblio.jp/content/My+family" title="My familyの意味" class=crosslink>My family</a> <a href="https://ejje.weblio.jp/content/send" title="sendの意味" class=crosslink>send</a>(s) a <span class=KejjeYrKwrd>hello</span>.</span> <span class=KejjeYrJp><a href="https://ejje.weblio.jp/content/%E5%AE%B6%E6%97%8F%E3%81%AE" title="家族のの英語" class=crosslink>家族の</a><a href="https://ejje.weblio.jp/content/%E8%80%85" title="者の英語" class=crosslink>者</a><a href="https://ejje.weblio.jp/content/%E3%81%8B%E3%82%89%E3%82%82" title="からもの英語" class=crosslink>からも</a><a href="https://ejje.weblio.jp/content/%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F" title="よろしくの英語" class=crosslink>よろしく</a>.</span></div></div></td></tr></table><br class=clrPhrBc><!--AVOID_CROSSLINK--><div class=KejjeIdH>可算名詞としての「hello」のイディオムやフレーズ</div><!--/AVOID_CROSSLINK--><table class=phraseEjjeT><tr><td><A href="https://ejje.weblio.jp/content/say+hello+to">sày héllo to…</a></td></tr></table><div class=level0><div class=KnenjSub id="KnenjPartOfSpeechIndex2"><!--AVOID_CROSSLINK-->動詞<!--/AVOID_CROSSLINK--> <span class=KejjeSm><!--AVOID_CROSSLINK-->自動詞<!--/AVOID_CROSSLINK--></span></div></div><div class=level0>hello <a href="https://ejje.weblio.jp/content/%E3%81%A8%E5%91%BC%E3%81%B6" title="と呼ぶの英語" class=crosslink>と呼ぶ</a>[<a href="https://ejje.weblio.jp/content/%E8%A8%80%E3%81%86" title="言うの英語" class=crosslink>言う</a>].</div><div class=level0>［<a href="https://ejje.weblio.jp/content/HALLO" title="HALLOの意味" class=crosslink>HALLO</a> の<a href="https://ejje.weblio.jp/content/%E5%A4%89%E5%BD%A2" title="変形の英語" class=crosslink>変形</a>］</div>
+</div>
+<br>
+<script type="text/javascript">
+<!--
+/* cp775 */document.write('<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></' + 'script>');document.write('<!-- Weblio_ejje_1stdic_native_renew1602 -->');document.write('<ins class="adsbygoogle" style="display:inline-block;min-width:320px;max-width:1200px;width:100%;height:100px" data-ad-client="ca-pub-2521481089881749" data-ad-slot="6444832701" data-ad-region="Weblio_ejje_upper";></' + 'ins>');(window.weblioAdsByGoogle || []).push({});
+//-->
+</script>
+
+</div>
+
+
+<p>電気・通信のほかの用語一覧</p><div class="relationWordList"><b>電子工学</div></b><ul class="relationWordList"><li><a href="https://ejje.weblio.jp/content/triode" title="triode">triode</a></li><li><a href="https://ejje.weblio.jp/content/wafer" title="wafer">wafer</a></li></ul><div class="relationWordList"><b>電話</div></b><ul class="relationWordList"><li><a href="https://ejje.weblio.jp/content/collect" title="collect">collect</a></li><li>hello</li></ul><div class="relationWordList"><b>無線</div></b><ul class="relationWordList"><li><a href="https://ejje.weblio.jp/content/D+layer" title="D layer">D layer</a></li><li><a href="https://ejje.weblio.jp/content/D.F." title="D.F.">D.F.</a></li><li><a href="https://ejje.weblio.jp/content/call+sign" title="call sign">call sign</a></li></ul><div class="pageAnchor"><a href="https://ejje.weblio.jp/subcategory/kenej/%E9%9B%BB%E8%A9%B1_1" title="電話">電話カテゴリの他の用語</a></div>
+
+<div class=phraseEjCntAnc>
+<span class=phraseEjCntAncL><a href="https://ejje.weblio.jp/parts-of-speech/kenej/%E5%8F%AF%E7%AE%97%E5%90%8D%E8%A9%9E_1" title="英語の可算名詞一覧">英語の可算名詞一覧</a></span>
+<span class=phraseEjCntAncR><a href="https://ejje.weblio.jp/parts-of-speech/kenej/%E9%AB%98%E6%A0%A1_3" title="「高校以上の水準の可算名詞」の一覧">「高校以上の水準の可算名詞」の一覧</a></span>
+</div>
+
+<div class=kijiFoot>
+<span class=wList><a href="https://ejje.weblio.jp/category/dictionary/kenej/a" title="索引トップ">索引</a></span><span class=wList><a href="https://ejje.weblio.jp/category/dictionary/kenej/h/14" title="用語の索引">用語索引</a></span><span class=wList><a href="https://ejje.weblio.jp/ranking/dictionary/kenej" title="ランキング">ランキング</a></span><span class=wList><a href="https://ejje.weblio.jp/subcategory/kenej" title="カテゴリー">カテゴリ</a></span><span class=wList><a href="https://ejje.weblio.jp/parts-of-speech/kenej" title="品詞別索引">品詞別索引</a></span></div>
+</div>
+<!--終了 研究社 新英和中辞典-->
+<div class=clr></div>
+</div>
+<div class="mainBlock">
+<div class="flex-rectangle-ads-frame">
+<div class="">
+<script type="text/javascript">
+<!--
+/* cp973 */document.write('<!-- /2211331/ejje_LeftMiddleLeft_300_250_renew1602 -->');document.write('<div id="div-gpt-ad-1550025888682-0" style="height:280px; width:336px;">');googletag.cmd.push(function() { googletag.display('div-gpt-ad-1550025888682-0'); });document.write('</' + 'div>');
+//-->
+</script>
+
+</div>
+<div class="">
+<script type="text/javascript">
+<!--
+/* cp974 */document.write('<!-- /2211331/ejje_LeftMiddleRight_300_250_renew1602 -->');document.write('<div id="div-gpt-ad-1550025958674-0" style="height:280px; width:336px;">');googletag.cmd.push(function() { googletag.display('div-gpt-ad-1550025958674-0'); });document.write('</' + 'div>');
+//-->
+</script>
+
+</div>
+</div><br class=clr>
+</div>
+<div class="mainBlock hlt_SNTCE"><div class=qotH><h2 class=qotHT>「Hello」を含む例文一覧</h2><p class=qotHTR>該当件数&nbsp;:&nbsp;<b>399</b>件</p><br class=clr></div><br class=clrBc><div class="kijiWrp"><div class="kiji"><span class=qotHS>例文</span><div class=qotC><p class=qotCE><b>Hello</b> there.<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('EGATE_EIWA_JITEN',-1,'Hello+there.','%E3%82%84%E3%81%82')">例文帳に追加</a></span></p><p class=qotCJ>やあ<span>&nbsp;-&nbsp;Eゲイト英和辞典</span></p></div><div class=qotC><p class=qotCE><b>Hello</b>, kiddo.<b class="squareCircle">発音を聞く</b><i class="fa fa-volume-up sentenceAudioIcon"><audio class=sentenceAudio controls="controls" preload="none"><source src="https://weblio.hs.llnwd.net/e8/audio/6a72fbebbbf512da8aa598e2dfaba88a.mp3?groupId=WEBLIO_KENEJ" type="audio/mpeg"></audio></i><span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENEJ',-1,'Hello%2C+kiddo.','%E3%82%84%E3%81%82%E3%81%8D%E3%81%BF.')">例文帳に追加</a></span></p><p class=qotCJ>やあきみ.<span>&nbsp;-&nbsp;研究社 新英和中辞典</span></p></div><div class=qotC><p class=qotCE><b>Hello</b> <a href="https://ejje.weblio.jp/content/there%21" title="there!の英語" class=crosslink>there!</a><b class="squareCircle">発音を聞く</b><i class="fa fa-volume-up sentenceAudioIcon"><audio class=sentenceAudio controls="controls" preload="none"><source src="https://weblio.hs.llnwd.net/e8/audio/a77b55332699835c035957df17630d28.mp3?groupId=WEBLIO_KENEJ" type="audio/mpeg"></audio></i><span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENEJ',-1,'Hello+there%21','%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%21%2C+%E3%82%84%E3%81%82%21')">例文帳に追加</a></span></p><p class=qotCJ>こんにちは!, やあ!<span>&nbsp;-&nbsp;研究社 新英和中辞典</span></p></div><div class=qotC><p class=qotCE><b>Hello</b>, Ben.<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('ORG_BASIC_SENTENCE',-1,'Hello%2C+Ben.','%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81Ben%E3%80%82')">例文帳に追加</a></span></p><p class=qotCJ>こんにちは、Ben。<span>&nbsp;-&nbsp;Weblio英語基本例文集</span></p></div><div class=qotC><p class=qotCE><b>Hello</b>, Tom.<b class="squareCircle">発音を聞く</b><i class="fa fa-volume-up sentenceAudioIcon"><audio class=sentenceAudio controls="controls" preload="none"><source src="https://weblio.hs.llnwd.net/e8/audio/232f67d22f7875cc411b3fc2a860eb22.mp3?groupId=TANAKA_CORPUS" type="audio/mpeg"></audio></i><span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('TANAKA_CORPUS',-1,'Hello%2C+Tom.','%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%83%88%E3%83%A0%E3%80%82')">例文帳に追加</a></span></p><p class=qotCJ>こんにちは、トム。<span>&nbsp;-&nbsp;Tanaka Corpus</span></p></div><div class=qotC><p class=qotCE><b>Hello</b>, <a href="https://ejje.weblio.jp/content/there%21" title="there!の英語" class=crosslink>there!</a><b class="squareCircle">発音を聞く</b><i class="fa fa-volume-up sentenceAudioIcon"><audio class=sentenceAudio controls="controls" preload="none"><source src="https://weblio.hs.llnwd.net/e8/audio/1306c6713ba32b84772af9a6615ec33c.mp3?groupId=JUGYO_HYOGENSHU" type="audio/mpeg"></audio></i><span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('JUGYO_HYOGENSHU',-1,'Hello%2C+there%21','%E3%82%84%E3%81%82%EF%BC%8C%E3%81%BF%E3%82%93%E3%81%AA%E3%80%82')">例文帳に追加</a></span></p><p class=qotCJ>やあ，みんな。<span>&nbsp;-&nbsp;愛知県総合教育センター Classroom English（教室英語集）</span></p></div><span class=qotHS>例文</span><div class=qotC><p class=qotCE><b>Hello</b>, everyone.<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('ORG_EMAIL_SENTENCE',-1,'Hello%2C+everyone.','%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%81%BF%E3%81%AA%E3%81%95%E3%82%93%E3%80%82')">例文帳に追加</a></span></p><p class=qotCJ>こんにちは、みなさん。<span>&nbsp;-&nbsp;Weblio Email例文集</span></p></div><a href="https://ejje.weblio.jp/sentence/content/Hello" title="例文の一覧ページ">>>例文の一覧を見る</a></div><br class=clr></div></div>
+<div class="mainBlock">
+<div class="flex-rectangle-ads-frame">
+<div>
+<script type="text/javascript">
+<!--
+/* cp975 */document.write('<!-- /2211331/Weblio_PC_ejje_Middle2Left_300_250 -->');document.write('<div id="div-gpt-ad-1550026040892-0" style="height:280px; width:336px;">');googletag.cmd.push(function() { googletag.display('div-gpt-ad-1550026040892-0'); });document.write('</' + 'div>');
+//-->
+</script>
+
+</div>
+<div>
+<script type="text/javascript">
+<!--
+/* cp976 */document.write('<!-- /2211331/Weblio_PC_ejje_Middle2Right_300_250 -->');document.write('<div id="div-gpt-ad-1550026173177-0" style="height:280px; width:336px;">');googletag.cmd.push(function() { googletag.display('div-gpt-ad-1550026173177-0'); });document.write('</' + 'div>');
+//-->
+</script>
+
+</div>
+</div><br class=clr>
+</div>
+<div class="mainBlock free-member-features"><div class="features-title">調べた例文を記録して、 効率よく覚えましょう</div><div class="features-subtitle">Weblio会員登録<span class="red">無料</span>で登録できます！</div><ul class="features"><li><div class="feature-name">履歴機能</div><img src="https://weblio.hs.llnwd.net/e7/img/icons/737-history.png" alt="履歴機能"><div class="feature-desc">過去に調べた<br>単語を確認!</div></li><li><div class="feature-name">語彙力診断</div><img src="https://weblio.hs.llnwd.net/e7/img/icons/737-vocab.png" alt="語彙力診断"><div class="feature-desc">診断回数が<br>増える!</div></li><li><div class="feature-name">マイ単語帳</div><img src="https://weblio.hs.llnwd.net/e7/img/icons/737-tangocho.png" alt="マイ単語帳"><div class="feature-desc">便利な<br>学習機能付き!</div></li><li><div class="feature-name">マイ例文帳</div><img src="https://weblio.hs.llnwd.net/e7/img/icons/737-reibuncho.png" alt="マイ例文帳"><div class="feature-desc">文章で<br>単語を理解!</div></li><li class="more-features"><img src="https://weblio.hs.llnwd.net/e7/img/icons/other_useful_feature.png" alt="その他にも便利な機能が満載！"></li></ul><a href="https://uwl.weblio.jp?wpm_category=free&wpm_action=content-pc-guest&wpm_label=below-sentence-block" class="free-register-button">Weblio会員登録<span class="small">(無料)</span>はこちらから</a></div></div>
+<!-- 終了 #hideDictPrsKENEJ -->
+<div id=hideDictMsgEGTEJ></div>
+<!-- 開始 #hideDictPrsEGTEJ -->
+<div class=hideDictPrs id=hideDictPrsEGTEJ>
+<div class="mainBlock hlt_EGTEJ">
+<!--開始 Eゲイト英和辞典-->
+<a name="EGTEJ"></a>
+<table class="wrp"><tr><td class="left"><h2 class=dictNm><a href="https://ejje.weblio.jp/category/dictionary/egtej/a" title="Eゲイト英和辞典">Eゲイト英和辞典での「Hello」の意味</a></h2></td>
+<td class="right">
+<div style="float:right;">
+
+</div>
+</td></tr></table>
+<b class=clrBc></b>
+<div class=kijiWrp>
+<div class=hideDictWrp>
+<p class=hideDictBtn onclick="toggleHideDictConfirm('hideDictConfirmEGTEJ');"></p>
+<div class=hideDictConfirm style="display:none;" id=hideDictConfirmEGTEJ>
+<div class=hideDictConfirmMsg onclick="popUpPremiumModalWindowHideDict('https://ejje.weblio.jp/content/Hello', false);"><span class=hideDictConfirmMsgX>×</span> この辞書を今後表示しない</div>
+<div class=hideDictConfirmLink>※辞書の非表示は、<a href="https://ejje.weblio.jp/dict-order-setting" target="_blank">設定画面</a>から変更可能</div>
+</div>
+</div>
+<div class=kiji>
+<h2 class=midashigo title="hello">hello</h2>
+<div class=Egtej>
+<span class=EgtejLb>音節</span><span class=EgtejRSpc>hel･lo</span><span class=EgtejLb>発音記号・<a href="https://ejje.weblio.jp/content/%E8%AA%AD%E3%81%BF%E6%96%B9" title="読み方の英語" class=crosslink>読み方</a></span><span class=EgtejRSpc>&#x0068;&#x0065;&#x006C;&#x006F;&#x0301;&#x028A;, &#x0068;&#x0259;-</span><br><span class=EgtejBld>やあ</span>，<span class=EgtejBld><a href="https://ejje.weblio.jp/content/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF" title="こんにちはの英語" class=crosslink>こんにちは</a></span>；<span class=EgtejBld><a href="https://ejje.weblio.jp/content/%E3%82%82%E3%81%97%E3%82%82%E3%81%97" title="もしもしの英語" class=crosslink>もしもし</a></span><a name=kantoushi id=kantoushi class=EgtejAncTgt></a><br><span class=EgtejSub>間投詞</span><div class=EgtejWrp><span class=EgtejCcl>1</span><span class=EgtejBld>やあ，<a href="https://ejje.weblio.jp/content/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF" title="こんにちはの英語" class=crosslink>こんにちは</a>；</span><a href="https://ejje.weblio.jp/content/%E3%81%8A%E3%83%BC%E3%81%84" title="おーいの英語" class=crosslink>おーい</a>（<a href="https://ejje.weblio.jp/content/%E3%81%82%E3%81%84%E3%81%95%E3%81%A4" title="あいさつの英語" class=crosslink>あいさつ</a>や<a href="https://ejje.weblio.jp/content/%E6%B3%A8%E6%84%8F%E3%82%92%E5%BC%95%E3%81%8F" title="注意を引くの英語" class=crosslink>注意を引く</a>ときなどに<a href="https://ejje.weblio.jp/content/%E7%94%A8%E3%81%84%E3%82%8B" title="用いるの英語" class=crosslink>用いる</a>）<div class=EgtejYrAr><table class=EgtejYrTb><tr><td><ul><li><span class=EgtejBld>Hello, <a href="https://ejje.weblio.jp/content/Jim" title="Jimの意味" class=crosslink>Jim</a>!</span><br>やあ<a href="https://ejje.weblio.jp/content/%E3%82%B8%E3%83%A0" title="ジムの英語" class=crosslink>ジム</a>，<a href="https://ejje.weblio.jp/content/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF" title="こんにちはの英語" class=crosslink>こんにちは</a></li><li><span class=EgtejBld>Hello there.</span><br>やあ</li><li><span class=EgtejBld>Hello! Anybody <a href="https://ejje.weblio.jp/content/in" title="inの意味" class=crosslink>in</a> <a href="https://ejje.weblio.jp/content/there" title="thereの意味" class=crosslink>there</a>?</span><br><a href="https://ejje.weblio.jp/content/%E3%81%8A%E3%83%BC%E3%81%84" title="おーいの英語" class=crosslink>おーい</a>，<a href="https://ejje.weblio.jp/content/%E3%81%A0%E3%82%8C%E3%81%8B" title="だれかの英語" class=crosslink>だれか</a><a href="https://ejje.weblio.jp/content/%E4%B8%AD%E3%81%AB" title="中にの英語" class=crosslink>中に</a><a href="https://ejje.weblio.jp/content/%E3%81%84%E3%82%8B%E3%81%8B" title="いるかの英語" class=crosslink>いるか</a>い?</li></ul></td></tr></table></div><br><span class=EgtejCcl>2</span>（<a href="https://ejje.weblio.jp/content/%E9%9B%BB%E8%A9%B1%E3%81%AE%E5%BF%9C%E7%AD%94" title="電話の応答の英語" class=crosslink>電話の応答</a>で）<span class=EgtejBld><a href="https://ejje.weblio.jp/content/%E3%82%82%E3%81%97%E3%82%82%E3%81%97" title="もしもしの英語" class=crosslink>もしもし</a></span><div class=EgtejYrAr><table class=EgtejYrTb><tr><td><ul><li><span class=EgtejBld>Hello, <a href="https://ejje.weblio.jp/content/this+is" title="this isの意味" class=crosslink>this is</a> <a href="https://ejje.weblio.jp/content/Jones" title="Jonesの意味" class=crosslink>Jones</a> speaking.</span><br><a href="https://ejje.weblio.jp/content/%E3%82%82%E3%81%97%E3%82%82%E3%81%97" title="もしもしの英語" class=crosslink>もしもし</a>，<a href="https://ejje.weblio.jp/content/%E3%81%93%E3%81%A1%E3%82%89%E3%81%AF" title="こちらはの英語" class=crosslink>こちらは</a><a href="https://ejje.weblio.jp/content/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA" title="ジョーンズの英語" class=crosslink>ジョーンズ</a>です</li></ul></td></tr></table></div><br><span class=EgtejCcl>3</span>((<a href="https://ejje.weblio.jp/content/%E3%81%8A%E3%82%82%E3%81%AB" title="おもにの英語" class=crosslink>おもに</a><a href="https://ejje.weblio.jp/content/%E8%8B%B1" title="英の英語" class=crosslink>英</a>))おや，あら（<a href="https://ejje.weblio.jp/content/%E9%A9%9A%E3%81%8D" title="驚きの英語" class=crosslink>驚き</a><a href="https://ejje.weblio.jp/content/%E3%82%92%E8%A1%A8%E3%81%99" title="を表すの英語" class=crosslink>を表す</a>）</div><a name=meishi id=meishi class=EgtejAncTgt></a><br><span class=EgtejSub>名詞</span><div class=EgtejWrp>やあ［<a href="https://ejje.weblio.jp/content/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF" title="こんにちはの英語" class=crosslink>こんにちは</a>］<a href="https://ejje.weblio.jp/content/%E3%81%A8%E3%81%84%E3%81%86" title="というの英語" class=crosslink>という</a><a href="https://ejje.weblio.jp/content/%E3%81%82%E3%81%84%E3%81%95%E3%81%A4" title="あいさつの英語" class=crosslink>あいさつ</a>；<a href="https://ejje.weblio.jp/content/%E3%81%8A%E3%83%BC%E3%81%84" title="おーいの英語" class=crosslink>おーい</a><a href="https://ejje.weblio.jp/content/%E3%81%A8%E3%81%84%E3%81%86" title="というの英語" class=crosslink>という</a><a href="https://ejje.weblio.jp/content/%E5%91%BC%E3%81%B3%E3%81%8B%E3%81%91" title="呼びかけの英語" class=crosslink>呼びかけ</a><div class=EgtejYrAr><table class=EgtejYrTb><tr><td><ul><li><span class=EgtejBld><a href="https://ejje.weblio.jp/content/He" title="Heの意味" class=crosslink>He</a> <a href="https://ejje.weblio.jp/content/gave" title="gaveの意味" class=crosslink>gave</a> <a href="https://ejje.weblio.jp/content/me+a" title="me aの意味" class=crosslink>me a</a> <a href="https://ejje.weblio.jp/content/cheerful" title="cheerfulの意味" class=crosslink>cheerful</a> hello.</span><br><a href="https://ejje.weblio.jp/content/%E5%BD%BC%E3%81%AF" title="彼はの英語" class=crosslink>彼は</a><a href="https://ejje.weblio.jp/content/%E5%BF%AB%E6%B4%BB%E3%81%AB" title="快活にの英語" class=crosslink>快活に</a>［<a href="https://ejje.weblio.jp/content/%E3%82%80%E3%81%A3%E3%81%A4%E3%82%8A%E3%81%97%E3%81%9F" title="むっつりしたの英語" class=crosslink>むっつりした</a><a href="https://ejje.weblio.jp/content/%E9%A1%94" title="顔の英語" class=crosslink>顔</a>で］<a href="https://ejje.weblio.jp/content/%E3%82%84%E3%81%82%E3%81%A8" title="やあとの英語" class=crosslink>やあと</a><a href="https://ejje.weblio.jp/content/%E8%A8%80%E3%81%A3%E3%81%9F" title="言ったの英語" class=crosslink>言った</a></li></ul></td></tr></table></div></div><div class=EgtejWrp><br><span class=EgtejLb>成句</span><span class=EgtejBld><a href="https://ejje.weblio.jp/content/say+hello+to" title="say hello toの意味" class=crosslink>say hello to</a> <a href="https://ejje.weblio.jp/content/..." title="...の意味" class=crosslink>...</a></span><br><a href="https://ejje.weblio.jp/content/%E2%80%A6" title="…の英語" class=crosslink>…</a><span class=EgtejBld>に<a href="https://ejje.weblio.jp/content/%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%A8%E8%A8%80%E3%81%86" title="よろしくと言うの英語" class=crosslink>よろしくと言う</a></span>（<a href="https://ejje.weblio.jp/content/%E8%A6%AA%E3%81%97%E3%81%84%E9%96%93%E6%9F%84" title="親しい間柄の英語" class=crosslink>親しい間柄</a>で<a href="https://ejje.weblio.jp/content/%E7%94%A8%E3%81%84%E3%82%8B" title="用いるの英語" class=crosslink>用いる</a>）<br><div class=EgtejYrAr><table class=EgtejYrTb><tr><td><ul><li><span class=EgtejBld><a href="https://ejje.weblio.jp/content/Say+hello+to" title="Say hello toの意味" class=crosslink>Say hello to</a> your wife.</span><br><a href="https://ejje.weblio.jp/content/%E5%A5%A5%E3%81%95%E3%82%93%E3%81%AB%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F" title="奥さんによろしくの英語" class=crosslink>奥さんによろしく</a></li></ul></td></tr></table></div></div><a name=doushi id=doushi class=EgtejAncTgt></a><br><span class=EgtejSub>動詞</span><a name=jidoushi id=jidoushi class=EgtejAncTgt></a><br><span class=EgtejSubS>自動詞</span><div class=EgtejWrp>やあ［<a href="https://ejje.weblio.jp/content/%E3%81%8A%E3%83%BC%E3%81%84" title="おーいの英語" class=crosslink>おーい</a>］<a href="https://ejje.weblio.jp/content/%E3%81%A8%E8%A8%80%E3%81%86" title="と言うの英語" class=crosslink>と言う</a></div><a name=tadoushi id=tadoushi class=EgtejAncTgt></a><br><span class=EgtejSubS>他動詞</span><div class=EgtejWrp>（<a href="https://ejje.weblio.jp/content/%E4%BA%BA" title="人の英語" class=crosslink>人</a>）にやあ［<a href="https://ejje.weblio.jp/content/%E3%81%8A%E3%83%BC%E3%81%84" title="おーいの英語" class=crosslink>おーい</a>］<a href="https://ejje.weblio.jp/content/%E3%81%A8%E8%A8%80%E3%81%86" title="と言うの英語" class=crosslink>と言う</a></div>
+</div>
+</div>
+
+
+<div class=kijiFoot>
+<span class=wList><a href="https://ejje.weblio.jp/category/dictionary/egtej/a" title="索引トップ">索引</a></span><span class=wList><a href="https://ejje.weblio.jp/category/dictionary/egtej/h/8" title="用語の索引">用語索引</a></span><span class=wList><a href="https://ejje.weblio.jp/ranking/dictionary/egtej" title="ランキング">ランキング</a></span></div>
+</div>
+<!--終了 Eゲイト英和辞典-->
+<div class=clr></div>
+</div>
+</div>
+<!-- 終了 #hideDictPrsEGTEJ -->
+<div id=hideDictMsgJSTKG></div>
+<!-- 開始 #hideDictPrsJSTKG -->
+<div class=hideDictPrs id=hideDictPrsJSTKG>
+<div class="mainBlock hlt_JSTKG">
+<!--開始 JST科学技術用語日英対訳辞書-->
+<a name="JSTKG"></a>
+<table class="wrp"><tr><td class="left"><h2 class=dictNm><a href="https://ejje.weblio.jp/category/academic/jstkg" title="JST科学技術用語日英対訳辞書">JST科学技術用語日英対訳辞書での「Hello」の意味</a></h2></td>
+<td class="right">
+<div style="float:right;">
+
+</div>
+</td></tr></table>
+<b class=clrBc></b>
+<div class=kijiWrp>
+<div class=hideDictWrp>
+<p class=hideDictBtn onclick="toggleHideDictConfirm('hideDictConfirmJSTKG');"></p>
+<div class=hideDictConfirm style="display:none;" id=hideDictConfirmJSTKG>
+<div class=hideDictConfirmMsg onclick="popUpPremiumModalWindowHideDict('https://ejje.weblio.jp/content/Hello', false);"><span class=hideDictConfirmMsgX>×</span> この辞書を今後表示しない</div>
+<div class=hideDictConfirmLink>※辞書の非表示は、<a href="https://ejje.weblio.jp/dict-order-setting" target="_blank">設定画面</a>から変更可能</div>
+</div>
+</div>
+<div class=kiji>
+<h2 class=midashigo title="hello">hello</h2>
+<div class=Jstkg>
+<a href="https://ejje.weblio.jp/content/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF" title="こんにちはの英語" class=crosslink>こんにちは</a>
+</div>
+</div>
+
+
+<div class=kijiFoot>
+<span class=wList><a href="https://ejje.weblio.jp/category/academic/jstkg" title="索引トップ">索引</a></span><span class=wList><a href="https://ejje.weblio.jp/category/academic/jstkg/h/62" title="用語の索引">用語索引</a></span><span class=wList><a href="https://ejje.weblio.jp/ranking/academic/jstkg" title="ランキング">ランキング</a></span></div>
+</div>
+<!--終了 JST科学技術用語日英対訳辞書-->
+<div class=clr></div>
+</div>
+</div>
+<!-- 終了 #hideDictPrsJSTKG -->
+<div id=hideDictMsgNWNEJ></div>
+<!-- 開始 #hideDictPrsNWNEJ -->
+<div class=hideDictPrs id=hideDictPrsNWNEJ>
+<div class="mainBlock hlt_NWNEJ">
+<!--開始 日本語WordNet(英和)-->
+<a name="NWNEJ"></a>
+<table class="wrp"><tr><td class="left"><h2 class=dictNm><a href="https://ejje.weblio.jp/category/dictionary/nwnej" title="日本語WordNet">日本語WordNet(英和)での「Hello」の意味</a></h2></td>
+<td class="right">
+<div style="float:right;">
+
+</div>
+</td></tr></table>
+<b class=clrBc></b>
+<div class=kijiWrp>
+<div class=hideDictWrp>
+<p class=hideDictBtn onclick="toggleHideDictConfirm('hideDictConfirmNWNEJ');"></p>
+<div class=hideDictConfirm style="display:none;" id=hideDictConfirmNWNEJ>
+<div class=hideDictConfirmMsg onclick="popUpPremiumModalWindowHideDict('https://ejje.weblio.jp/content/Hello', false);"><span class=hideDictConfirmMsgX>×</span> この辞書を今後表示しない</div>
+<div class=hideDictConfirmLink>※辞書の非表示は、<a href="https://ejje.weblio.jp/dict-order-setting" target="_blank">設定画面</a>から変更可能</div>
+</div>
+</div>
+<div class=kiji>
+<h2 class=midashigo title="hello">hello</h2>
+<div class=Nwnej>
+<div class=nwnejP><span class=pofsp><!--AVOID_CROSSLINK-->名詞<!--/AVOID_CROSSLINK--></span></div><div class=nwnejSEnL>1</div><div class=nwnejSEnR><div class=nwnejS><p><a href="https://ejje.weblio.jp/content/%E6%8C%A8%E6%8B%B6%E3%81%AE" title="挨拶のの英語" class=crosslink>挨拶の</a><a href="https://ejje.weblio.jp/content/%E8%A1%A8%E7%8F%BE" title="表現の英語" class=crosslink>表現</a></p><p>(<a href="https://ejje.weblio.jp/content/an" title="anの意味" class=crosslink>an</a> <a href="https://ejje.weblio.jp/content/expression+of" title="expression ofの意味" class=crosslink>expression of</a> <a href="https://ejje.weblio.jp/content/greeting" title="greetingの意味" class=crosslink>greeting</a>)</p></div></div><br class=clr><table class=nwnejYr><tr><td class=nwnejYrR><div class=nwnejYrHd><div class=nwnejYrLn><span class=nwnejYrE><a href="https://ejje.weblio.jp/content/every+morning" title="every morningの意味" class=crosslink>every morning</a> they <a href="https://ejje.weblio.jp/content/exchanged" title="exchangedの意味" class=crosslink>exchanged</a> <a href="https://ejje.weblio.jp/content/polite" title="politeの意味" class=crosslink>polite</a> <a href="https://ejje.weblio.jp/content/hellos" title="hellosの意味" class=crosslink>hellos</a></span> <span class=nwnejYrJ><a href="https://ejje.weblio.jp/content/%E6%AF%8E%E6%9C%9D" title="毎朝の英語" class=crosslink>毎朝</a><a href="https://ejje.weblio.jp/content/%E5%BD%BC%E3%82%89%E3%81%AF" title="彼らはの英語" class=crosslink>彼らは</a><a href="https://ejje.weblio.jp/content/%E4%B8%81%E5%AF%A7%E3%81%AA" title="丁寧なの英語" class=crosslink>丁寧な</a><a href="https://ejje.weblio.jp/content/%E6%8C%A8%E6%8B%B6" title="挨拶の英語" class=crosslink>挨拶</a>を<a href="https://ejje.weblio.jp/content/%E4%BA%A4" title="交の英語" class=crosslink>交</a>わした</span></div></div></td></tr></table>
+<div class=nwnejThL><a href="https://ejje.weblio.jp/english-thesaurus/content/hello" title="">「hello」に関する類語一覧</a></div>
+</div>
+</div>
+
+
+<div class=kijiFoot>
+<span class=wList><a href="https://ejje.weblio.jp/category/dictionary/nwnej" title="索引トップ">索引</a></span><span class=wList><a href="https://ejje.weblio.jp/category/dictionary/nwnej/h/21" title="用語の索引">用語索引</a></span><span class=wList><a href="https://ejje.weblio.jp/ranking/dictionary/nwnej" title="ランキング">ランキング</a></span></div>
+</div>
+<!--終了 日本語WordNet(英和)-->
+<div class=clr></div>
+</div>
+</div>
+<!-- 終了 #hideDictPrsNWNEJ -->
+<div id=hideDictMsgCRLCJ></div>
+<!-- 開始 #hideDictPrsCRLCJ -->
+<div class=hideDictPrs id=hideDictPrsCRLCJ>
+<div class="mainBlock hlt_CRLCJ">
+<!--開始 クロスランゲージ 37分野専門語辞書-->
+<a name="CRLCJ"></a>
+<table class="wrp"><tr><td class="left"><h2 class=dictNm><a href="https://ejje.weblio.jp/category/dictionary/crlcj" title="英和専門語辞典">クロスランゲージ 37分野専門語辞書での「Hello」の意味</a></h2></td>
+<td class="right">
+<div style="float:right;">
+
+</div>
+</td></tr></table>
+<b class=clrBc></b>
+<div class=kijiWrp>
+<div class=hideDictWrp>
+<p class=hideDictBtn onclick="toggleHideDictConfirm('hideDictConfirmCRLCJ');"></p>
+<div class=hideDictConfirm style="display:none;" id=hideDictConfirmCRLCJ>
+<div class=hideDictConfirmMsg onclick="popUpPremiumModalWindowHideDict('https://ejje.weblio.jp/content/Hello', false);"><span class=hideDictConfirmMsgX>×</span> この辞書を今後表示しない</div>
+<div class=hideDictConfirmLink>※辞書の非表示は、<a href="https://ejje.weblio.jp/dict-order-setting" target="_blank">設定画面</a>から変更可能</div>
+</div>
+</div>
+<div class=kiji>
+<h2 class=midashigo title="Hello">Hello</h2>
+<div class=Crlcj>
+<a href="https://ejje.weblio.jp/content/%E3%83%8F%E3%83%AD%E3%83%BC" title="ハローの英語" class=crosslink>ハロー</a>（<a href="https://ejje.weblio.jp/content/%E5%87%BA%E9%80%A2%E3%81%84" title="出逢いの英語" class=crosslink>出逢い</a>の<a href="https://ejje.weblio.jp/content/%E6%89%89" title="扉の英語" class=crosslink>扉</a>）
+</div>
+</div>
+
+
+<div class=kijiFoot>
+<span class=wList><a href="https://ejje.weblio.jp/category/dictionary/crlcj" title="索引トップ">索引</a></span><span class=wList><a href="https://ejje.weblio.jp/category/dictionary/crlcj/h/95" title="用語の索引">用語索引</a></span><span class=wList><a href="https://ejje.weblio.jp/ranking/dictionary/crlcj" title="ランキング">ランキング</a></span></div>
+</div>
+<!--終了 クロスランゲージ 37分野専門語辞書-->
+<div class=clr></div>
+</div>
+</div>
+<!-- 終了 #hideDictPrsCRLCJ -->
+<div id=hideDictMsgWEHGJ></div>
+<!-- 開始 #hideDictPrsWEHGJ -->
+<div class=hideDictPrs id=hideDictPrsWEHGJ>
+<div class="mainBlock hlt_WEHGJ">
+<!--開始 Weblio英語表現辞典-->
+<a name="WEHGJ"></a>
+<table class="wrp"><tr><td class="left"><h2 class=dictNm><a href="https://ejje.weblio.jp/category/dictionary/wehgj" title="英語表現辞典">Weblio英語表現辞典での「Hello」の意味</a></h2></td>
+<td class="right">
+<div style="float:right;">
+
+</div>
+</td></tr></table>
+<b class=clrBc></b>
+<div class=kijiWrp>
+<div class=hideDictWrp>
+<p class=hideDictBtn onclick="toggleHideDictConfirm('hideDictConfirmWEHGJ');"></p>
+<div class=hideDictConfirm style="display:none;" id=hideDictConfirmWEHGJ>
+<div class=hideDictConfirmMsg onclick="popUpPremiumModalWindowHideDict('https://ejje.weblio.jp/content/Hello', false);"><span class=hideDictConfirmMsgX>×</span> この辞書を今後表示しない</div>
+<div class=hideDictConfirmLink>※辞書の非表示は、<a href="https://ejje.weblio.jp/dict-order-setting" target="_blank">設定画面</a>から変更可能</div>
+</div>
+</div>
+<div class=kiji>
+<h2 class=midashigo title="Hello">Hello</h2>
+<div class=Wehgj>
+<p class=wehgjT><!--AVOID_CROSSLINK--><span>訳語</span><!--/AVOID_CROSSLINK--> <a href="https://ejje.weblio.jp/content/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF" title="こんにちはの英語" class=crosslink>こんにちは</a></p>
+</div>
+<hr class=dot>
+<h2 class=midashigo title="hello">hello</h2>
+<div class=Wehgj>
+<p class=wehgjT><!--AVOID_CROSSLINK--><span>訳語</span><!--/AVOID_CROSSLINK--> <a href="https://ejje.weblio.jp/content/%E3%81%AF%E3%82%8D%E3%83%BC" title="はろーの英語" class=crosslink>はろー</a></p>
+</div>
+</div>
+
+
+<div class=kijiFoot>
+<span class=wList><a href="https://ejje.weblio.jp/category/dictionary/wehgj" title="索引トップ">索引</a></span><span class=wList><a href="https://ejje.weblio.jp/category/dictionary/wehgj/h/30" title="用語の索引">用語索引</a></span><span class=wList><a href="https://ejje.weblio.jp/ranking/dictionary/wehgj" title="ランキング">ランキング</a></span></div>
+</div>
+<!--終了 Weblio英語表現辞典-->
+<div class=clr></div>
+</div>
+</div>
+<!-- 終了 #hideDictPrsWEHGJ -->
+<div id=hideDictMsgMLERJ></div>
+<!-- 開始 #hideDictPrsMLERJ -->
+<div class=hideDictPrs id=hideDictPrsMLERJ>
+<div class="mainBlock hlt_MLERJ">
+<!--開始 メール英語例文辞書-->
+<a name="MLERJ"></a>
+<table class="wrp"><tr><td class="left"><h2 class=dictNm><a href="https://ejje.weblio.jp/category/dictionary/mlerj" title="メール英語例文辞書">メール英語例文辞書での「Hello」の意味</a></h2></td>
+<td class="right">
+<div style="float:right;">
+
+</div>
+</td></tr></table>
+<b class=clrBc></b>
+<div class=kijiWrp>
+<div class=hideDictWrp>
+<p class=hideDictBtn onclick="toggleHideDictConfirm('hideDictConfirmMLERJ');"></p>
+<div class=hideDictConfirm style="display:none;" id=hideDictConfirmMLERJ>
+<div class=hideDictConfirmMsg onclick="popUpPremiumModalWindowHideDict('https://ejje.weblio.jp/content/Hello', false);"><span class=hideDictConfirmMsgX>×</span> この辞書を今後表示しない</div>
+<div class=hideDictConfirmLink>※辞書の非表示は、<a href="https://ejje.weblio.jp/dict-order-setting" target="_blank">設定画面</a>から変更可能</div>
+</div>
+</div>
+<div class=kiji>
+<h2 class=midashigo title="Hello.">Hello.</h2>
+<div class=Mlerj>
+お世話になってます
+</div>
+</div>
+
+
+<div class=kijiFoot>
+<span class=wList><a href="https://ejje.weblio.jp/category/dictionary/mlerj" title="索引トップ">索引</a></span><span class=wList><a href="https://ejje.weblio.jp/category/dictionary/mlerj/h/97" title="用語の索引">用語索引</a></span><span class=wList><a href="https://ejje.weblio.jp/ranking/dictionary/mlerj" title="ランキング">ランキング</a></span></div>
+</div>
+<!--終了 メール英語例文辞書-->
+<div class=clr></div>
+</div>
+</div>
+<!-- 終了 #hideDictPrsMLERJ -->
+<div id=hideDictMsgSTWDJ></div>
+<!-- 開始 #hideDictPrsSTWDJ -->
+<div class=hideDictPrs id=hideDictPrsSTWDJ>
+<div class="mainBlock hlt_STWDJ">
+<!--開始 斎藤和英大辞典-->
+<a name="STWDJ"></a>
+<table class="wrp"><tr><td class="left"><h2 class=dictNm><a href="https://ejje.weblio.jp/category/dictionary/stwdj" title="斎藤和英大辞典">斎藤和英大辞典での「Hello」の意味</a></h2></td>
+<td class="right">
+<div style="float:right;">
+
+</div>
+</td></tr></table>
+<b class=clrBc></b>
+<div class=kijiWrp>
+<div class=hideDictWrp>
+<p class=hideDictBtn onclick="toggleHideDictConfirm('hideDictConfirmSTWDJ');"></p>
+<div class=hideDictConfirm style="display:none;" id=hideDictConfirmSTWDJ>
+<div class=hideDictConfirmMsg onclick="popUpPremiumModalWindowHideDict('https://ejje.weblio.jp/content/Hello', false);"><span class=hideDictConfirmMsgX>×</span> この辞書を今後表示しない</div>
+<div class=hideDictConfirmLink>※辞書の非表示は、<a href="https://ejje.weblio.jp/dict-order-setting" target="_blank">設定画面</a>から変更可能</div>
+</div>
+</div>
+<div class=kiji>
+<h2 class=midashigo title="Hello!">Hello!</h2>
+<div class=Stwdj>
+<a href="https://ejje.weblio.jp/content/%E3%82%82%E3%81%97%E3%82%82%E3%81%97" title="もしもしの英語" class=crosslink>もしもし</a>
+</div>
+</div>
+
+
+<div class=kijiFoot>
+<span class=wList><a href="https://ejje.weblio.jp/category/dictionary/stwdj" title="索引トップ">索引</a></span><span class=wList><a href="https://ejje.weblio.jp/category/dictionary/stwdj/h/12" title="用語の索引">用語索引</a></span><span class=wList><a href="https://ejje.weblio.jp/ranking/dictionary/stwdj" title="ランキング">ランキング</a></span></div>
+</div>
+<!--終了 斎藤和英大辞典-->
+<div class=clr></div>
+</div>
+</div>
+<!-- 終了 #hideDictPrsSTWDJ -->
+<div id=hideDictMsgWSMYG></div>
+<!-- 開始 #hideDictPrsWSMYG -->
+<div class=hideDictPrs id=hideDictPrsWSMYG>
+<div class="mainBlock hlt_WSMYG">
+<!--開始 Weblio専門用語対訳辞書-->
+<a name="WSMYG"></a>
+<table class="wrp"><tr><td class="left"><h2 class=dictNm><a href="https://ejje.weblio.jp/category/dictionary/wsmyg" title="専門用語対訳辞書">Weblio専門用語対訳辞書での「Hello」の意味</a></h2></td>
+<td class="right">
+<div style="float:right;">
+
+</div>
+</td></tr></table>
+<b class=clrBc></b>
+<div class=kijiWrp>
+<div class=hideDictWrp>
+<p class=hideDictBtn onclick="toggleHideDictConfirm('hideDictConfirmWSMYG');"></p>
+<div class=hideDictConfirm style="display:none;" id=hideDictConfirmWSMYG>
+<div class=hideDictConfirmMsg onclick="popUpPremiumModalWindowHideDict('https://ejje.weblio.jp/content/Hello', false);"><span class=hideDictConfirmMsgX>×</span> この辞書を今後表示しない</div>
+<div class=hideDictConfirmLink>※辞書の非表示は、<a href="https://ejje.weblio.jp/dict-order-setting" target="_blank">設定画面</a>から変更可能</div>
+</div>
+</div>
+<div class=kiji>
+<h2 class=midashigo title="Hello">Hello</h2>
+<div class=Wsmyg>
+<p><a href="https://ejje.weblio.jp/content/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF" title="こんにちはの英語" class=crosslink>こんにちは</a></p><p class=wsmygC><!--AVOID_CROSSLINK--><span>カテゴリ</span><!--/AVOID_CROSSLINK--> <a href="https://ejje.weblio.jp/content/%E6%8A%80%E8%A1%93%E7%94%A8%E8%AA%9E" title="技術用語の英語" class=crosslink>技術用語</a></p>
+
+</div>
+<div class=Wejty><div class=wejtyInfo>
+Weblio専門用語対訳辞書はプログラムで機械的に意味や英語表現を生成しているため、不適切な項目が含まれていることもあります。ご了承くださいませ。
+</div></div>
+</div>
+
+
+<div class=kijiFoot>
+<span class=wList><a href="https://ejje.weblio.jp/category/dictionary/wsmyg" title="索引トップ">索引</a></span><span class=wList><a href="https://ejje.weblio.jp/category/dictionary/wsmyg/h/18" title="用語の索引">用語索引</a></span><span class=wList><a href="https://ejje.weblio.jp/ranking/dictionary/wsmyg" title="ランキング">ランキング</a></span></div>
+</div>
+<!--終了 Weblio専門用語対訳辞書-->
+<div class=clr></div>
+</div>
+</div>
+<!-- 終了 #hideDictPrsWSMYG -->
+<div id=hideDictMsgWEJTY></div>
+<!-- 開始 #hideDictPrsWEJTY -->
+<div class=hideDictPrs id=hideDictPrsWEJTY>
+<div class="mainBlock hlt_WEJTY">
+<!--開始 Weblio英和対訳辞書-->
+<a name="WEJTY"></a>
+<table class="wrp"><tr><td class="left"><h2 class=dictNm><a href="https://ejje.weblio.jp/category/dictionary/wejty" title="英和対訳">Weblio英和対訳辞書での「Hello」の意味</a></h2></td>
+<td class="right">
+<div style="float:right;">
+
+</div>
+</td></tr></table>
+<b class=clrBc></b>
+<div class=kijiWrp>
+<div class=hideDictWrp>
+<p class=hideDictBtn onclick="toggleHideDictConfirm('hideDictConfirmWEJTY');"></p>
+<div class=hideDictConfirm style="display:none;" id=hideDictConfirmWEJTY>
+<div class=hideDictConfirmMsg onclick="popUpPremiumModalWindowHideDict('https://ejje.weblio.jp/content/Hello', false);"><span class=hideDictConfirmMsgX>×</span> この辞書を今後表示しない</div>
+<div class=hideDictConfirmLink>※辞書の非表示は、<a href="https://ejje.weblio.jp/dict-order-setting" target="_blank">設定画面</a>から変更可能</div>
+</div>
+</div>
+<div class=kiji>
+<h2 class=midashigo title="Hello">Hello</h2>
+<div class=Wejty>
+<a href="https://ejje.weblio.jp/content/%E3%82%A8%E3%83%AD" title="エロの英語" class=crosslink>エロ</a>； <a href="https://ejje.weblio.jp/content/%E3%82%A8%E3%83%AD%E3%83%BC" title="エローの英語" class=crosslink>エロー</a>； <a href="https://ejje.weblio.jp/content/%E3%83%98%E3%83%AD" title="ヘロの英語" class=crosslink>ヘロ</a>
+</div>
+<hr class=dot>
+<h2 class=midashigo title="Hello">Hello</h2>
+<div class=Wejty>
+<a href="https://ejje.weblio.jp/content/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%82%B0%E3%83%83%E3%83%89%E3%83%90%E3%82%A4" title="ハロー・グッドバイの英語" class=crosslink>ハロー・グッドバイ</a><br><div class=addBody>「<a href="https://ejje.weblio.jp/content/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%82%B0%E3%83%83%E3%83%89%E3%83%90%E3%82%A4" title="ハロー・グッドバイの英語" class=crosslink>ハロー・グッドバイ</a>」（<a href="https://ejje.weblio.jp/content/%E8%8B%B1%E8%AA%9E" title="英語の英語" class=crosslink>英語</a>: Hello, <a href="https://ejje.weblio.jp/content/Goodbye" title="Goodbyeの意味" class=crosslink>Goodbye</a>）は、<a href="https://ejje.weblio.jp/content/%E3%83%93%E3%83%BC%E3%83%88%E3%83%AB%E3%82%BA" title="ビートルズの英語" class=crosslink>ビートルズ</a>の<a href="https://ejje.weblio.jp/content/%E6%A5%BD%E6%9B%B2" title="楽曲の英語" class=crosslink>楽曲</a>。</div>
+</div>
+<hr class=dot>
+<h2 class=midashigo title="hello">hello</h2>
+<div class=Wejty>
+<a href="https://ejje.weblio.jp/content/%E4%BB%8A%E6%97%A5%E3%82%8F" title="今日わの英語" class=crosslink>今日わ</a>, <a href="https://ejje.weblio.jp/content/%E4%BB%8A%E6%97%A5%E3%81%AF" title="今日はの英語" class=crosslink>今日は</a>, チョリース, <a href="https://ejje.weblio.jp/content/%E3%82%82%E3%81%97%E3%82%82%E3%81%97" title="もしもしの英語" class=crosslink>もしもし</a>, <a href="https://ejje.weblio.jp/content/%E3%83%8F%E3%83%AD%E3%83%BC" title="ハローの英語" class=crosslink>ハロー</a>, <a href="https://ejje.weblio.jp/content/%E3%82%A2%E3%83%B3%E3%83%8B%E3%83%A7%E3%83%B3%E3%83%8F%E3%82%BB%E3%83%A8" title="アンニョンハセヨの英語" class=crosslink>アンニョンハセヨ</a>, ちわ, <a href="https://ejje.weblio.jp/content/%E3%81%93%E3%82%93%E3%81%B0%E3%82%93" title="こんばんの英語" class=crosslink>こんばん</a>にちは, <a href="https://ejje.weblio.jp/content/%E3%82%A2%E3%83%B3%E3%83%8B%E3%83%A7%E3%83%B3%E3%83%8F%E3%82%B7%E3%83%A0%E3%83%8B%E3%82%AB" title="アンニョンハシムニカの英語" class=crosslink>アンニョンハシムニカ</a>, <a href="https://ejje.weblio.jp/content/%E4%BD%A0%E5%A5%BD" title="你好の英語" class=crosslink>你好</a>, <a href="https://ejje.weblio.jp/content/%E3%81%AF%E3%81%84%E3%81%AF%E3%81%84" title="はいはいの英語" class=crosslink>はいはい</a>, <a href="https://ejje.weblio.jp/content/%E3%82%84%E3%81%82%E3%82%84%E3%81%82" title="やあやあの英語" class=crosslink>やあやあ</a>, <a href="https://ejje.weblio.jp/content/%E3%81%BB%E3%81%84%E3%81%BB%E3%81%84" title="ほいほいの英語" class=crosslink>ほいほい</a>, <a href="https://ejje.weblio.jp/content/%E3%81%84%E3%82%88%E3%81%86" title="いようの英語" class=crosslink>いよう</a>, <a href="https://ejje.weblio.jp/content/%E3%81%A9%E3%81%86%E3%82%82" title="どうもの英語" class=crosslink>どうも</a><br><!--AVOID_CROSSLINK--><span class=wejtyL>琉球弁</span><!--/AVOID_CROSSLINK--><a href="https://ejje.weblio.jp/content/%E3%83%8F%E3%82%A4%E3%82%B5%E3%82%A4" title="ハイサイの英語" class=crosslink>ハイサイ</a>
+</div>
+<hr class=dot>
+<h2 class=midashigo title="hello">hello</h2>
+<div class=Wejty>
+<a href="https://ejje.weblio.jp/content/%E3%83%8F%E3%83%AD%E3%83%BC" title="ハローの英語" class=crosslink>ハロー</a>
+</div>
+<div class=Wejty><div class=wejtyInfo>
+Weblio英和対訳辞書はプログラムで機械的に意味や英語表現を生成しているため、不適切な項目が含まれていることもあります。ご了承くださいませ。
+</div></div>
+</div>
+
+
+<div class=kijiFoot>
+<span class=wList><a href="https://ejje.weblio.jp/category/dictionary/wejty" title="索引トップ">索引</a></span><span class=wList><a href="https://ejje.weblio.jp/category/dictionary/wejty/h/116" title="用語の索引">用語索引</a></span><span class=wList><a href="https://ejje.weblio.jp/ranking/dictionary/wejty" title="ランキング">ランキング</a></span></div>
+</div>
+<!--終了 Weblio英和対訳辞書-->
+<div class=clr></div>
+</div>
+</div>
+<!-- 終了 #hideDictPrsWEJTY -->
+<div id=hideDictMsgENWIK></div>
+<!-- 開始 #hideDictPrsENWIK -->
+<div class=hideDictPrs id=hideDictPrsENWIK>
+<div class="mainBlock hlt_ENWIK">
+<!--開始 Wiktionary英語版-->
+<a name="ENWIK"></a>
+<table class="wrp"><tr><td class="left"><h2 class=dictNm><a href="https://ejje.weblio.jp/category/dictionary/enwik/a" title="Wiktionary英語版">Wiktionary英語版での「Hello」の意味</a></h2></td>
+<td class="right">
+</td></tr></table>
+<b class=clrBc></b>
+<div class=kijiWrp>
+<div class=hideDictWrp>
+<p class=hideDictBtn onclick="toggleHideDictConfirm('hideDictConfirmENWIK');"></p>
+<div class=hideDictConfirm style="display:none;" id=hideDictConfirmENWIK>
+<div class=hideDictConfirmMsg onclick="popUpPremiumModalWindowHideDict('https://ejje.weblio.jp/content/Hello', false);"><span class=hideDictConfirmMsgX>×</span> この辞書を今後表示しない</div>
+<div class=hideDictConfirmLink>※辞書の非表示は、<a href="https://ejje.weblio.jp/dict-order-setting" target="_blank">設定画面</a>から変更可能</div>
+</div>
+</div>
+<div class=kiji>
+<h2 class=midashigo title="hello">hello</h2>
+<div class=Enwik>
+<div class=ewSubDscTop>
+<div class="NavFrame" style="background-color:#FFB90F;">
+<div class="NavHead" style="background:#FFFFbf;"><a href="https://ejje.weblio.jp/content/English" title="Englishの意味" class=crosslink>English</a> <a href="https://ejje.weblio.jp/content/phrasebook" title="phrasebookの意味" class=crosslink>phrasebook</a></div>
+<div class="NavContent">
+<table style="background-color:#FFFFbf; width:100%; margin: auto; text-align:center">
+<tbody><tr>
+<td style="text-align:left;"><a href="https://www.weblio.jp/redirect?url=http%3A%2F%2Fen.wiktionary.org%2Fwiki%2FFile%3AOpen_book_01.svg&amp;etd=b01f2725c561f94b"><img alt="Open book 01.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Open_book_01.svg/40px-Open_book_01.svg.png" decoding="async" width="40" height="40" data-file-width="360" data-file-height="360" ></a>
+</td>
+<td>This <a href="https://ejje.weblio.jp/content/entry" title="entryの意味" class=crosslink>entry</a> <a href="https://ejje.weblio.jp/content/is" title="isの意味" class=crosslink>is</a> <a href="https://ejje.weblio.jp/content/part+of+the" title="part of theの意味" class=crosslink>part of the</a> <a href="https://ejje.weblio.jp/content/phrasebook" title="phrasebookの意味" class=crosslink>phrasebook</a> <a href="https://ejje.weblio.jp/content/project" title="projectの意味" class=crosslink>project</a>, which <a href="https://ejje.weblio.jp/content/presents" title="presentsの意味" class=crosslink>presents</a> <a href="https://ejje.weblio.jp/content/criteria" title="criteriaの意味" class=crosslink>criteria</a> for <a href="https://ejje.weblio.jp/content/inclusion" title="inclusionの意味" class=crosslink>inclusion</a> <a href="https://ejje.weblio.jp/content/based+on" title="based onの意味" class=crosslink>based on</a> <a href="https://ejje.weblio.jp/content/utility" title="utilityの意味" class=crosslink>utility</a>, <a href="https://ejje.weblio.jp/content/simplicity" title="simplicityの意味" class=crosslink>simplicity</a> and commonality.<div>For other <a href="https://ejje.weblio.jp/content/English" title="Englishの意味" class=crosslink>English</a> <a href="https://ejje.weblio.jp/content/entries" title="entriesの意味" class=crosslink>entries</a> <a href="https://ejje.weblio.jp/content/on" title="onの意味" class=crosslink>on</a> this <a href="https://ejje.weblio.jp/content/topic" title="topicの意味" class=crosslink>topic</a>, <a href="https://ejje.weblio.jp/content/see" title="seeの意味" class=crosslink>see</a> <b><a href="https://ejje.weblio.jp/content/Greetings" title="Greetingsの意味" class=crosslink>Greetings</a></b>.</div>
+</td></tr></tbody></table></div></div>
+<div class="was-wotd floatright" style="padding-right: 1em"><span title="This was a Wiktionary Word of the Day"><small><i><a href="https://ejje.weblio.jp/content/WOTD" title="WOTDの意味" class=crosslink>WOTD</a> –&#32;<a href="https://ejje.weblio.jp/content/19" title="19の意味" class=crosslink>19</a> <a href="https://ejje.weblio.jp/content/November" title="Novemberの意味" class=crosslink>November</a> 2007</i></small></span></div>
+</div>
+<div class=ewSubDsc><!--AVOID_CROSSLINK--><h3><span class=ewSubTtlH><span class="mw-headline">別の表記</span></span></h3><!--/AVOID_CROSSLINK-->
+<ul><li><span class="Latn" lang="en"><a href="https://ejje.weblio.jp/content/hallo" title="halloの意味" class=crosslink>hallo</a></span> <span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/%E8%8B%B1%E5%9B%BD" title="英国の英語" class=crosslink>英国</a><a href="https://ejje.weblio.jp/content/%E7%94%A8%E6%B3%95" title="用法の英語" class=crosslink>用法</a> <a href="https://ejje.weblio.jp/content/old+style" title="old styleの意味" class=crosslink>old style</a></span><span class="ib-brac qualifier-brac">)</span></li>
+<li><span class="Latn" lang="en"><a href="https://ejje.weblio.jp/content/hilloa" title="hilloaの意味" class=crosslink>hilloa</a></span> <span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/%E5%BB%83%E3%82%8C%E3%81%9F" title="廃れたの英語" class=crosslink>廃れた</a><a href="https://ejje.weblio.jp/content/%E7%94%A8%E6%B3%95" title="用法の英語" class=crosslink>用法</a></span><span class="ib-brac qualifier-brac">)</span></li>
+<li><span class="Latn" lang="en"><a href="https://ejje.weblio.jp/content/hullo" title="hulloの意味" class=crosslink>hullo</a></span> <span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/%E8%8B%B1%E5%9B%BD" title="英国の英語" class=crosslink>英国</a><a href="https://ejje.weblio.jp/content/%E7%94%A8%E6%B3%95" title="用法の英語" class=crosslink>用法</a></span><span class="ib-brac qualifier-brac">)</span></li></ul>
+</div>
+<div class=ewSubDsc><!--AVOID_CROSSLINK--><h3><span class=ewSubTtlH><span class="mw-headline">語源</span></span></h3><!--/AVOID_CROSSLINK-->
+<p><i>Hello</i> (<a href="https://ejje.weblio.jp/content/first" title="firstの意味" class=crosslink>first</a> <a href="https://ejje.weblio.jp/content/attested" title="attestedの意味" class=crosslink>attested</a> <a href="https://ejje.weblio.jp/content/in" title="inの意味" class=crosslink>in</a> 1833), from <i class="Latn mention" lang="en"><a href="https://ejje.weblio.jp/content/holla" title="hollaの意味" class=crosslink>holla</a></i>, <i class="Latn mention" lang="en"><a href="https://ejje.weblio.jp/content/hollo" title="holloの意味" class=crosslink>hollo</a></i> (<a href="https://ejje.weblio.jp/content/attested" title="attestedの意味" class=crosslink>attested</a> 1588). This <a href="https://ejje.weblio.jp/content/variant" title="variantの意味" class=crosslink>variant</a> <a href="https://ejje.weblio.jp/content/of" title="ofの意味" class=crosslink>of</a> <i class="Latn mention" lang="en"><a href="https://ejje.weblio.jp/content/hallo" title="halloの意味" class=crosslink>hallo</a></i> <a href="https://ejje.weblio.jp/content/is" title="isの意味" class=crosslink>is</a> <a href="https://ejje.weblio.jp/content/often" title="oftenの意味" class=crosslink>often</a> <a href="https://ejje.weblio.jp/content/credited" title="creditedの意味" class=crosslink>credited</a> <a href="https://ejje.weblio.jp/content/to" title="toの意味" class=crosslink>to</a> <a href="https://ejje.weblio.jp/content/Thomas+Edison" title="Thomas Edisonの意味" class=crosslink>Thomas Edison</a> <a href="https://ejje.weblio.jp/content/as+a" title="as aの意味" class=crosslink>as a</a> <a href="https://ejje.weblio.jp/content/coinage" title="coinageの意味" class=crosslink>coinage</a> for <a href="https://ejje.weblio.jp/content/telephone" title="telephoneの意味" class=crosslink>telephone</a> <a href="https://ejje.weblio.jp/content/use" title="useの意味" class=crosslink>use</a>, but its <a href="https://ejje.weblio.jp/content/appearance" title="appearanceの意味" class=crosslink>appearance</a> <a href="https://ejje.weblio.jp/content/in+print" title="in printの意味" class=crosslink>in print</a> <a href="https://ejje.weblio.jp/content/predates" title="predatesの意味" class=crosslink>predates</a> the <a href="https://ejje.weblio.jp/content/invention" title="inventionの意味" class=crosslink>invention</a> <a href="https://ejje.weblio.jp/content/of+the" title="of theの意味" class=crosslink>of the</a> <a href="https://ejje.weblio.jp/content/telephone" title="telephoneの意味" class=crosslink>telephone</a> <a href="https://ejje.weblio.jp/content/by" title="byの意味" class=crosslink>by</a> <a href="https://ejje.weblio.jp/content/several" title="severalの意味" class=crosslink>several</a> decades.
+</p><p><a href="https://ejje.weblio.jp/content/Ultimately" title="Ultimatelyの意味" class=crosslink>Ultimately</a> <a href="https://ejje.weblio.jp/content/from+a" title="from aの意味" class=crosslink>from a</a> <a href="https://ejje.weblio.jp/content/variant" title="variantの意味" class=crosslink>variant</a> <a href="https://ejje.weblio.jp/content/of" title="ofの意味" class=crosslink>of</a> <a href="https://ejje.weblio.jp/content/%E5%8F%A4%E6%9C%9F" title="古期の英語" class=crosslink>古期</a><a href="https://ejje.weblio.jp/content/%E8%8B%B1%E8%AA%9E" title="英語の英語" class=crosslink>英語</a> <i class="Latinx mention" lang="ang"><a href="https://ejje.weblio.jp/content/eala" title="ealaの意味" class=crosslink>ēalā</a></i>, <a href="https://ejje.weblio.jp/content/such+as" title="such asの意味" class=crosslink>such as</a> <i class="Latinx mention" lang="ang"><a href="https://ejje.weblio.jp/content/hela" title="helaの意味" class=crosslink>hēlā</a></i>, which <a href="https://ejje.weblio.jp/content/was+used" title="was usedの意味" class=crosslink>was used</a> <a href="https://ejje.weblio.jp/content/colloquially" title="colloquiallyの意味" class=crosslink>colloquially</a> <a href="https://ejje.weblio.jp/content/at+the+time" title="at the timeの意味" class=crosslink>at the time</a> <a href="https://ejje.weblio.jp/content/similarly" title="similarlyの意味" class=crosslink>similarly</a> <a href="https://ejje.weblio.jp/content/to" title="toの意味" class=crosslink>to</a> how <i><a href="https://ejje.weblio.jp/content/hey" title="heyの意味" class=crosslink>hey</a></i> and <i><a href="https://ejje.weblio.jp/content/hi" title="hiの意味" class=crosslink>hi</a></i> are used nowadays. <a href="https://ejje.weblio.jp/content/Thus" title="Thusの意味" class=crosslink>Thus</a>, <a href="https://ejje.weblio.jp/content/equivalent+to" title="equivalent toの意味" class=crosslink>equivalent to</a> a <a href="https://ejje.weblio.jp/content/compound+of" title="compound ofの意味" class=crosslink>compound of</a> <i class="Latn mention" lang="en"><a href="https://ejje.weblio.jp/content/hey" title="heyの意味" class=crosslink>hey</a></i> and <i class="Latn mention" lang="en"><a href="https://ejje.weblio.jp/content/lo" title="loの意味" class=crosslink>lo</a></i>.
+</p><p><a href="https://ejje.weblio.jp/content/Possibly" title="Possiblyの意味" class=crosslink>Possibly</a> <a href="https://ejje.weblio.jp/content/influenced+by" title="influenced byの意味" class=crosslink>influenced by</a> <span class="etyl"><a href="https://ejje.weblio.jp/content/Old+Saxon" title="Old Saxonの意味" class=crosslink>Old Saxon</a></span> <i class="Latn mention" lang="osx"><a href="https://ejje.weblio.jp/content/halon" title="halonの意味" class=crosslink>halōn</a></i>, <a href="https://ejje.weblio.jp/content/imperative" title="imperativeの意味" class=crosslink>imperative</a> <i class="Latn mention" lang="osx"><a href="https://ejje.weblio.jp/content/halo" title="haloの意味" class=crosslink>halo!</a></i>, <span class="gloss-brac">(</span><span class="gloss-content">&quot;<a href="https://ejje.weblio.jp/content/to+bring" title="to bringの意味" class=crosslink>to bring</a> something, <a href="https://ejje.weblio.jp/content/gather" title="gatherの意味" class=crosslink>gather</a>&quot;</span><span class="gloss-brac">)</span>, <a href="https://ejje.weblio.jp/content/akin+to" title="akin toの意味" class=crosslink>akin to</a> <span class="etyl"><a href="https://ejje.weblio.jp/content/English+language" title="English languageの意味" class=crosslink>English</a></span> <i class="Latn mention" lang="en"><a href="https://ejje.weblio.jp/content/hale" title="haleの意味" class=crosslink>hale</a></i> <a href="https://ejje.weblio.jp/content/or" title="orの意味" class=crosslink>or</a> <i class="Latn mention" lang="en"><a href="https://ejje.weblio.jp/content/hail" title="hailの意味" class=crosslink>hail</a></i> (<span class="etyl"><a href="https://ejje.weblio.jp/content/Old+English" title="Old Englishの意味" class=crosslink>古期英語</a></span> <i class="Latinx mention" lang="ang"><a href="https://ejje.weblio.jp/content/geholian" title="geholianの意味" class=crosslink>geholian</a></i>). More <a href="https://ejje.weblio.jp/content/at" title="atの意味" class=crosslink>at</a> <span class="Latn" lang="en"><a href="https://ejje.weblio.jp/content/hallo" title="halloの意味" class=crosslink>hallo</a></span>.
+</p>
+</div>
+<div class=ewSubDsc><!--AVOID_CROSSLINK--><h3><span class=ewSubTtlH><span class="mw-headline">発音</span></span></h3><!--/AVOID_CROSSLINK-->
+<ul><li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/British+English" title="British Englishの意味" class=crosslink>英国発音</a></span><span class="ib-brac qualifier-brac">)</span> <a href="https://ejje.weblio.jp/content/IPA" title="IPAの意味" class=crosslink>IPA</a><sup>(<a href="https://ejje.weblio.jp/content/key" title="keyの意味" class=crosslink>key</a>)</sup>:&#32;<span class="IPA">/həˈləʊ/</span>, <span class="IPA">/hɛˈləʊ/</span></li>
+<li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/American+English" title="American Englishの意味" class=crosslink>米国発音</a></span><span class="ib-brac qualifier-brac">)</span> enPR: <span class="AHD enPR">hĕ-lō&#39;</span>, <span class="AHD enPR">hə-lō&#39;</span>, <a href="https://ejje.weblio.jp/content/IPA" title="IPAの意味" class=crosslink>IPA</a><sup>(<a href="https://ejje.weblio.jp/content/key" title="keyの意味" class=crosslink>key</a>)</sup>:&#32;<span class="IPA">/hɛˈ<a href="https://ejje.weblio.jp/content/lo" title="loの意味" class=crosslink>lo</a>ʊ/</span>, <span class="IPA">/həˈ<a href="https://ejje.weblio.jp/content/lo" title="loの意味" class=crosslink>lo</a>ʊ/</span></li>
+
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r50165410"></li></ul>
+<table class="wikitable">
+<tbody><tr>
+<th><a href="https://ejje.weblio.jp/content/Sense" title="Senseの意味" class=crosslink>Sense</a>
+</th>
+<th><a href="https://ejje.weblio.jp/content/%E8%8B%B1%E5%9B%BD%E7%99%BA%E9%9F%B3" title="英国発音の英語" class=crosslink>英国発音</a>
+</th>
+<th><a href="https://ejje.weblio.jp/content/%E7%B1%B3%E5%9B%BD" title="米国の英語" class=crosslink>米国</a><a href="https://ejje.weblio.jp/content/%E7%99%BA%E9%9F%B3" title="発音の英語" class=crosslink>発音</a>
+</th></tr>
+<tr>
+<td><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/greeting" title="greetingの意味" class=crosslink>greeting</a></span><span class="ib-brac qualifier-brac">)</span><span class="ib-colon sense-qualifier-colon">:</span>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r50165410">
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r50165410">
+</td></tr>
+<tr>
+<td><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/telephone" title="telephoneの意味" class=crosslink>telephone</a> <a href="https://ejje.weblio.jp/content/greeting" title="greetingの意味" class=crosslink>greeting</a></span><span class="ib-brac qualifier-brac">)</span><span class="ib-colon sense-qualifier-colon">:</span>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r50165410">
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r50165410">
+</td></tr>
+<tr>
+<td><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/call+for" title="call forの意味" class=crosslink>call for</a> <a href="https://ejje.weblio.jp/content/response" title="responseの意味" class=crosslink>response</a></span><span class="ib-brac qualifier-brac">)</span><span class="ib-colon sense-qualifier-colon">:</span>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r50165410">
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r50165410">
+</td></tr>
+<tr>
+<td><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/sarcastic" title="sarcasticの意味" class=crosslink>sarcastic</a> <a href="https://ejje.weblio.jp/content/implication" title="implicationの意味" class=crosslink>implication</a></span><span class="ib-brac qualifier-brac">)</span><span class="ib-colon sense-qualifier-colon">:</span>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r50165410">
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r50165410">
+</td></tr>
+<tr>
+<td><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/expressing" title="expressingの意味" class=crosslink>expressing</a> <a href="https://ejje.weblio.jp/content/puzzlement" title="puzzlementの意味" class=crosslink>puzzlement</a></span><span class="ib-brac qualifier-brac">)</span><span class="ib-colon sense-qualifier-colon">:</span>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r50165410">
+</td>
+<td>
+</td></tr></tbody></table>
+<ul><li><a href="https://ejje.weblio.jp/content/%E9%9F%BB" title="韻の英語" class=crosslink>韻</a>: -əʊ</li></ul>
+</div>
+<div class=ewSubDsc><!--AVOID_CROSSLINK--><h3><span class=ewSubTtlH><span class="mw-headline">間投詞</span></span></h3><!--/AVOID_CROSSLINK-->
+<p><strong class="Latn headword" lang="en">hello</strong>
+</p>
+<ol><li><span class="use-with-mention">A <a href="https://ejje.weblio.jp/content/greeting" title="greetingの意味" class=crosslink>greeting</a> (<a href="https://ejje.weblio.jp/content/salutation" title="salutationの意味" class=crosslink>salutation</a>) <a href="https://ejje.weblio.jp/content/said" title="saidの意味" class=crosslink>said</a> when <a href="https://ejje.weblio.jp/content/meet" title="meetの意味" class=crosslink>meeting</a> someone <a href="https://ejje.weblio.jp/content/or" title="orの意味" class=crosslink>or</a> <a href="https://ejje.weblio.jp/content/acknowledge" title="acknowledgeの意味" class=crosslink>acknowledging</a> someone’s <a href="https://ejje.weblio.jp/content/arrival" title="arrivalの意味" class=crosslink>arrival</a> <a href="https://ejje.weblio.jp/content/or" title="orの意味" class=crosslink>or</a> <a href="https://ejje.weblio.jp/content/presence" title="presenceの意味" class=crosslink>presence</a>.</span>
+<dl><dd><div class="h-usage-example"><i class="Latn mention e-example" lang="en"><b>Hello</b>, everyone.</i></div></dd></dl></li>
+<li><span class="use-with-mention">A <a href="https://ejje.weblio.jp/content/greeting" title="greetingの意味" class=crosslink>greeting</a> used when <a href="https://ejje.weblio.jp/content/answer" title="answerの意味" class=crosslink>answering</a> the <a href="https://ejje.weblio.jp/content/telephone" title="telephoneの意味" class=crosslink>telephone</a>.</span>
+<dl><dd><div class="h-usage-example"><i class="Latn mention e-example" lang="en"><b>Hello</b>? <a href="https://ejje.weblio.jp/content/How+may+I+help+you%3F" title="How may I help you?の英語" class=crosslink>How may I help you?</a></i></div></dd></dl>
+<ul><li><b>2016</b>, <a href="https://www.weblio.jp/redirect?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170918070146%2Fhttps%3A%2F%2Flearningenglish.voanews.com%2Fa%2Flets-learn-english-lesson-3-i-am-here%2F3126527.html&amp;etd=a678470791d7bba4">VOA Learning English</a> (<a href="https://ejje.weblio.jp/content/public+domain" title="public domainの意味" class=crosslink>public domain</a>)
+<dl><dd><b>Hello</b>. <a href="https://ejje.weblio.jp/content/This+is" title="This isの意味" class=crosslink>This is</a> Marsha. - Yes, Marsha.
+<dl><dd><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r50165410"></dd></dl></dd></dl></li></ul></li>
+<li><span class="use-with-mention">A <a href="https://ejje.weblio.jp/content/call+for" title="call forの意味" class=crosslink>call for</a> <a href="https://ejje.weblio.jp/content/response" title="responseの意味" class=crosslink>response</a> <a href="https://ejje.weblio.jp/content/if+it+is" title="if it isの意味" class=crosslink>if it is</a> <a href="https://ejje.weblio.jp/content/not+clear" title="not clearの意味" class=crosslink>not clear</a> <a href="https://ejje.weblio.jp/content/if" title="ifの意味" class=crosslink>if</a> anyone <a href="https://ejje.weblio.jp/content/is" title="isの意味" class=crosslink>is</a> <a href="https://ejje.weblio.jp/content/present" title="presentの意味" class=crosslink>present</a> <a href="https://ejje.weblio.jp/content/or" title="orの意味" class=crosslink>or</a> <a href="https://ejje.weblio.jp/content/listening" title="listeningの意味" class=crosslink>listening</a>, <a href="https://ejje.weblio.jp/content/or+if" title="or ifの意味" class=crosslink>or if</a> a <a href="https://ejje.weblio.jp/content/telephone+conversation" title="telephone conversationの意味" class=crosslink>telephone conversation</a> may <a href="https://ejje.weblio.jp/content/have+been" title="have beenの意味" class=crosslink>have been</a> <a href="https://ejje.weblio.jp/content/disconnect" title="disconnectの意味" class=crosslink>disconnected</a>.</span>
+<dl><dd><div class="h-usage-example"><i class="Latn mention e-example" lang="en"><b>Hello</b>? <a href="https://ejje.weblio.jp/content/Is+anyone+there%3F" title="Is anyone there?の英語" class=crosslink>Is anyone there?</a></i></div></dd></dl>
+<ul><li><div class="citation-whole"><span class="cited-source"><b>1913</b>,  <a href="https://ejje.weblio.jp/content/Joseph" title="Josephの意味" class=crosslink>Joseph</a> <a href="https://ejje.weblio.jp/content/C." title="C.の意味" class=crosslink>C.</a> <a href="https://ejje.weblio.jp/content/Lincoln" title="Lincolnの意味" class=crosslink>Lincoln</a>,  <a href="https://ejje.weblio.jp/content/chapter+7" title="chapter 7の意味" class=crosslink>chapter 7</a>, <a href="https://ejje.weblio.jp/content/in" title="inの意味" class=crosslink>in</a>  <cite><a href="https://www.weblio.jp/redirect?url=http%3A%2F%2Fopenlibrary.org%2Fworks%2FOL5535161W&amp;etd=71ec58a4ad6ab2ee">Mr. Pratt's Patients</a></cite>:</span><dl><dd><div class="h-quotation"><span class="Latn e-quotation" lang="en">I <a href="https://ejje.weblio.jp/content/made" title="madeの意味" class=crosslink>made</a> a <a href="https://ejje.weblio.jp/content/speaking+trumpet" title="speaking trumpetの意味" class=crosslink>speaking trumpet</a> <a href="https://ejje.weblio.jp/content/of" title="ofの意味" class=crosslink>of</a> <a href="https://ejje.weblio.jp/content/my" title="myの意味" class=crosslink>my</a> <a href="https://ejje.weblio.jp/content/hands" title="handsの意味" class=crosslink>hands</a> and <a href="https://ejje.weblio.jp/content/commenced" title="commencedの意味" class=crosslink>commenced</a> <a href="https://ejje.weblio.jp/content/to" title="toの意味" class=crosslink>to</a> <a href="https://ejje.weblio.jp/content/whoop" title="whoopの意味" class=crosslink>whoop</a> “<a href="https://ejje.weblio.jp/content/Ahoy%21" title="Ahoy!の英語" class=crosslink>Ahoy!</a>” and “<b>Hello!</b>” <a href="https://ejje.weblio.jp/content/at+the+top+of" title="at the top ofの意味" class=crosslink>at the top of</a> <a href="https://ejje.weblio.jp/content/my" title="myの意味" class=crosslink>my</a> lungs. <span class="q-hellip-sp">&#32;</span><span class="q-hellip-b">[</span><a href="https://ejje.weblio.jp/content/%E2%80%A6" title="…の英語" class=crosslink>…</a><span class="q-hellip-b">]</span><span class="q-hellip-b">&#32;</span> The <a href="https://ejje.weblio.jp/content/Colonel" title="Colonelの意味" class=crosslink>Colonel</a> <a href="https://ejje.weblio.jp/content/woke+up" title="woke upの意味" class=crosslink>woke up</a>, and, after <a href="https://ejje.weblio.jp/content/asking" title="askingの意味" class=crosslink>asking</a> what <a href="https://ejje.weblio.jp/content/in" title="inの意味" class=crosslink>in</a> <a href="https://ejje.weblio.jp/content/brimstone" title="brimstoneの意味" class=crosslink>brimstone</a> was <a href="https://ejje.weblio.jp/content/the+matter" title="the matterの意味" class=crosslink>the matter</a>, <a href="https://ejje.weblio.jp/content/opened" title="openedの意味" class=crosslink>opened</a> his <a href="https://ejje.weblio.jp/content/mouth" title="mouthの意味" class=crosslink>mouth</a> and <a href="https://ejje.weblio.jp/content/roared" title="roaredの意味" class=crosslink>roared</a> “<a href="https://ejje.weblio.jp/content/Hi%21" title="Hi!の英語" class=crosslink>Hi!</a>” and “<b>Hello!</b>” <a href="https://ejje.weblio.jp/content/like" title="likeの意味" class=crosslink>like</a> <a href="https://ejje.weblio.jp/content/the+bull" title="the bullの意味" class=crosslink>the bull</a> <a href="https://ejje.weblio.jp/content/of" title="ofの意味" class=crosslink>of</a> Bashan.</span></div></dd></dl></div></li></ul></li>
+<li><span class="ib-brac">(</span><span class="ib-content"><a href="https://ejje.weblio.jp/content/colloquial" title="colloquialの意味" class=crosslink>colloquial</a></span><span class="ib-brac">)</span> <span class="use-with-mention">Used <a href="https://ejje.weblio.jp/content/sarcastic" title="sarcasticの意味" class=crosslink>sarcastically</a> <a href="https://ejje.weblio.jp/content/to+imply" title="to implyの意味" class=crosslink>to imply</a> that <a href="https://ejje.weblio.jp/content/the+person" title="the personの意味" class=crosslink>the person</a> <a href="https://ejje.weblio.jp/content/addressed" title="addressedの意味" class=crosslink>addressed</a> <a href="https://ejje.weblio.jp/content/or" title="orの意味" class=crosslink>or</a> <a href="https://ejje.weblio.jp/content/referred+to" title="referred toの意味" class=crosslink>referred to</a> has <a href="https://ejje.weblio.jp/content/done" title="doneの意味" class=crosslink>done</a> something the <a href="https://ejje.weblio.jp/content/speaker" title="speakerの意味" class=crosslink>speaker</a> <a href="https://ejje.weblio.jp/content/or" title="orの意味" class=crosslink>or</a> <a href="https://ejje.weblio.jp/content/writer" title="writerの意味" class=crosslink>writer</a> <a href="https://ejje.weblio.jp/content/considers" title="considersの意味" class=crosslink>considers</a> <a href="https://ejje.weblio.jp/content/to+be" title="to beの意味" class=crosslink>to be</a> <a href="https://ejje.weblio.jp/content/foolish" title="foolishの意味" class=crosslink>foolish</a>.</span>
+<dl><dd><div class="h-usage-example"><i class="Latn mention e-example" lang="en">You <a href="https://ejje.weblio.jp/content/just" title="justの意味" class=crosslink>just</a> <a href="https://ejje.weblio.jp/content/tried" title="triedの意味" class=crosslink>tried</a> <a href="https://ejje.weblio.jp/content/to+start" title="to startの意味" class=crosslink>to start</a> your <a href="https://ejje.weblio.jp/content/car" title="carの意味" class=crosslink>car</a> with your <a href="https://ejje.weblio.jp/content/cell" title="cellの意味" class=crosslink>cell</a> phone. <b>Hello</b>?</i></div></dd></dl></li>
+<li><span class="ib-brac">(</span><span class="ib-content"><a href="https://ejje.weblio.jp/content/chiefly" title="chieflyの意味" class=crosslink>chiefly</a>&#32;<a href="https://ejje.weblio.jp/content/Great+Britain" title="Great Britainの意味" class=crosslink>Britain</a></span><span class="ib-brac">)</span> <span class="use-with-mention"><a href="https://ejje.weblio.jp/content/An" title="Anの意味" class=crosslink>An</a> <a href="https://ejje.weblio.jp/content/expression+of" title="expression ofの意味" class=crosslink>expression of</a> <a href="https://ejje.weblio.jp/content/puzzlement" title="puzzlementの意味" class=crosslink>puzzlement</a> <a href="https://ejje.weblio.jp/content/or" title="orの意味" class=crosslink>or</a> <a href="https://ejje.weblio.jp/content/discovery" title="discoveryの意味" class=crosslink>discovery</a>.</span>
+<dl><dd><div class="h-usage-example"><i class="Latn mention e-example" lang="en"><b>Hello</b>! What’s <a href="https://ejje.weblio.jp/content/going+on" title="going onの意味" class=crosslink>going on</a> <a href="https://ejje.weblio.jp/content/here" title="hereの意味" class=crosslink>here</a>?</i></div></dd></dl></li></ol>
+</div>
+<div class=ewSubDsc><!--AVOID_CROSSLINK--><h4><span class=ewSubTtlH><span class="mw-headline">使用する際の注意点</span></span></h4><!--/AVOID_CROSSLINK-->
+<ul><li>The <a href="https://ejje.weblio.jp/content/greeting" title="greetingの意味" class=crosslink>greeting</a> <i class="Latn mention" lang="en"><a href="https://ejje.weblio.jp/content/hello" title="helloの意味" class=crosslink>hello</a></i> <a href="https://ejje.weblio.jp/content/is" title="isの意味" class=crosslink>is</a> <a href="https://ejje.weblio.jp/content/among+the" title="among theの意味" class=crosslink>among the</a> <a href="https://ejje.weblio.jp/content/most" title="mostの意味" class=crosslink>most</a> <a href="https://ejje.weblio.jp/content/universal" title="universalの意味" class=crosslink>universal</a> and <a href="https://ejje.weblio.jp/content/neutral" title="neutralの意味" class=crosslink>neutral</a> <a href="https://ejje.weblio.jp/content/in" title="inの意味" class=crosslink>in</a> use. <a href="https://ejje.weblio.jp/content/It" title="Itの意味" class=crosslink>It</a> <a href="https://ejje.weblio.jp/content/may+be" title="may beの意味" class=crosslink>may be</a> <a href="https://ejje.weblio.jp/content/heard" title="heardの意味" class=crosslink>heard</a> <a href="https://ejje.weblio.jp/content/in" title="inの意味" class=crosslink>in</a> <a href="https://ejje.weblio.jp/content/nearly+all" title="nearly allの意味" class=crosslink>nearly all</a> <a href="https://ejje.weblio.jp/content/social" title="socialの意味" class=crosslink>social</a> <a href="https://ejje.weblio.jp/content/situations" title="situationsの意味" class=crosslink>situations</a> and <a href="https://ejje.weblio.jp/content/in" title="inの意味" class=crosslink>in</a> <a href="https://ejje.weblio.jp/content/nearly+all" title="nearly allの意味" class=crosslink>nearly all</a> <a href="https://ejje.weblio.jp/content/walks+of+life" title="walks of lifeの意味" class=crosslink>walks of life</a>, and <a href="https://ejje.weblio.jp/content/is" title="isの意味" class=crosslink>is</a> <a href="https://ejje.weblio.jp/content/unlikely" title="unlikelyの意味" class=crosslink>unlikely</a> <a href="https://ejje.weblio.jp/content/to+cause" title="to causeの意味" class=crosslink>to cause</a> offense.</li></ul>
+</div>
+<div class=ewSubDsc><!--AVOID_CROSSLINK--><h4><span class=ewSubTtlH><span class="mw-headline">引用</span></span></h4><!--/AVOID_CROSSLINK-->
+<ul><li><span class="see-cites">For <a href="https://ejje.weblio.jp/content/quotations" title="quotationsの意味" class=crosslink>quotations</a> <a href="https://ejje.weblio.jp/content/using" title="usingの意味" class=crosslink>using</a> <a href="https://ejje.weblio.jp/content/this+term" title="this termの意味" class=crosslink>this term</a>, <a href="https://ejje.weblio.jp/content/see" title="seeの意味" class=crosslink>see</a> <a href="https://ejje.weblio.jp/content/Citations" title="Citationsの意味" class=crosslink>Citations</a>:hello.</span></li></ul>
+</div>
+<div class=ewSubDsc><!--AVOID_CROSSLINK--><h4><span class=ewSubTtlH><span class="mw-headline">同意語</span></span></h4><!--/AVOID_CROSSLINK-->
+<ul><li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/greeting" title="greetingの意味" class=crosslink>greeting</a></span><span class="ib-brac qualifier-brac">)</span><span class="ib-colon sense-qualifier-colon">:</span> <span class="see-cites"><i><a href="https://ejje.weblio.jp/content/See" title="Seeの意味" class=crosslink>See</a></i> <a href="https://ejje.weblio.jp/content/Thesaurus%3Ahello" title="Thesaurus:helloの英語" class=crosslink>Thesaurus:hello</a></span>
+<ul><li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/Australia" title="Australiaの意味" class=crosslink>Australia</a>, <a href="https://ejje.weblio.jp/content/%E3%81%8F%E3%81%A0%E3%81%91%E3%81%9F" title="くだけたの英語" class=crosslink>くだけた</a><a href="https://ejje.weblio.jp/content/%E7%94%A8%E6%B3%95" title="用法の英語" class=crosslink>用法</a></span><span class="ib-brac qualifier-brac">)</span> <a href="https://ejje.weblio.jp/content/g%27day" title="g&#39;dayの意味" class=crosslink>g'day</a>, <a href="https://ejje.weblio.jp/content/hey" title="heyの意味" class=crosslink>hey</a>, <a href="https://ejje.weblio.jp/content/hi" title="hiの意味" class=crosslink>hi</a>,</li>
+<li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/%E8%8B%B1%E5%9B%BD" title="英国の英語" class=crosslink>英国</a><a href="https://ejje.weblio.jp/content/%E7%94%A8%E6%B3%95" title="用法の英語" class=crosslink>用法</a>, <a href="https://ejje.weblio.jp/content/%E3%81%8F%E3%81%A0%E3%81%91%E3%81%9F" title="くだけたの英語" class=crosslink>くだけた</a><a href="https://ejje.weblio.jp/content/%E7%94%A8%E6%B3%95" title="用法の英語" class=crosslink>用法</a></span><span class="ib-brac qualifier-brac">)</span> <a href="https://ejje.weblio.jp/content/hallo" title="halloの意味" class=crosslink>hallo</a>, <a href="https://ejje.weblio.jp/content/hi" title="hiの意味" class=crosslink>hi</a>, <a href="https://ejje.weblio.jp/content/hiya" title="hiyaの意味" class=crosslink>hiya</a>, <a href="https://ejje.weblio.jp/content/ey+up" title="ey upの意味" class=crosslink>ey up</a></li>
+<li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/%E7%B1%B3%E5%9B%BD" title="米国の英語" class=crosslink>米国</a><a href="https://ejje.weblio.jp/content/%E7%94%A8%E6%B3%95" title="用法の英語" class=crosslink>用法</a>, <a href="https://ejje.weblio.jp/content/%E3%81%8F%E3%81%A0%E3%81%91%E3%81%9F" title="くだけたの英語" class=crosslink>くだけた</a><a href="https://ejje.weblio.jp/content/%E7%94%A8%E6%B3%95" title="用法の英語" class=crosslink>用法</a></span><span class="ib-brac qualifier-brac">)</span> <a href="https://ejje.weblio.jp/content/hallo" title="halloの意味" class=crosslink>hallo</a>, <a href="https://ejje.weblio.jp/content/hey" title="heyの意味" class=crosslink>hey</a>, <a href="https://ejje.weblio.jp/content/hi" title="hiの意味" class=crosslink>hi</a>, <a href="https://ejje.weblio.jp/content/howdy" title="howdyの意味" class=crosslink>howdy</a></li>
+<li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/Ireland" title="Irelandの意味" class=crosslink>Ireland</a>, <a href="https://ejje.weblio.jp/content/%E3%81%8F%E3%81%A0%E3%81%91%E3%81%9F" title="くだけたの英語" class=crosslink>くだけた</a><a href="https://ejje.weblio.jp/content/%E7%94%A8%E6%B3%95" title="用法の英語" class=crosslink>用法</a></span><span class="ib-brac qualifier-brac">)</span> <a href="https://ejje.weblio.jp/content/how%27s+it+going" title="how&#39;s it goingの意味" class=crosslink>how's it going</a>, <a href="https://ejje.weblio.jp/content/hey" title="heyの意味" class=crosslink>hey</a>, <a href="https://ejje.weblio.jp/content/hi" title="hiの意味" class=crosslink>hi</a></li>
+<li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/South+Africa" title="South Africaの意味" class=crosslink>South Africa</a>, <a href="https://ejje.weblio.jp/content/%E3%81%8F%E3%81%A0%E3%81%91%E3%81%9F" title="くだけたの英語" class=crosslink>くだけた</a><a href="https://ejje.weblio.jp/content/%E7%94%A8%E6%B3%95" title="用法の英語" class=crosslink>用法</a></span><span class="ib-brac qualifier-brac">)</span> <a href="https://ejje.weblio.jp/content/howzit" title="howzitの意味" class=crosslink>howzit</a></li>
+<li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/%E3%82%B9%E3%83%A9%E3%83%B3%E3%82%B0" title="スラングの英語" class=crosslink>スラング</a></span><span class="ib-brac qualifier-brac">)</span> <a href="https://ejje.weblio.jp/content/wassup" title="wassupの意味" class=crosslink>wassup</a>, <a href="https://ejje.weblio.jp/content/what%27s+up" title="what&#39;s upの意味" class=crosslink>what's up</a>, <a href="https://ejje.weblio.jp/content/yo" title="yoの意味" class=crosslink>yo</a>, <a href="https://ejje.weblio.jp/content/sup" title="supの意味" class=crosslink>sup</a>, <a href="https://ejje.weblio.jp/content/what%27s+good" title="what&#39;s goodの意味" class=crosslink>what's good</a></li></ul></li>
+<li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/expression+of" title="expression ofの意味" class=crosslink>expression of</a> <a href="https://ejje.weblio.jp/content/puzzlement" title="puzzlementの意味" class=crosslink>puzzlement</a></span><span class="ib-brac qualifier-brac">)</span><span class="ib-colon sense-qualifier-colon">:</span> <span class="see-cites"><i><a href="https://ejje.weblio.jp/content/See" title="Seeの意味" class=crosslink>See</a></i> <a href="https://ejje.weblio.jp/content/Thesaurus%3Awow" title="Thesaurus:wowの英語" class=crosslink>Thesaurus:wow</a></span></li></ul>
+</div>
+<div class=ewSubDsc><!--AVOID_CROSSLINK--><h4><span class=ewSubTtlH><span class="mw-headline">反意語</span></span></h4><!--/AVOID_CROSSLINK-->
+<ul><li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://ejje.weblio.jp/content/greeting" title="greetingの意味" class=crosslink>greeting</a></span><span class="ib-brac qualifier-brac">)</span><span class="ib-colon sense-qualifier-colon">:</span> <span class="Latn" lang="en"><a href="https://ejje.weblio.jp/content/bye" title="byeの意味" class=crosslink>bye</a></span>, <span class="Latn" lang="en"><a href="https://ejje.weblio.jp/content/goodbye" title="goodbyeの意味" class=crosslink>goodbye</a></span></li></ul>
+</div>
+<div class=ewSubDsc><!--AVOID_CROSSLINK--><h4><span class=ewSubTtlH><span class="mw-headline">派生語</span></span></h4><!--/AVOID_CROSSLINK-->
+<ul><li><span class="Latn" lang="en"><a href="https://ejje.weblio.jp/content/hello+girl" title="hello girlの意味" class=crosslink>hello girl</a></span></li>
+<li><span class="Latn" lang="en"><a href="https://ejje.weblio.jp/content/hello+yourself%2C+and+see+how+you+like+it" title="hello yourself, and see how you like itの英語" class=crosslink>hello yourself, and see how you like it</a></span></li></ul>
+</div>
+<div class=ewSubDsc><!--AVOID_CROSSLINK--><h4><span class=ewSubTtlH><span class="mw-headline">参考</span></span></h4><!--/AVOID_CROSSLINK-->
+<ul><li><a href="https://ejje.weblio.jp/content/Category" title="Categoryの意味" class=crosslink>Category</a>:<a href="https://ejje.weblio.jp/content/Greetings" title="Greetingsの意味" class=crosslink>Greetings</a></li>
+<li><a href="https://ejje.weblio.jp/content/hello" title="helloの意味" class=crosslink></a> <b class="Latn" lang="en"><a href="https://ejje.weblio.jp/content/hello" title="helloの意味" class=crosslink>hello</a></b> <a href="https://ejje.weblio.jp/content/on" title="onの意味" class=crosslink>on</a>  Wikipedia.</li></ul>
+</div>
+<div class=ewSubDsc><!--AVOID_CROSSLINK--><h3><span class=ewSubTtlH><span class="mw-headline">名詞</span></span></h3><!--/AVOID_CROSSLINK-->
+<p><strong class="Latn headword" lang="en">hello</strong> (<i><a href="https://ejje.weblio.jp/content/%E8%A4%87%E6%95%B0%E5%BD%A2" title="複数形の英語" class=crosslink>複数形</a></i> <b class="Latn form-of lang-en p-form-of" lang="en"><a href="https://ejje.weblio.jp/content/hellos" title="hellosの意味" class=crosslink>hellos</a></b> <i><a href="https://ejje.weblio.jp/content/%E3%81%BE%E3%81%9F%E3%81%AF" title="またはの英語" class=crosslink>または</a></i> <b class="Latn form-of lang-en p-form-of" lang="en"><a href="https://ejje.weblio.jp/content/helloes" title="helloesの意味" class=crosslink>helloes</a></b>)
+</p>
+<ol><li>&quot;<a href="https://ejje.weblio.jp/content/hello" title="helloの意味" class=crosslink>Hello</a>!&quot; <a href="https://ejje.weblio.jp/content/or+an" title="or anの意味" class=crosslink>or an</a> <a href="https://ejje.weblio.jp/content/equivalent" title="equivalentの意味" class=crosslink>equivalent</a> greeting.
+<ul><li><div class="citation-whole"><span class="cited-source"><b>2007</b> <a href="https://ejje.weblio.jp/content/April" title="Aprilの意味" class=crosslink>April</a> <a href="https://ejje.weblio.jp/content/29" title="29の意味" class=crosslink>29</a>,  <a href="https://ejje.weblio.jp/content/Stephanie" title="Stephanieの意味" class=crosslink>Stephanie</a> <a href="https://ejje.weblio.jp/content/Rosenbloom" title="Rosenbloomの意味" class=crosslink>Rosenbloom</a>,  “A <a href="https://ejje.weblio.jp/content/Beautiful+Day" title="Beautiful Dayの意味" class=crosslink>Beautiful Day</a> <a href="https://ejje.weblio.jp/content/in+the" title="in theの意味" class=crosslink>in the</a> <a href="https://ejje.weblio.jp/content/Neighborhood" title="Neighborhoodの意味" class=crosslink>Neighborhood</a>”, <a href="https://ejje.weblio.jp/content/in" title="inの意味" class=crosslink>in</a>  <cite><a href="https://ejje.weblio.jp/content/New+York+Times" title="New York Timesの意味" class=crosslink>New York Times</a></cite>&#8206;<sup><a href="https://www.weblio.jp/redirect?url=http%3A%2F%2Fwww.nytimes.com%2F2007%2F04%2F29%2Ffashion%2F29condo.html&amp;etd=02651a5f80d1f572">[1]</a></sup>:</span><dl><dd><div class="h-quotation"><span class="Latn e-quotation" lang="en"><a href="https://ejje.weblio.jp/content/In" title="Inの意味" class=crosslink>In</a> <a href="https://ejje.weblio.jp/content/many" title="manyの意味" class=crosslink>many</a> <a href="https://ejje.weblio.jp/content/new" title="newの意味" class=crosslink>new</a> <a href="https://ejje.weblio.jp/content/buildings" title="buildingsの意味" class=crosslink>buildings</a>, <a href="https://ejje.weblio.jp/content/though" title="thoughの意味" class=crosslink>though</a>, <a href="https://ejje.weblio.jp/content/neighbors" title="neighborsの意味" class=crosslink>neighbors</a> are <a href="https://ejje.weblio.jp/content/venturing" title="venturingの意味" class=crosslink>venturing</a> <a href="https://ejje.weblio.jp/content/beyond" title="beyondの意味" class=crosslink>beyond</a> <a href="https://ejje.weblio.jp/content/tight-lipped" title="tight-lippedの意味" class=crosslink>tight-lipped</a> <b><a href="https://ejje.weblio.jp/content/hellos" title="hellosの意味" class=crosslink>hellos</a></b> <a href="https://ejje.weblio.jp/content/at+the" title="at theの意味" class=crosslink>at the</a> mailbox.</span></div></dd></dl></div></li></ul></li></ol>
+</div>
+<div class=ewSubDsc><!--AVOID_CROSSLINK--><h4><span class=ewSubTtlH><span class="mw-headline">同意語</span></span></h4><!--/AVOID_CROSSLINK-->
+<ul><li><span class="Latn" lang="en"><a href="https://ejje.weblio.jp/content/greeting" title="greetingの意味" class=crosslink>greeting</a></span></li></ul>
+</div>
+<div class=ewSubDsc><!--AVOID_CROSSLINK--><h3><span class=ewSubTtlH><span class="mw-headline">動詞</span></span></h3><!--/AVOID_CROSSLINK-->
+<p><strong class="Latn headword" lang="en">hello</strong> (<i><a href="https://ejje.weblio.jp/content/%E4%B8%89%E4%BA%BA%E7%A7%B0%E5%8D%98%E6%95%B0+%E7%8F%BE%E5%9C%A8" title="三人称単数 現在の英語" class=crosslink>三人称単数 現在</a><a href="https://ejje.weblio.jp/content/%E5%BD%A2" title="形の英語" class=crosslink>形</a></i> <b class="Latn form-of lang-en 3&#124;s&#124;pres-form-of" lang="en"><a href="https://ejje.weblio.jp/content/hellos" title="hellosの意味" class=crosslink>hellos</a></b>, <i><a href="https://ejje.weblio.jp/content/%E7%8F%BE%E5%9C%A8%E5%88%86%E8%A9%9E" title="現在分詞の英語" class=crosslink>現在分詞</a></i> <b class="Latn form-of lang-en pres&#124;ptcp-form-of" lang="en"><a href="https://ejje.weblio.jp/content/helloing" title="helloingの意味" class=crosslink>helloing</a></b>, <i><a href="https://ejje.weblio.jp/content/%E9%81%8E%E5%8E%BB%E5%BD%A2" title="過去形の英語" class=crosslink>過去形</a><a href="https://ejje.weblio.jp/content/%E3%81%8A%E3%82%88%E3%81%B3" title="およびの英語" class=crosslink>および</a><a href="https://ejje.weblio.jp/content/%E9%81%8E%E5%8E%BB%E5%88%86%E8%A9%9E" title="過去分詞の英語" class=crosslink>過去分詞</a><a href="https://ejje.weblio.jp/content/%E5%BD%A2" title="形の英語" class=crosslink>形</a></i> <b class="Latn form-of lang-en past&#124;and&#124;past&#124;ptcp-form-of" lang="en"><a href="https://ejje.weblio.jp/content/helloed" title="helloedの意味" class=crosslink>helloed</a></b>)
+</p>
+<ol><li><span class="ib-brac">(</span><span class="ib-content"><a href="https://ejje.weblio.jp/content/transitive" title="transitiveの意味" class=crosslink>transitive</a></span><span class="ib-brac">)</span> <a href="https://ejje.weblio.jp/content/To" title="Toの意味" class=crosslink>To</a> <a href="https://ejje.weblio.jp/content/greet" title="greetの意味" class=crosslink>greet</a> with &quot;hello&quot;.
+<ul><li><div class="citation-whole"><span class="cited-source"><b>2013</b>,  <a href="https://ejje.weblio.jp/content/Ivan" title="Ivanの意味" class=crosslink>Ivan</a> <a href="https://ejje.weblio.jp/content/Doig" title="Doigの意味" class=crosslink>Doig</a>,  <cite><a href="https://ejje.weblio.jp/content/English" title="Englishの意味" class=crosslink>English</a> <a href="https://ejje.weblio.jp/content/Creek" title="Creekの意味" class=crosslink>Creek</a></cite>, <a href="https://ejje.weblio.jp/content/page" title="pageの意味" class=crosslink>page</a> 139:</span><dl><dd><div class="h-quotation"><span class="Latn e-quotation" lang="en">I <a href="https://ejje.weblio.jp/content/had+to" title="had toの意味" class=crosslink>had to</a> <a href="https://ejje.weblio.jp/content/traipse" title="traipseの意味" class=crosslink>traipse</a> around <a href="https://ejje.weblio.jp/content/somewhat" title="somewhatの意味" class=crosslink>somewhat</a>, <b><a href="https://ejje.weblio.jp/content/helloing" title="helloingの意味" class=crosslink>helloing</a></b> <a href="https://ejje.weblio.jp/content/people" title="peopleの意味" class=crosslink>people</a> and <a href="https://ejje.weblio.jp/content/being" title="beingの意味" class=crosslink>being</a> <b><a href="https://ejje.weblio.jp/content/helloed" title="helloedの意味" class=crosslink>helloed</a></b>, <a href="https://ejje.weblio.jp/content/before" title="beforeの意味" class=crosslink>before</a> I <a href="https://ejje.weblio.jp/content/spotted" title="spottedの意味" class=crosslink>spotted</a> <a href="https://ejje.weblio.jp/content/my" title="myの意味" class=crosslink>my</a> <a href="https://ejje.weblio.jp/content/mother" title="motherの意味" class=crosslink>mother</a> and <a href="https://ejje.weblio.jp/content/my+father" title="my fatherの意味" class=crosslink>my father</a>, <a href="https://ejje.weblio.jp/content/sharing" title="sharingの意味" class=crosslink>sharing</a> <a href="https://ejje.weblio.jp/content/shade" title="shadeの意味" class=crosslink>shade</a> <a href="https://ejje.weblio.jp/content/and+a" title="and aの意味" class=crosslink>and a</a> <a href="https://ejje.weblio.jp/content/spread" title="spreadの意味" class=crosslink>spread</a> <a href="https://ejje.weblio.jp/content/blanket" title="blanketの意味" class=crosslink>blanket</a> with <a href="https://ejje.weblio.jp/content/Pete" title="Peteの意味" class=crosslink>Pete</a> and <a href="https://ejje.weblio.jp/content/Marie" title="Marieの意味" class=crosslink>Marie</a> <a href="https://ejje.weblio.jp/content/Reese" title="Reeseの意味" class=crosslink>Reese</a> and <a href="https://ejje.weblio.jp/content/Toussaint" title="Toussaintの意味" class=crosslink>Toussaint</a> <a href="https://ejje.weblio.jp/content/Rennie" title="Rennieの意味" class=crosslink>Rennie</a> <a href="https://ejje.weblio.jp/content/near+the" title="near theの意味" class=crosslink>near the</a> <a href="https://ejje.weblio.jp/content/back+of" title="back ofの意味" class=crosslink>back of</a> the park.</span></div></dd></dl></div></div>
+</div>
+</div>
+
+
+<div class=kijiFoot>
+<span class=wList><a href="https://ejje.weblio.jp/category/dictionary/enwik/a" title="索引トップ">索引</a></span><span class=wList><a href="https://ejje.weblio.jp/category/dictionary/enwik/h/99" title="用語の索引">用語索引</a></span><span class=wList><a href="https://ejje.weblio.jp/ranking/dictionary/enwik" title="ランキング">ランキング</a></span></div>
+</div>
+<!--終了 Wiktionary英語版-->
+<div class=clr></div>
+</div>
+</div>
+<!-- 終了 #hideDictPrsENWIK -->
+<div class="mainBlock hlt_SNTCE"><div class=qotH><h2 class=qotHT>「Hello」を含む例文一覧</h2><p class=qotHTR>該当件数&nbsp;:&nbsp;<b>399</b>件</p><br class=clr></div><br class=clrBc><div class="kijiWrp"><div class="kiji"><span class=qotHS>例文</span><div class=qotC><p class=qotCE><b>Hello</b>, <a href="https://ejje.weblio.jp/content/Tom" title="Tomの意味" class=crosslink>Tom</a>!<b class="squareCircle">発音を聞く</b><i class="fa fa-volume-up sentenceAudioIcon"><audio class=sentenceAudio controls="controls" preload="none"><source src="https://weblio.hs.llnwd.net/e8/audio/49205b1102a123d954e6aaa5770b5df0.mp3?groupId=WEBLIO_KENEJ" type="audio/mpeg"></audio></i><span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENEJ',-1,'Hello%2C+Tom%21','%E3%82%84%E3%81%82%E3%83%88%E3%83%A0%2C+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%21')">例文帳に追加</a></span></p><p class=qotCJ>やあトム, こんにちは!<span>&nbsp;-&nbsp;研究社 新英和中辞典</span></p></div><div class=qotC><p class=qotCE><b>Hello</b> all!<span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('ORG_BASIC_SENTENCE',-1,'Hello+all%21','%E7%9A%86%E3%81%95%E3%82%93%E3%80%81%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81')">例文帳に追加</a></span></p><p class=qotCJ>皆さん、こんにちは！<span>&nbsp;-&nbsp;Weblio英語基本例文集</span></p></div><div class=qotC><p class=qotCE><b>Hello</b>, Tom. <a href="https://ejje.weblio.jp/content/Good+morning." title="Good morning.の意味" class=crosslink>Good morning.</a><b class="squareCircle">発音を聞く</b><i class="fa fa-volume-up sentenceAudioIcon"><audio class=sentenceAudio controls="controls" preload="none"><source src="https://weblio.hs.llnwd.net/e8/audio/5e0ce9c70ce05b12acd088942d69bc5c.mp3?groupId=TANAKA_CORPUS" type="audio/mpeg"></audio></i><span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('TANAKA_CORPUS',-1,'Hello%2C+Tom.+Good+morning.','%E3%82%84%E3%81%81%E3%80%81%E3%83%88%E3%83%A0%E3%80%82%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%80%82')">例文帳に追加</a></span></p><p class=qotCJ>やぁ、トム。おはよう。<span>&nbsp;-&nbsp;Tanaka Corpus</span></p></div><div class=qotC><p class=qotCE><b>Hello</b>, <a href="https://ejje.weblio.jp/content/this+is" title="this isの意味" class=crosslink>this is</a> Suzuki.<b class="squareCircle">発音を聞く</b><i class="fa fa-volume-up sentenceAudioIcon"><audio class=sentenceAudio controls="controls" preload="none"><source src="https://weblio.hs.llnwd.net/e8/audio/e9e2aa6a5b5b3b2993ac872d3f246a67.mp3?groupId=ORG_EMAIL_SENTENCE" type="audio/mpeg"></audio></i><span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('ORG_EMAIL_SENTENCE',-1,'Hello%2C+this+is+Suzuki.','%E3%82%82%E3%81%97%E3%82%82%E3%81%97%E3%80%81%E7%A7%81%E3%81%AF%E9%88%B4%E6%9C%A8%E3%81%A7%E3%81%99%E3%80%82')">例文帳に追加</a></span></p><p class=qotCJ>もしもし、私は鈴木です。<span>&nbsp;-&nbsp;Weblio Email例文集</span></p></div><div class=qotC><p class=qotCE><a href="https://ejje.weblio.jp/content/Say" title="Sayの意味" class=crosslink>Say</a> <b>hello</b> <a href="https://ejje.weblio.jp/content/to" title="toの意味" class=crosslink>to</a> <a href="https://ejje.weblio.jp/content/Tom" title="Tomの意味" class=crosslink>Tom</a> for <a href="https://ejje.weblio.jp/content/me." title="me.の意味" class=crosslink>me.</a><b class="squareCircle">発音を聞く</b><i class="fa fa-volume-up sentenceAudioIcon"><audio class=sentenceAudio controls="controls" preload="none"><source src="https://weblio.hs.llnwd.net/e8/audio/0f2a3ce728c13a669edb426ab4d64c04.mp3?groupId=ORG_EMAIL_SENTENCE" type="audio/mpeg"></audio></i><span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('ORG_EMAIL_SENTENCE',-1,'Say+hello+to+Tom+for+me.','%E3%83%88%E3%83%A0%E3%81%AB%E3%82%82%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%80%82')">例文帳に追加</a></span></p><p class=qotCJ>トムにもよろしく。<span>&nbsp;-&nbsp;Weblio Email例文集</span></p></div><div class=qotC><p class=qotCE><a href="https://ejje.weblio.jp/content/Say" title="Sayの意味" class=crosslink>Say</a> <b>hello</b> <a href="https://ejje.weblio.jp/content/to" title="toの意味" class=crosslink>to</a> <a href="https://ejje.weblio.jp/content/Mary" title="Maryの意味" class=crosslink>Mary</a> (<a href="https://ejje.weblio.jp/content/for+me" title="for meの意味" class=crosslink>for me</a>).<b class="squareCircle">発音を聞く</b><i class="fa fa-volume-up sentenceAudioIcon"><audio class=sentenceAudio controls="controls" preload="none"><source src="https://weblio.hs.llnwd.net/e8/audio/44f35e1734abb87cae4a0b5db6f500ec.mp3?groupId=WEBLIO_KENEJ" type="audio/mpeg"></audio></i><span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENEJ',-1,'Say+hello+to+Mary+%28for+me%29.','%E3%83%A1%E3%82%A2%E3%83%AA%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F.')">例文帳に追加</a></span></p><p class=qotCJ>メアリーによろしく.<span>&nbsp;-&nbsp;研究社 新英和中辞典</span></p></div><div class=qotC><p class=qotCE>〈<a href="https://ejje.weblio.jp/content/%E5%8B%A4%E3%82%81" title="勤めの英語" class=crosslink>勤め</a>から<a href="https://ejje.weblio.jp/content/%E5%B8%B0%E3%81%A3%E3%81%9F" title="帰ったの英語" class=crosslink>帰った</a>とき〉 <b>Hello</b>, <a href="https://ejje.weblio.jp/content/dear" title="dearの意味" class=crosslink>dear</a> [<a href="https://ejje.weblio.jp/content/darling" title="darlingの意味" class=crosslink>darling</a>].<b class="squareCircle">発音を聞く</b><i class="fa fa-volume-up sentenceAudioIcon"><audio class=sentenceAudio controls="controls" preload="none"><source src="https://weblio.hs.llnwd.net/e8/audio/76e919706ab6f314ea4515389e25938d.mp3?groupId=WEBLIO_KENJE" type="audio/mpeg"></audio></i><span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENJE',-1,'%E3%80%88%E5%8B%A4%E3%82%81%E3%81%8B%E3%82%89%E5%B8%B0%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%8D%E3%80%89+Hello%2C+dear+%5Bdarling%5D.','%E3%81%8A%E5%B8%B0%E3%82%8A%E3%81%AA%E3%81%95%E3%81%84.')">例文帳に追加</a></span></p><p class=qotCJ>お帰りなさい.<span>&nbsp;-&nbsp;研究社 新和英中辞典</span></p></div><span class=qotHS>例文</span><div class=qotC><p class=qotCE>〈<a href="https://ejje.weblio.jp/content/%E5%8B%A4%E3%82%81" title="勤めの英語" class=crosslink>勤め</a>や<a href="https://ejje.weblio.jp/content/%E5%AD%A6%E6%A0%A1" title="学校の英語" class=crosslink>学校</a>から<a href="https://ejje.weblio.jp/content/%E5%B8%B0%E3%81%A3%E3%81%9F" title="帰ったの英語" class=crosslink>帰った</a><a href="https://ejje.weblio.jp/content/%E8%80%85" title="者の英語" class=crosslink>者</a>に〉 <b>Hello</b>, dear.<b class="squareCircle">発音を聞く</b><i class="fa fa-volume-up sentenceAudioIcon"><audio class=sentenceAudio controls="controls" preload="none"><source src="https://weblio.hs.llnwd.net/e8/audio/b3b5c62a0ea959f9de8aa20927f55f6b.mp3?groupId=WEBLIO_KENJE" type="audio/mpeg"></audio></i><span class=addToSlBtnCntner><a class=addToSlBtn onclick="sentence_modal.showModalForNonMemberByAddToSentenceList('WEBLIO_KENJE',-1,'%E3%80%88%E5%8B%A4%E3%82%81%E3%82%84%E5%AD%A6%E6%A0%A1%E3%81%8B%E3%82%89%E5%B8%B0%E3%81%A3%E3%81%9F%E8%80%85%E3%81%AB%E3%80%89+Hello%2C+dear.','%E3%81%8A%E5%B8%B0%E3%82%8A%E3%81%AA%E3%81%95%E3%81%84.')">例文帳に追加</a></span></p><p class=qotCJ>お帰りなさい.<span>&nbsp;-&nbsp;研究社 新和英中辞典</span></p></div><a href="https://ejje.weblio.jp/sentence/content/Hello" title="例文の一覧ページ">>>例文の一覧を見る</a></div><br class=clr></div></div>
+<div class="mainBlock hlt_RLTED"><table><tr>
+<td class=agglutination>
+<div class=aggltHE>
+<table><tr><td><img src="https://weblio.hs.llnwd.net/e7/img/icons/node.png" alt=""></td><td><b class=agglutinationT>「Hello」の派生語</b></td></tr></table>
+</div>
+<div class=aggltHEB>
+<div class=agltCnt><ul><li><b><a href="https://ejje.weblio.jp/content/hellograph" title="hellographの意味">hellograph</a></b><span>(名詞)</span></li></ul></div>
+</div>
+</td>
+<td class=relatedwords>
+<table><tr><td><img src="https://weblio.hs.llnwd.net/e7/img/icons/connection.png" alt=""></td><td><b class=relatedwordsT>「Hello」の意味に関連した用語</b></td></tr></table>
+<div class=sideBoxCnt>
+<div>
+<div class=sideRWordsWrp>
+<div class=sideRWordsRank>1</div>
+<div class=sideRWordsL>
+<a href="https://ejje.weblio.jp/content/%E3%83%8F%E3%83%AD%E3%83%BC" title="ハロー">ハロー</a>
+<div class="sideRWordsDA"><a href="https://ejje.weblio.jp/category/crlcj/ha/148" title="英和専門語辞典"><b>(英和専門語辞典)</b></a></div></div>
+</div>
+<br class=clr>
+<div class=sideRWordsWrp>
+<div class=sideRWordsRank>2</div>
+<div class=sideRWordsL>
+<a href="https://ejje.weblio.jp/content/%E3%83%98%E3%83%AD" title="ヘロ">ヘロ</a>
+<div class="sideRWordsDA"><a href="https://ejje.weblio.jp/category/wejty/he/45" title="英和対訳"><b>(英和対訳)</b></a></div></div>
+</div>
+<br class=clr>
+<div class=sideRWordsWrp>
+<div class=sideRWordsRank>3</div>
+<div class=sideRWordsL>
+<a href="https://ejje.weblio.jp/content/Hello+protocol" title="Hello protocol">Hello protocol</a>
+<div class="sideRWordsDA"><a href="https://ejje.weblio.jp/category/crlcj/h/96" title="英和専門語辞典"><b>(英和専門語辞典)</b></a></div></div>
+</div>
+<br class=clr>
+<div class=sideRWordsWrp>
+<div class=sideRWordsRank>4</div>
+<div class=sideRWordsL>
+<a href="https://ejje.weblio.jp/content/%E3%83%8F%E3%83%AD%E3%83%BC%21%E3%82%B5%E3%83%B3%E3%83%87%E3%82%A3%E3%83%99%E3%83%AB" title="ハロー!サンディベル">ハロー!サンディベル</a>
+<div class="sideRWordsDA"><a href="https://ejje.weblio.jp/category/crlcj/ha/148" title="英和専門語辞典"><b>(英和専門語辞典)</b></a></div></div>
+</div>
+<br class=clr>
+<div class=sideRWordsWrp>
+<div class=sideRWordsRank>5</div>
+<div class=sideRWordsL>
+<a href="https://ejje.weblio.jp/content/%E3%83%8F%E3%83%AD%E3%83%BC%E3%80%81%E3%82%BD%E3%83%AA%E3%83%BC%21" title="ハロー、ソリー!">ハロー、ソリー!</a>
+<div class="sideRWordsDA"><a href="https://ejje.weblio.jp/category/crlcj/ha/148" title="英和専門語辞典"><b>(英和専門語辞典)</b></a></div></div>
+</div>
+<br class=clr>
+<div class=sideRWordsWrp>
+<div class=sideRWordsRank>6</div>
+<div class=sideRWordsL>
+<a href="https://ejje.weblio.jp/content/%E3%83%8F%E3%83%AD%E3%83%BC%E3%80%81%E3%83%89%E3%83%BC%E3%83%AA%E3%83%BC%21" title="ハロー、ドーリー!">ハロー、ドーリー!</a>
+<div class="sideRWordsDA"><a href="https://ejje.weblio.jp/category/crlcj/ha/148" title="英和専門語辞典"><b>(英和専門語辞典)</b></a></div></div>
+</div>
+<br class=clr>
+<div class=sideRWordsWrp>
+<div class=sideRWordsRank>7</div>
+<div class=sideRWordsL>
+<a href="https://ejje.weblio.jp/content/%E3%83%8F%E3%83%AD%E3%83%BC%E3%82%AD%E3%83%86%E3%82%A3" title="ハローキティ">ハローキティ</a>
+<div class="sideRWordsDA"><a href="https://ejje.weblio.jp/category/crlcj/ha/148" title="英和専門語辞典"><b>(英和専門語辞典)</b></a></div></div>
+</div>
+<br class=clr>
+<div class=sideRWordsWrp>
+<div class=sideRWordsRank>8</div>
+<div class=sideRWordsL>
+<a href="https://ejje.weblio.jp/content/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0" title="ハロープログラム">ハロープログラム</a>
+<div class="sideRWordsDA"><a href="https://ejje.weblio.jp/category/crlcj/ha/148" title="英和専門語辞典"><b>(英和専門語辞典)</b></a></div></div>
+</div>
+<br class=clr>
+<div class=sideRWordsWrp>
+<div class=sideRWordsRank>9</div>
+<div class=sideRWordsL>
+<a href="https://ejje.weblio.jp/content/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%9A%E3%83%BC%E3%82%B8" title="ハローページ">ハローページ</a>
+<div class="sideRWordsDA"><a href="https://ejje.weblio.jp/category/crlcj/ha/148" title="英和専門語辞典"><b>(英和専門語辞典)</b></a></div></div>
+</div>
+<br class=clr>
+<div class=sideRWordsWrp>
+<div class=sideRWordsRank>10</div>
+<div class=sideRWordsL>
+<a href="https://ejje.weblio.jp/content/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A4" title="ハロー・ブロードウェイ">ハロー・ブロードウェイ</a>
+<div class="sideRWordsDA"><a href="https://ejje.weblio.jp/category/crlcj/ha/148" title="英和専門語辞典"><b>(英和専門語辞典)</b></a></div></div>
+</div>
+<br class=clr>
+<b class=clrBc></b>
+</div>
+</div>
+</td>
+</tr></table></div>
+<div class=subMenu><div class=subMenuTWrp><table class=subMenuT><tr class=subMenuTR><td class=subMenuOn>意味</td><td class=subMenuOff><a class=sb-anchor-sentence href="https://ejje.weblio.jp/sentence/content/Hello">例文</a><span class=subMenuTotalCount> (399件)</span></td><td class=subMenuOff><a class=sb-anchor-english-thesaurus href="https://ejje.weblio.jp/english-thesaurus/content/Hello">類語</a></td><td class=subMenuOff><a class=sb-anchor-concordance href="https://ejje.weblio.jp/concordance/content/Hello">共起表現</a></td><td class=subMenuEmp>&nbsp;</td></tr></table></div></div>
+<table class=topic><tr>
+<td>
+<div class=fndAnc>&nbsp;<a href="https://ejje.weblio.jp/content_find/text/0/Hello" title="「Hello」を解説文に含む英和和英の用語の一覧">「Hello」を解説文に含む英和和英の用語の一覧</a></div>
+
+</td>
+<td>
+<div class=fwlAnc><a href="https://ejje.weblio.jp/category/h/106" title="英和辞書の「Hello」の用語索引">英和辞書の「Hello」の用語索引</a></div><br>
+</td>
+<td class=topicR>
+<script type="text/javascript">
+<!--
+outCntWrRnw(false,'e', 'Hello', true,-1,'https://ejje.weblio.jp/content/Hello');
+//-->
+</script>
+
+</td>
+</tr></table>
+<div style="text-align: center;">
+          <div id="ejjeLeftBottomLeftAdId" style="display: inline-block;"></div>
+          <div id="ejjeLeftBottomRightAdId" style="display: inline-block;"></div>
+        </div><div class="mainBlock hlt_CPRHT"><p class=copyRt><b>Helloのページの著作権</b><br><a href="https://ejje.weblio.jp/" title="英和辞典・和英辞典 - Weblio辞書">英和辞典</a>情報提供元は<a href="https://www.weblio.jp/info/partner_logo.jsp">参加元一覧</a>にて確認できます。</p>
+<table class=copyRtTbl>
+<tr><td class=copyRtTblL>&nbsp;</td><td class=copyRtTblR>&nbsp;</td></tr>
+<tr>
+<td>
+<div class=copyRtWrp>
+<a name="COPYRIGHT_KENEJ"></a>
+<a href="https://www.weblio.jp/redirect?dictCode=KENEJ&amp;url=http%3A%2F%2Fwww.kenkyusha.co.jp%2F" class=lgDict><img class=lgDictLg src="https://weblio.hs.llnwd.net/e7/img/lgcr_kejje.png" alt="研究社" width="97" height="31"><img src="https://weblio.hs.llnwd.net/e7/img/spacer.gif" class=lgDictSp alt="研究社" width="99" height="33" style="display:block;position:relative;margin-top:-33px;"></a>
+</div>
+</td>
+<td>
+Copyright (c) 1995-2020 Kenkyusha Co., Ltd. All rights reserved.
+</td>
+</tr>
+
+<tr>
+<td>
+<div class=copyRtWrp>
+<a name="COPYRIGHT_EGTEJ"></a>
+<a href="https://www.weblio.jp/redirect?dictCode=EGTEJ&amp;url=http%3A%2F%2Fwww.benesse.co.jp%2F" class=lgDict><img class=lgDictLg src="https://weblio.hs.llnwd.net/e7/img/lgcr_egtej.png" alt="株式会社ベネッセコーポレーション" width="53" height="31"><img src="https://weblio.hs.llnwd.net/e7/img/spacer.gif" class=lgDictSp alt="株式会社ベネッセコーポレーション" width="55" height="33" style="display:block;position:relative;margin-top:-33px;"></a>
+</div>
+</td>
+<td>
+Copyright &copy; Benesse Holdings, Inc. All rights reserved.
+</td>
+</tr>
+
+<tr>
+<td>
+<div class=copyRtWrp>
+<a name="COPYRIGHT_JSTKG"></a>
+<a href="https://www.weblio.jp/redirect?dictCode=JSTKG&amp;url=http%3A%2F%2Fpr.jst.go.jp%2F" class=lgDict><img class=lgDictLg src="https://weblio.hs.llnwd.net/e7/img/lgcr_jstkg.png" alt="独立行政法人科学技術振興機構" width="140" height="25"><img src="https://weblio.hs.llnwd.net/e7/img/spacer.gif" class=lgDictSp alt="独立行政法人科学技術振興機構" width="142" height="27" style="display:block;position:relative;margin-top:-27px;"></a>
+</div>
+</td>
+<td>
+All Rights Reserved, Copyright &copy; Japan Science and Technology Agency
+</td>
+</tr>
+
+<tr>
+<td>
+<div class=copyRtWrp>
+<a name="COPYRIGHT_NWNEJ"></a>
+<a href="https://www.weblio.jp/redirect?dictCode=NWNEJ&amp;url=http%3A%2F%2Fnlpwww.nict.go.jp%2Fwn-ja%2F" class=lgDict><img class=lgDictLg src="https://weblio.hs.llnwd.net/e7/img/lgcr_nwnej.png" alt="日本語WordNet" width="125" height="26"><img src="https://weblio.hs.llnwd.net/e7/img/spacer.gif" class=lgDictSp alt="日本語WordNet" width="127" height="28" style="display:block;position:relative;margin-top:-28px;"></a>
+</div>
+</td>
+<td>
+<a href="https://www.weblio.jp/redirect?dictCode=NWNEJ&amp;url=http%3A%2F%2Fnlpwww.nict.go.jp%2Fwn-ja%2F">日本語ワードネット</a>1.1版 (C) 情報通信研究機構, 2009-2010 <a href="https://www.weblio.jp/redirect?dictCode=NWNEJ&amp;url=http%3A%2F%2Fnlpwww.nict.go.jp%2Fwn-ja%2Flicense.txt">License</a> All rights reserved.<br>WordNet 3.0 Copyright 2006 by Princeton University. All rights reserved. <a href="https://www.weblio.jp/redirect?dictCode=NWNEJ&amp;url=http%3A%2F%2Fwordnet.princeton.edu%2Fwordnet%2Flicense%2F">License</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<div class=copyRtWrp>
+<a name="COPYRIGHT_CRLCJ"></a>
+<a href="https://www.weblio.jp/redirect?dictCode=CRLCJ&amp;url=http%3A%2F%2Fwww.crosslanguage.co.jp%2F" class=lgDict><img class=lgDictLg src="https://weblio.hs.llnwd.net/e7/img/lgcr_crlcj.png" alt="株式会社クロスランゲージ" width="85" height="31"><img src="https://weblio.hs.llnwd.net/e7/img/spacer.gif" class=lgDictSp alt="株式会社クロスランゲージ" width="87" height="33" style="display:block;position:relative;margin-top:-33px;"></a>
+</div>
+</td>
+<td>
+Copyright &copy; 2020 Cross Language Inc. All Right Reserved.
+</td>
+</tr>
+
+<tr>
+<td>
+<div class=copyRtWrp>
+<a name="COPYRIGHT_STWDJ"></a>
+<a href="https://www.weblio.jp/redirect?dictCode=STWDJ&amp;url=http%3A%2F%2Fwww.nichigai.co.jp%2F" class=lgDict><img class=lgDictLg src="https://weblio.hs.llnwd.net/e7/img/lgcr_stwdj.png" alt="日外アソシエーツ株式会社" width="128" height="26"><img src="https://weblio.hs.llnwd.net/e7/img/spacer.gif" class=lgDictSp alt="日外アソシエーツ株式会社" width="130" height="28" style="display:block;position:relative;margin-top:-28px;"></a>
+</div>
+</td>
+<td>
+Copyright (C) 1994- Nichigai Associates, Inc., All rights reserved.<br>「斎藤和英大辞典」斎藤秀三郎著、日外アソシエーツ辞書編集部編
+</td>
+</tr>
+
+<tr>
+<td>
+<div class=copyRtWrp>
+<a name="COPYRIGHT_ENWIK"></a>
+<a href="https://www.weblio.jp/redirect?dictCode=ENWIK&amp;url=http%3A%2F%2Fen.wiktionary.org%2F">Wiktionary</a>
+</div>
+</td>
+<td>
+Text is available under <a href="https://www.weblio.jp/redirect?dictCode=ENWIK&amp;url=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F">Creative Commons Attribution-ShareAlike (CC-BY-SA)</a> and/or <a href="https://www.weblio.jp/redirect?dictCode=ENWIK&amp;url=http%3A%2F%2Fwww.gnu.org%2Fcopyleft%2Ffdl.html">GNU Free Documentation License (GFDL)</a>.<br><a href="http://ejje.weblio.jp/">Weblio英和・和英辞典</a>に掲載されている「Wiktionary英語版」の記事は、Wiktionaryの<a href="https://www.weblio.jp/redirect?dictCode=ENWIK&amp;url=http%3A%2F%2Fen.wiktionary.org%2Fwiki%2Fhello">hello</a> (<a href="https://www.weblio.jp/redirect?dictCode=ENWIK&amp;url=http%3A%2F%2Fen.wiktionary.org%2Fw%2Findex.php%3Ftitle%3Dhello%26action%3Dhistory">改訂履歴</a>)の記事を複製、再配布したものにあたり、Creative Commons Attribution-ShareAlike (CC-BY-SA)もしくはGNU Free Documentation Licenseというライセンスの下で提供されています。
+</td>
+</tr>
+
+<tr><td><a href="https://www.weblio.jp/redirect?url=http%3A%2F%2Fwww.speech.cs.cmu.edu%2Fcgi-bin%2Fcmudict&amp;etd=1d32c4032d0b104b">CMUdict</a></td><td>CMUdict is Copyright (C) 1993-2008 by Carnegie Mellon University.</td></tr>
+</table>
+</div></div>
+<!-- コンテント -->
+<div id="pin-guide-wrapper">
+<div id="pin-guide-content">
+<table>
+<tbody>
+<tr>
+<td id="pin-guide-description-cell"><p>ピン留めアイコンをクリックすると単語とその意味を画面の右側に残しておくことができます。</p></td>
+<td id="pin-guide-close-cell"><div id="pin-guide-close" onclick="EjjePinnedContent.closeGuide();"></div></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!-- サイド -->
+<div ID=side style="margin-top:30px;">
+
+<div class=sideBlock>
+<div class=indexSideAdTop>
+<div id="ejjeRightTopAdId"></div>
+</div>
+</div>
+<div class="userInfoBoxR sideBlock"><div class=userInfo><b>こんにちは&nbsp;ゲスト&nbsp;さん</b><table><tr><td class="left-cell"><a href="https://uwl.weblio.jp/accounts/login-entry?done=https%3A%2F%2Fejje.weblio.jp%2Fcontent%2FHello&amp;wpm_source=weblio&amp;wpm_medium=link&amp;wpm_content=prem-icon_abatar&amp;wpm_campaign=ejje_top_icon_abatar"><img src="https://weblio.hs.llnwd.net/e7/img/icons/avatar.png" alt="" class=icon onmouseover="this.style.opacity='0.5'; this.style.filter='alpha(opacity=50)';" onmouseout="this.style.opacity='1.0'; this.style.filter='alpha(opacity=100)';"></a><br><a href="https://uwl.weblio.jp/accounts/login-entry?done=https%3A%2F%2Fejje.weblio.jp%2Fcontent%2FHello&amp;wpm_source=weblio&amp;wpm_medium=link&amp;wpm_content=prem-under_icon_login&amp;wpm_campaign=ejje_top_under_icon_login" title="" style="font-size:12px;font-weight:bold;" class="userInfoLoginLink">ログイン</a><br></td><td class="right-cell"><p class="free-description"><span>Weblio会員<span class="small">(無料)</span></span>になると</p><div class="merits"><p><img src="https://weblio.hs.llnwd.net/e7/img/icons/icon_checkbox.png" alt="会員登録のメリット">検索履歴を保存できる！</p><p><img src="https://weblio.hs.llnwd.net/e7/img/icons/icon_checkbox.png" alt="会員登録のメリット">語彙力診断の実施回数増加！</p></div><a class="free-button gtm-freeReg-up" onclick="setFormFocus();return cu(this, 'https://accounts.weblio.jp/uwl/register/user-entry?wpm_category=free&wpm_action=right-column&wpm_label=banner')" href="https://accounts.weblio.jp/uwl/register/user-entry?wpm_category=free&wpm_action=right-column&wpm_label=banner" title=""><img alt="無料会員に登録する" src="https://weblio.hs.llnwd.net/e7/img/icons/icon_free_register_pc_button.png"></a></td></tr></table><a class="premium-service-button non" href="https://uwl.weblio.jp/ps/index?wpm_category=premium&wpm_action=right-column&wpm_label=banner" target="_blank">
+</a>
+</div><div class=premiumEntry></div><script type="text/javascript">
+<!--
+/* cp907 */document.write('<!-- /2211331/Weblio_PC_ejje_RightMiddle_300_600 -->');document.write('<div id="div-gpt-ad-1535430216535-0" style="height:600px; margin:10px auto; width:300px;"></' + 'div>');googletag.cmd.push(function() { googletag.display('div-gpt-ad-1535430216535-0'); });
+//-->
+</script>
+
+</div><div id=pinned-content-placeholder></div>
+<script type="text/javascript">PinnedManager.init("#pinned-content-placeholder");PinnedManager.render();</script>
+<div id="hideModuleMsgEjjeSearchRanking"></div>
+<div id="contentModuleEjjeSearchRanking" class=sideBlock>
+<div class="hideModuleWrp"><p class="hideModuleBtn gtm-hide-searchranking-module" onclick="toggleHideModuleConfirm('hideModuleConfirmEjjeSearchRanking');"></p><div id="hideModuleConfirmEjjeSearchRanking" class="hideModuleConfirm"><div class="hideModuleConfirmMsg gtm-hide-searchranking-module-confirm-msg" onclick="popUpAccountModalWindowFromHideModule('EjjeSearchRanking', 'EJJE_SEARCH_RANKING', 'ランキング', 'https://uwl.weblio.jp/register/user-entry?showsLoginForm=true')">このモジュールを今後表示しない</div><div class="hideModuleConfirmLink">※モジュールの非表示は、<a href="https://ejje.weblio.jp/dict-order-setting" class="gtm-hide-searchranking-module-confirm-link" target="_blank">設定画面</a>から変更可能</div></div></div>
+<b class=sideRankTtl><img src="https://weblio.hs.llnwd.net/e7/img/icons/magnify.png" alt="" class=icon>みんなの検索ランキング</b>
+<ul ID=indexSideRanking>
+<li>
+<div>1</div><a href="https://ejje.weblio.jp/content/appreciate" title="appreciate" onclick="return redirect(this, 'https://ejje.weblio.jp/content/appreciate?erl=true');">
+appreciate
+</a>
+</li>
+<li>
+<div>2</div><a href="https://ejje.weblio.jp/content/present" title="present" onclick="return redirect(this, 'https://ejje.weblio.jp/content/present?erl=true');">
+present
+</a>
+</li>
+<li>
+<div>3</div><a href="https://ejje.weblio.jp/content/assume" title="assume" onclick="return redirect(this, 'https://ejje.weblio.jp/content/assume?erl=true');">
+assume
+</a>
+</li>
+<li>
+<div>4</div><a href="https://ejje.weblio.jp/content/consider" title="consider" onclick="return redirect(this, 'https://ejje.weblio.jp/content/consider?erl=true');">
+consider
+</a>
+</li>
+<li>
+<div>5</div><a href="https://ejje.weblio.jp/content/concern" title="concern" onclick="return redirect(this, 'https://ejje.weblio.jp/content/concern?erl=true');">
+concern
+</a>
+</li>
+<li>
+<div>6</div><a href="https://ejje.weblio.jp/content/implement" title="implement" onclick="return redirect(this, 'https://ejje.weblio.jp/content/implement?erl=true');">
+implement
+</a>
+</li>
+<li>
+<div>7</div><a href="https://ejje.weblio.jp/content/confirm" title="confirm" onclick="return redirect(this, 'https://ejje.weblio.jp/content/confirm?erl=true');">
+confirm
+</a>
+</li>
+<li>
+<div>8</div><a href="https://ejje.weblio.jp/content/apply" title="apply" onclick="return redirect(this, 'https://ejje.weblio.jp/content/apply?erl=true');">
+apply
+</a>
+</li>
+<li>
+<div>9</div><a href="https://ejje.weblio.jp/content/through" title="through" onclick="return redirect(this, 'https://ejje.weblio.jp/content/through?erl=true');">
+through
+</a>
+</li>
+<li>
+<div>10</div><a href="https://ejje.weblio.jp/content/provide" title="provide" onclick="return redirect(this, 'https://ejje.weblio.jp/content/provide?erl=true');">
+provide
+</a>
+</li>
+</ul>
+<div class="commonBtn rankMrBtn" onclick="ht(this, 'https://ejje.weblio.jp/ranking');" onmousedown="displayPushedButton(this, 0, 2);" onmouseup="this.setAttribute('style', '');" onmouseover="changeBackgroundColor(this, '#faa044');" onmouseout="this.setAttribute('style', '');"><a onclick="return cu(this, 'https://ejje.weblio.jp/ranking')" href="https://ejje.weblio.jp/ranking" title="">もっとランキングを見る</a></div>
+</div>
+<div id="sideBHModule" class="sideBlock"><b class="sideRankTtl"><img src="https://weblio.hs.llnwd.net/e7/img/icons/history-clock-button.png" alt="" class="icon">閲覧履歴</b><div id="sideBHBody"><div class="module-wrap-non-member"><div><img src="https://weblio.hs.llnwd.net/e7/img/icons/reg_balloon_right.png" alt=""></div><span class="icon-wrap"><img src="https://weblio.hs.llnwd.net/e7/img/icons/note_pc.png" alt=""></span><span class="registration-message"><span>無料会員登録</span>をすると、<br>単語の閲覧履歴を<br>確認できます。</span><a class="commonBtn" href="https://uwl.weblio.jp?wpm_category=free-lp&amp;wpm_action=pcright&amp;wpm_label=history">無料会員に登録する</a></div></div></div>
+<div id=ejjeBottomRightFixedAds>
+<div class="sideBlock" style="text-align:center;">
+        <div id="ejjeRightBottomAdId"></div>
+    </div>
+<div class=sideBlock>
+</div>
+<div class=sideBlock>
+<form method="post" action="https://translate.weblio.jp/" name="translate" target="_blank">
+<div ID=trnsBxWRP>
+<div ID=trnsBxH>
+<div ID=trnsBxHCnt>
+<table ID=trnsBxHT>
+<tr>
+<td ID=trnsBxHTL><img src="https://weblio.hs.llnwd.net/e7/img/icons/trans.png" alt=""></td>
+<td ID=trnsBxHTC><b><a href="https://translate.weblio.jp/" title="テキスト翻訳" target="_blank">テキスト翻訳</a></b></td>
+<td ID=trnsBxHTR><a href="https://translate.weblio.jp/" title="テキスト翻訳" target="_blank">Weblio翻訳</a></td>
+</tr>
+</table>
+</div>
+</div>
+<div ID=trnsBxB>
+<div ID=trnsBxBCnt>
+<textarea name="originalText" cols="38" rows="10" id="originalTextArea" class=trnsBxTx></textarea>
+</div>
+</div>
+<table ID=trnsBxBT>
+<tr>
+<td ID=trnsBxBTC>
+<input type="radio" name="lp" value="EJ" checked>英→日
+<input type="radio" name="lp" value="JE" style="margin-left:30px;">日→英</td>
+<td ID=trnsBxBTR>
+<input type="image" src="https://weblio.hs.llnwd.net/e7/img/icons/transButton.png" alt="翻訳する" class=trnsBtn style="margin-left:35px;">
+</td>
+</tr>
+</table>
+</div>
+</form>
+<script type="text/javascript">
+var dispMsg = ''.replace(/<br>/g, '\n');
+var $orgTxtArea = $('#originalTextArea');
+$orgTxtArea.focus(function() {
+	if (this.value.replace(/\r?\n/g, '') == dispMsg.replace(/\r?\n/g, '')) {
+		this.value = '';
+	}
+}).blur(function() {
+	if (this.value == '') {
+		this.value = dispMsg;
+	}
+});
+document.getElementById('originalTextArea').value = dispMsg;
+</script>
+</div>
+<div class=sideBlock>
+<script type="text/javascript">
+<!--
+/* cp1022 */document.write('<!-- /2211331/weblio_記事ページ_サイド2_320_80 -->');document.write('<div id="div-gpt-ad-1559650422531-0" style="height:80px; width:320px; margin:0 auto 10px;"></' + 'div>');googletag.cmd.push(function() { googletag.display('div-gpt-ad-1559650422531-0'); });
+//-->
+</script>
+
+<script type="text/javascript">
+<!--
+/* cp796 */document.write(generateSelfAdsHTML('SQMJ_EJJE_ADOBE_PLUGINS'));
+//-->
+</script>
+
+</div>
+<div class=sideBlock style="padding:2px;">
+<table><tr><td><img src="https://weblio.hs.llnwd.net/e7/img/icons/otonari.png" alt=""></td><td><h2 style="font-size:16px;">「Hello」のお隣キーワード</h2></td></tr></table>
+<div class=sideBoxCnt style="padding:0 3px 0 10px;">
+<div class=sideRWordsWrp>
+<div class=sideRNBWords>
+<p><a href="https://ejje.weblio.jp/content/hell+nights" title="hell nights">hell nights</a></p>
+<p><a href="https://ejje.weblio.jp/content/hell+no" title="hell no">hell no</a></p>
+<p><a href="https://ejje.weblio.jp/content/Hell+No+%28Leave+Home%29" title="Hell No (Leave Home)">Hell No (Leave Home)</a></p>
+<p><a href="https://ejje.weblio.jp/content/Hell+No+We+Ain%27t+All+Right%21" title="Hell No We Ain&#39;t All Right!">Hell No We Ain&#39;t All Right!</a></p>
+<p><b>hello</b></p>
+<p><a href="https://ejje.weblio.jp/content/Hello+%26+Goodbye" title="Hello &amp; Goodbye">Hello &amp; Goodbye</a></p>
+<p><a href="https://ejje.weblio.jp/content/Hello+Afrika+%28song%29" title="Hello Afrika (song)">Hello Afrika (song)</a></p>
+<p><a href="https://ejje.weblio.jp/content/Hello+%28After+Edmund+album%29" title="Hello (After Edmund album)">Hello (After Edmund album)</a></p>
+<p><a href="https://ejje.weblio.jp/content/Hello+again." title="Hello again.">Hello again.</a></p>
+
+</div>
+</div>
+</div>
+</div>
+<div class="sideBlock otherDict">
+<b>weblioの他の辞書でも検索してみる</b>
+<p onclick="ht(this, 'https://www.weblio.jp/content_find');">
+<a onclick="return cu(this, 'https://www.weblio.jp/content_find')" href="https://www.weblio.jp/"
+ title="Hello">国語辞書</a></p>
+<p onclick="ht(this, 'https://thesaurus.weblio.jp/content_find');">
+<a onclick="return cu(this, 'https://thesaurus.weblio.jp/content_find')" href="https://thesaurus.weblio.jp/"
+ title="Helloの類語 - Weblio 類語">類語・反対語辞典</a></p>
+<p class=headBarSelE onclick="ht(this, 'https://ejje.weblio.jp/content');">
+<a href="https://ejje.weblio.jp/"
+ title="英和辞典・和英辞典 - Weblio辞書">英和・和英辞典</a></p>
+<p onclick="ht(this, 'https://cjjc.weblio.jp/content_find');">
+<a onclick="return cu(this, 'https://cjjc.weblio.jp/content_find')" href="https://cjjc.weblio.jp/"
+ title="Helloの中国語 - Weblio 日中・中日辞典">日中・中日辞典</a></p>
+<p onclick="ht(this, 'https://kjjk.weblio.jp/content_find');">
+<a onclick="return cu(this, 'https://kjjk.weblio.jp/content_find')" href="https://kjjk.weblio.jp/"
+ title="Helloの韓国語 - Weblio 日韓韓日辞典">日韓・韓日辞典</a></p>
+<p onclick="ht(this, 'https://kobun.weblio.jp/content_find');">
+<a onclick="return cu(this, 'https://kobun.weblio.jp/content_find')" href="https://kobun.weblio.jp/"
+ title="Helloの古語 - Weblio 古語辞典">古語辞典</a></p>
+<p class=NaviNoPulDwnLiUlLi><a onclick="return cu(this, 'https://shuwa.weblio.jp/content_find')" href="https://shuwa.weblio.jp/"
+ title="Helloの手話 - Weblio 手話" rel="nofollow">手話辞典</a></p>
+<p class=NaviNoPulDwnLiUlLi><a onclick="return cu(this, 'https://njjn.weblio.jp/content_find')" href="https://njjn.weblio.jp/"
+ title="Helloのインドネシア語 - Weblio インドネシア語辞典">インドネシア語辞典</a></p>
+<p class=NaviNoPulDwnLiUlLi><a onclick="return cu(this, 'https://tjjt.weblio.jp/content_find')" href="https://tjjt.weblio.jp/"
+ title="Helloのタイ語 - Weblio タイ語辞典">タイ語辞典</a></p>
+<p class=NaviNoPulDwnLiUlLi><a onclick="return cu(this, 'https://vjjv.weblio.jp/content_find')" href="https://vjjv.weblio.jp/"
+ title="Helloのベトナム語 - Weblio ベトナム語辞典">ベトナム語辞典</a></p>
+<br>
+<b>weblioのその他のサービス</b>
+<p><a href="https://uwl.weblio.jp" title="">単語帳</a></p>
+<p><a href="https://uwl.weblio.jp/vocab-index" title="">語彙力診断</a></p>
+<p><a href="https://eikaiwa.weblio.jp/column/?utm_source=ejje_content&amp;utm_medium=text_link&amp;utm_content=eikaiwa_column_top-ejje_content_side&amp;utm_campaign=eikawia_columm" title="">英会話コラム</a></p>
+</div>
+<div class="userInfoBoxR2 sideBlock"><div class=userInfo><b>こんにちは&nbsp;ゲスト&nbsp;さん</b><table><tr><td class="left-cell"><a href="https://uwl.weblio.jp/accounts/login-entry?done=https%3A%2F%2Fejje.weblio.jp%2Fcontent%2FHello&amp;wpm_source=weblio&amp;wpm_medium=link&amp;wpm_content=prem-icon_abatar&amp;wpm_campaign=ejje_top_icon_abatar"><img src="https://weblio.hs.llnwd.net/e7/img/icons/avatar.png" alt="" class=icon onmouseover="this.style.opacity='0.5'; this.style.filter='alpha(opacity=50)';" onmouseout="this.style.opacity='1.0'; this.style.filter='alpha(opacity=100)';"></a><br><a href="https://uwl.weblio.jp/accounts/login-entry?done=https%3A%2F%2Fejje.weblio.jp%2Fcontent%2FHello&amp;wpm_source=weblio&amp;wpm_medium=link&amp;wpm_content=prem-under_icon_login&amp;wpm_campaign=ejje_top_under_icon_login" title="" style="font-size:12px;font-weight:bold;" class="userInfoLoginLink">ログイン</a><br></td><td class="right-cell"><p class="free-description"><span>Weblio会員<span class="small">(無料)</span></span>になると</p><div class="merits"><p><img src="https://weblio.hs.llnwd.net/e7/img/icons/icon_checkbox.png" alt="会員登録のメリット">検索履歴を保存できる！</p><p><img src="https://weblio.hs.llnwd.net/e7/img/icons/icon_checkbox.png" alt="会員登録のメリット">語彙力診断の実施回数増加！</p></div><a class="free-button gtm-freeReg-dn" onclick="setFormFocus();return cu(this, 'https://accounts.weblio.jp/uwl/register/user-entry?wpm_category=free&wpm_action=right-column&wpm_label=banner')" href="https://accounts.weblio.jp/uwl/register/user-entry?wpm_category=free&wpm_action=right-column&wpm_label=banner" title=""><img alt="無料会員に登録する" src="https://weblio.hs.llnwd.net/e7/img/icons/icon_free_register_pc_button.png"></a></td></tr></table><a class="premium-service-button non" href="https://uwl.weblio.jp/ps/index?wpm_category=premium&wpm_action=right-column&wpm_label=banner" target="_blank">
+</a>
+</div></div></div>
+</div>
+<!-- サイド -->
+
+<br class=clr>
+
+</div>
+</div>
+
+<div id="footFixAdBar" >
+<div class="footFixBarW">
+<!-- /2211331/Weblio_PC_ejje_Overlay_728_90 -->
+<div id="ejjeFooterOverlayAdId"></div>
+</div>
+</div>
+<div ID=footWrp>
+<div ID=foot>
+
+<table ID=footBox summary="フッタリンクのテーブル">
+<tr>
+<td>
+<div style="width:470px;">
+<div style="display:inline-block;">
+<b class=footBoxH>
+ご利用にあたって
+</b>
+<div class="footBoxB footMiniBox">
+<p><a href="https://help.weblio.jp/ejje/endictionary/e_info/e_i_dictionary/h0115">Weblio英和・和英辞典とは</a></p>
+<p><a href="https://help.weblio.jp/ejje/endictionary/e_guide/e_g_dictionary/h0120">検索の仕方</a></p>
+<p><a href="https://www.weblio.jp/info/terms.jsp">利用規約</a></p>
+<p><a href="https://www.weblio.jp/info/privacy.jsp">プライバシーポリシー</a></p>
+<p><a href="https://www.weblio.jp/info/sitemap.jsp">サイトマップ</a></p>
+<p><a href="https://www.weblio.jp">辞書総合TOP</a></p>
+<p><a href="https://help.weblio.jp/ejje">ヘルプ</a></p>
+</div>
+<b class=footBoxH>
+便利な機能
+</b>
+<div class="footBoxB footMiniBox">
+<p><a href="https://help.weblio.jp/ejje/company/c_info/h0004">ウェブリオのアプリ</a></p>
+</div>
+</div>
+<div style="display:inline-block; padding:2px 0 0 40px; vertical-align:top; word-wrap:break-word;">
+<b class=footBoxH>
+お問合せ・ご要望
+</b>
+<div class="footBoxB footMiniBox">
+<p><a href="https://help.weblio.jp/feedback">お問い合わせ</a></p>
+</div>
+<b class=footBoxH>
+会社概要
+</b>
+<div class="footBoxB footMiniBox">
+<p><a href="https://www.weblio-inc.jp/">公式企業ページ</a></p>
+<p><a href="https://www.weblio.jp/company/about.jsp">会社情報</a></p>
+<p><a href="https://www.weblio.jp/company/jobs.jsp">ウェブリオへの転職やインターン・新卒入社</a></p>
+</div>
+</div>
+</div>
+</td>
+<td>
+<b class=footBoxH>
+ウェブリオのサービス
+</b>
+<div class=footBoxB>
+<p><a href="https://www.weblio.jp/" title="辞典・百科事典の検索サービス - Weblio辞書">Weblio 辞書</a></p>
+<p><a href="https://thesaurus.weblio.jp/" title="類語辞典・シソーラス・対義語 - Weblio辞書">類語・対義語辞典</a></p>
+<p><a href="https://ejje.weblio.jp/" title="英和辞典・和英辞典 - Weblio辞書">英和辞典・和英辞典</a></p>
+<p><a href="https://translate.weblio.jp/" title="Weblio 翻訳">Weblio翻訳</a></p>
+<p><a href="https://eikaiwa.weblio.jp/" title="Weblioオンライン英会話">Weblioオンライン英会話</a></p>
+<p><a href="https://cjjc.weblio.jp/" title="中国語辞書 - Weblio日中中日辞典">日中中日辞典</a></p>
+<p><a href="https://kjjk.weblio.jp/" title="韓国語辞書 - Weblio日韓韓日辞典">日韓韓日辞典</a></p>
+<p><a href="https://fjjf.weblio.jp/" title="フランス語辞書 - Weblioフランス語辞典">フランス語辞典</a></p>
+<p><a href="https://njjn.weblio.jp/" title="インドネシア語辞書 - Weblioインドネシア語辞典">インドネシア語辞典</a></p>
+<p><a href="https://tjjt.weblio.jp/" title="タイ語辞書 - Weblioタイ語辞典">タイ語辞典</a></p>
+<p><a href="https://vjjv.weblio.jp/" title="ベトナム語辞書 - Weblioベトナム語辞典">ベトナム語辞典</a></p>
+<p><a href="https://kobun.weblio.jp/" title="古文辞書 - Weblio古語辞典">古語辞典</a></p>
+<p><a href="https://shuwa.weblio.jp/" title="手話辞典・手話動画 - Weblio辞書">手話辞典</a></p>
+<p><a href="http://www.sophia-it.com/">IT用語辞典バイナリ</a></p>
+<p><a href="https://qa.weblio.jp/" title="英語の質問箱">英語の質問箱</a></p>
+<p><a href="https://gayann.com/" title="忍者英会話">忍者英会話</a></p>
+<p><a href="https://gayann.com/entry/eigo-coaching" title="英語のコーチングスクールおすすめ比較">英語のコーチングスクールおすすめ比較</a></p>
+<p><a href="https://ejje.weblio.jp/lpage/toeic-moshi-mondai/" title="TOEIC練習問題を活用した勉強法">TOEIC練習問題を活用した勉強法</a></p>
+<p><a href="https://all-eikaiwa.com/" title="ALL-EIKAIWA">ALL-EIKAIWA</a></p>
+</div>
+</td>
+<td>
+
+<div id=fdbkWrp>
+</div>
+<div class="footer_banner free">
+  <div class="title">
+    Weblio会員<span class="small">(無料)</span>なら便利機能が満載!
+  </div>
+  <div class="content">
+    <ul class="features">
+      <li class="search-history">
+        <strong>検索履歴</strong>を保存できる
+      </li>
+      <li class="vocab-test">
+        診断テスト回数が2回から<strong>4回に増加</strong>
+      </li>
+    </ul>
+    <a href="https://accounts.weblio.jp/uwl/register/user-entry?serviceStr=uwl&wpm_category=free&wpm_action=pc-ejje-footer&wpm_label=pc-ejje-footer-free-reg" class="button">
+      <img src="https://weblio.hs.llnwd.net/e7/img/banner/free-button.png" alt="Weblio会員登録(無料)" />
+    </a>
+  </div>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+</div>
+
+<div ID=footBottomWrp>
+<div ID=footBottom>
+
+<p ID=footCr>&copy;2020 Weblio
+<a href="https://ejje.weblio.jp/index.rdf" title="RSS">RSS</a>
+&nbsp;&nbsp;<b class=server1>&nbsp;</b><b class=server3>&nbsp;</b></p>
+
+</div>
+</div>
+
+<script type="text/javascript">
+var cookieName = "1w_";
+var MAX_AGE = 60 * 60 * 24 * 7;
+if (false) {
+    cookieName = cookieName + "turbo";
+} else if (true){
+    cookieName = cookieName + 'content';
+}
+if (cookieName.length > 3) {
+    document.cookie = cookieName + '=1;path=' + '/' + ';max-age=' + MAX_AGE;
+}
+</script>
+<script type="text/javascript" src="https://weblio.hs.llnwd.net/e7/script/include/free_or_premium_registration_cookie.js?tst=2020121810"></script>
+<script>
+deleteFreeOrPremiumRegistrationCookie(false, 'conversion_free_reg03ee56fc5f60ec2332bef51eb777a36d', 'weblio.jp');
+deleteFreeOrPremiumRegistrationCookie(false, 'conversion_premium_reg03ee56fc5f60ec2332bef51eb777a36d', 'weblio.jp');
+</script>
+
+<script type="text/javascript">
+<!--
+outCntLoad();
+//-->
+</script>
+<span style="display:none;" id="memberState">non-member</span>
+<div id="fb-root"></div>
+<script type="text/javascript">(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<p id="queryIdName" style="display:none;">Hello</p>
+</div>
+
+<script type="text/javascript" src="https://weblio.hs.llnwd.net/e7/script/include/weblio_highlight.js?tst=2020121810"></script>
+<script type="text/javascript" src="https://weblio.hs.llnwd.net/e7/script/include/html5_audio.js?tst=2020121810" charset="UTF-8"></script>
+<script type="text/javascript" src="https://weblio.hs.llnwd.net/e7/script/include/turbo_hot_word.js?tst=2020121810" charset="UTF-8"></script>
+
+<!-- ads -->
+<script type="text/javascript" src="https://weblio.hs.llnwd.net/e7/script/include/speed/ejje_ads_manager_pc.js?tst=2020121810" charset="UTF-8"></script>
+</body>
+</html>
+

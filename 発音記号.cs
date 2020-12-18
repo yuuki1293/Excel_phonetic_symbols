@@ -1,8 +1,6 @@
 ﻿using System;
 using System.IO;
 using ClosedXML.Excel;
-using System.Net.Http;
-using System.Threading.Tasks;
 using System.Net;
 
 namespace 発音記号
@@ -18,10 +16,6 @@ namespace 発音記号
             Excel操作 ex = new Excel操作(作業ディレクトリ, ref length);
             string[] 英単語 = new string[length];
             英単語 = ex.読み取り();
-            // for (int i = 0; i < length; i++)
-            // {
-            //     Console.WriteLine(英単語[i]);
-            // }
             Web操作 we = new Web操作(英単語, length);
             string[] 発音記号 = new string[length];
             発音記号 = we.読み取り();
@@ -63,6 +57,7 @@ namespace 発音記号
 
     class Web操作
     {
+        string reg = @"<span class=phoneticEjjeDesc>həlóʊ.+?<//span><span class=phoneticEjjeDc>(米国英語)";
         private int count;
         private string[] url = new string[0];
         const string weblio_url = @"https://ejje.weblio.jp/content/";
@@ -74,7 +69,7 @@ namespace 発音記号
             Array.Resize<string>(ref html, length);
             for (int i = 0; i < length; i++)
             {
-                url[i] = weblio_url + 英単語;
+                url[i] = weblio_url + 英単語[i];
             }
         }
         public string[] 読み取り()
@@ -84,6 +79,7 @@ namespace 発音記号
             {
                 html[i] = wc.DownloadString(url[i]);
             }
+
             return html;
         }
     }
