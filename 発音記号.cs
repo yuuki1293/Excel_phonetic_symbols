@@ -11,6 +11,8 @@ class 発音記号
         さかのぼる(ref 作業ディレクトリ, 3);
         Excel操作 ex = new Excel操作(作業ディレクトリ);
         ex.書き込み("A1", "Hello World");
+        ex.シートを削除("Sheet2");
+        ex.セーブ();
     }
 
     static void さかのぼる(ref DirectoryInfo path, int 回数)
@@ -31,9 +33,7 @@ class Excel操作
     {
         excelのパス = 作業ディレクトリ.ToString() + @"\発音記号.xlsx";
         workbook = new XLWorkbook(excelのパス);
-        worksheet = workbook.Worksheets.Add("Sheet1");
-
-        Console.WriteLine(workbook.Worksheet("Sheet1"));
+        worksheet = workbook.Worksheet("Sheet1");
     }
     public void 書き込み(string セル, string 値)
     {
@@ -43,16 +43,19 @@ class Excel操作
     {
         worksheet.Cell(セル).SetValue(値);
     }
-    // public void 書き込み(int 行, int 列, string 値)
-    // {
-    //     int 桁数 = (int)Math.Ceiling(Math.Log10(列));
-    //     string アルファベット = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-    //     string セル =
-    //     for (int i = 0; i < 桁数; i++)
-    //     {
-    //         アルファベット[列 % 26];
-    //     }
-    // }
+
+    public void セーブ()
+    {
+        workbook.Save();
+    }
+    public void セーブ(string 名前)
+    {
+        workbook.SaveAs(名前);
+    }
+    public void シートを削除(string 名前)
+    {
+        workbook.Worksheet(名前).Delete();
+    }
 }
 
 class Web操作
