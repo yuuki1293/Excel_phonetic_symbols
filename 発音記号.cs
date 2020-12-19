@@ -2,6 +2,7 @@
 using System.IO;
 using ClosedXML.Excel;
 using System.Net;
+using System.Linq;
 
 namespace 発音記号
 {
@@ -57,7 +58,7 @@ namespace 発音記号
 
     class Web操作
     {
-        string reg = @"<span class=phoneticEjjeDesc>həlóʊ.+?<//span><span class=phoneticEjjeDc>(米国英語)";
+        string reg = @"<span class=phoneticEjjeDesc>.+?<//span><span class=phoneticEjjeDc>(米国英語)";
         private int count;
         private string[] url = new string[0];
         const string weblio_url = @"https://ejje.weblio.jp/content/";
@@ -75,11 +76,33 @@ namespace 発音記号
         public string[] 読み取り()
         {
             WebClient wc = new WebClient();
+            string[] 読み方 = new string[count];
             for (int i = 0; i < count; i++)
             {
                 html[i] = wc.DownloadString(url[i]);
+                // File.WriteAllText(@"Test.txt", html[i]);
+                string[] 分割 = html[i].Split("\n");
+                Console.WriteLine(分割.Length);
+                int 検索行 = 0;
+                int 符号 = 1;
+                int c = 1;
+                while (true)
+                {
+                    // string line = File.ReadLines(@"Test.txt").Skip(検索行).Take(1).First();
+                    // int 行 = line.IndexOf(@"<span class=phoneticEjjeExt>(j)</span>άnd</span><span class=phoneticEjjeDc>(米国英語)");
+                    int 行 = 分割[検索行].IndexOf(@"</span><span class=phoneticEjjeDc>(米国英語)");
+                    if (行 != -1)
+                    {
+                        読み方[i] = 分割[検索行].Substring(0, 行);
+                        読み方[i] = 読み方[i].Substring(91);
+                        Console.WriteLine(読み方[i]);
+                        break;
+                    }
+                    検索行 += 1;
+                    符号 *= -1;
+                    c++;
+                }
             }
-
             return html;
         }
     }

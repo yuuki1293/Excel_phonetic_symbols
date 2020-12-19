@@ -1,4 +1,4 @@
-﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html lang="ja">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -1080,7 +1080,7 @@ Weblio英和対訳辞書はプログラムで機械的に意味や英語表現�
 
 
 <div class=kijiFoot>
-<span class=wList><a href="https://ejje.weblio.jp/category/dictionary/enwik/a" title="索引トップ">索引</a></span><span class=wList><a href="https://ejje.weblio.jp/category/dictionary/enwik/h/99" title="用語の索引">用語索引</a></span><span class=wList><a href="https://ejje.weblio.jp/ranking/dictionary/enwik" title="ランキング">ランキング</a></span></div>
+<span class=wList><a href="https://ejje.weblio.jp/category/dictionary/enwik/a" title="索引トップ">索引</a></span><span class=wList><a href="https://ejje.weblio.jp/category/dictionary/enwik/h/98" title="用語の索引">用語索引</a></span><span class=wList><a href="https://ejje.weblio.jp/ranking/dictionary/enwik" title="ランキング">ランキング</a></span></div>
 </div>
 <!--終了 Wiktionary英語版-->
 <div class=clr></div>
@@ -1324,53 +1324,53 @@ Text is available under <a href="https://www.weblio.jp/redirect?dictCode=ENWIK&a
 <b class=sideRankTtl><img src="https://weblio.hs.llnwd.net/e7/img/icons/magnify.png" alt="" class=icon>みんなの検索ランキング</b>
 <ul ID=indexSideRanking>
 <li>
-<div>1</div><a href="https://ejje.weblio.jp/content/appreciate" title="appreciate" onclick="return redirect(this, 'https://ejje.weblio.jp/content/appreciate?erl=true');">
-appreciate
+<div>1</div><a href="https://ejje.weblio.jp/content/respect" title="respect" onclick="return redirect(this, 'https://ejje.weblio.jp/content/respect?erl=true');">
+respect
 </a>
 </li>
 <li>
-<div>2</div><a href="https://ejje.weblio.jp/content/present" title="present" onclick="return redirect(this, 'https://ejje.weblio.jp/content/present?erl=true');">
+<div>2</div><a href="https://ejje.weblio.jp/content/%E5%90%8D%E7%84%A1%E3%81%97%E3%81%AE%E6%A8%A9%E5%85%B5%E8%A1%9B" title="名無しの権兵衛" onclick="return redirect(this, 'https://ejje.weblio.jp/content/%E5%90%8D%E7%84%A1%E3%81%97%E3%81%AE%E6%A8%A9%E5%85%B5%E8%A1%9B?erl=true');">
+名無しの権兵衛
+</a>
+</li>
+<li>
+<div>3</div><a href="https://ejje.weblio.jp/content/present" title="present" onclick="return redirect(this, 'https://ejje.weblio.jp/content/present?erl=true');">
 present
 </a>
 </li>
 <li>
-<div>3</div><a href="https://ejje.weblio.jp/content/assume" title="assume" onclick="return redirect(this, 'https://ejje.weblio.jp/content/assume?erl=true');">
-assume
+<div>4</div><a href="https://ejje.weblio.jp/content/appreciate" title="appreciate" onclick="return redirect(this, 'https://ejje.weblio.jp/content/appreciate?erl=true');">
+appreciate
 </a>
 </li>
 <li>
-<div>4</div><a href="https://ejje.weblio.jp/content/consider" title="consider" onclick="return redirect(this, 'https://ejje.weblio.jp/content/consider?erl=true');">
-consider
+<div>5</div><a href="https://ejje.weblio.jp/content/leave" title="leave" onclick="return redirect(this, 'https://ejje.weblio.jp/content/leave?erl=true');">
+leave
 </a>
 </li>
 <li>
-<div>5</div><a href="https://ejje.weblio.jp/content/concern" title="concern" onclick="return redirect(this, 'https://ejje.weblio.jp/content/concern?erl=true');">
+<div>6</div><a href="https://ejje.weblio.jp/content/archrival" title="archrival" onclick="return redirect(this, 'https://ejje.weblio.jp/content/archrival?erl=true');">
+archrival
+</a>
+</li>
+<li>
+<div>7</div><a href="https://ejje.weblio.jp/content/concern" title="concern" onclick="return redirect(this, 'https://ejje.weblio.jp/content/concern?erl=true');">
 concern
 </a>
 </li>
 <li>
-<div>6</div><a href="https://ejje.weblio.jp/content/implement" title="implement" onclick="return redirect(this, 'https://ejje.weblio.jp/content/implement?erl=true');">
-implement
+<div>8</div><a href="https://ejje.weblio.jp/content/assume" title="assume" onclick="return redirect(this, 'https://ejje.weblio.jp/content/assume?erl=true');">
+assume
 </a>
 </li>
 <li>
-<div>7</div><a href="https://ejje.weblio.jp/content/confirm" title="confirm" onclick="return redirect(this, 'https://ejje.weblio.jp/content/confirm?erl=true');">
-confirm
+<div>9</div><a href="https://ejje.weblio.jp/content/consider" title="consider" onclick="return redirect(this, 'https://ejje.weblio.jp/content/consider?erl=true');">
+consider
 </a>
 </li>
 <li>
-<div>8</div><a href="https://ejje.weblio.jp/content/apply" title="apply" onclick="return redirect(this, 'https://ejje.weblio.jp/content/apply?erl=true');">
-apply
-</a>
-</li>
-<li>
-<div>9</div><a href="https://ejje.weblio.jp/content/through" title="through" onclick="return redirect(this, 'https://ejje.weblio.jp/content/through?erl=true');">
-through
-</a>
-</li>
-<li>
-<div>10</div><a href="https://ejje.weblio.jp/content/provide" title="provide" onclick="return redirect(this, 'https://ejje.weblio.jp/content/provide?erl=true');">
-provide
+<div>10</div><a href="https://ejje.weblio.jp/content/feature" title="feature" onclick="return redirect(this, 'https://ejje.weblio.jp/content/feature?erl=true');">
+feature
 </a>
 </li>
 </ul>
@@ -1618,7 +1618,7 @@ document.getElementById('originalTextArea').value = dispMsg;
 
 <p ID=footCr>&copy;2020 Weblio
 <a href="https://ejje.weblio.jp/index.rdf" title="RSS">RSS</a>
-&nbsp;&nbsp;<b class=server1>&nbsp;</b><b class=server3>&nbsp;</b></p>
+&nbsp;&nbsp;<b class=server2>&nbsp;</b><b class=server2>&nbsp;</b></p>
 
 </div>
 </div>
@@ -1667,4 +1667,3 @@ outCntLoad();
 <script type="text/javascript" src="https://weblio.hs.llnwd.net/e7/script/include/speed/ejje_ads_manager_pc.js?tst=2020121810" charset="UTF-8"></script>
 </body>
 </html>
-
