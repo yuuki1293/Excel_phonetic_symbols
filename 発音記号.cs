@@ -20,6 +20,11 @@ namespace 発音記号
             Web操作 we = new Web操作(英単語, length);
             string[] 発音記号 = new string[length];
             発音記号 = we.読み取り();
+            Console.WriteLine("");
+            for (int i = 0; i < length; i++)
+            {
+                Console.WriteLine(発音記号[i]);
+            }
         }
 
         static void さかのぼる(ref DirectoryInfo path, int 回数)
@@ -58,7 +63,6 @@ namespace 発音記号
 
     class Web操作
     {
-        string reg = @"<span class=phoneticEjjeDesc>.+?<//span><span class=phoneticEjjeDc>(米国英語)";
         private int count;
         private string[] url = new string[0];
         const string weblio_url = @"https://ejje.weblio.jp/content/";
@@ -77,10 +81,15 @@ namespace 発音記号
         {
             WebClient wc = new WebClient();
             string[] 読み方 = new string[count];
+            var sw = new System.Diagnostics.Stopwatch();
             for (int i = 0; i < count; i++)
             {
+                sw.Start();
                 html[i] = wc.DownloadString(url[i]);
-                // File.WriteAllText(@"Test.txt", html[i]);
+                Console.WriteLine("ダウンロード");
+                sw.Stop();
+                Console.WriteLine(sw.Elapsed);
+                sw.Restart();
                 string[] 分割 = html[i].Split("\n");
                 Console.WriteLine(分割.Length);
                 int 検索行 = 0;
@@ -88,22 +97,23 @@ namespace 発音記号
                 int c = 1;
                 while (true)
                 {
-                    // string line = File.ReadLines(@"Test.txt").Skip(検索行).Take(1).First();
-                    // int 行 = line.IndexOf(@"<span class=phoneticEjjeExt>(j)</span>άnd</span><span class=phoneticEjjeDc>(米国英語)");
                     int 行 = 分割[検索行].IndexOf(@"</span><span class=phoneticEjjeDc>(米国英語)");
                     if (行 != -1)
                     {
                         読み方[i] = 分割[検索行].Substring(0, 行);
-                        読み方[i] = 読み方[i].Substring(91);
-                        Console.WriteLine(読み方[i]);
+                        読み方[i] = 読み方[i].Substring(92);
+                        // Console.WriteLine(読み方[i]);
                         break;
                     }
                     検索行 += 1;
                     符号 *= -1;
                     c++;
                 }
+                sw.Stop();
+                Console.WriteLine(sw.Elapsed);
+                sw.Reset();
             }
-            return html;
+            return 読み方;
         }
     }
 }
