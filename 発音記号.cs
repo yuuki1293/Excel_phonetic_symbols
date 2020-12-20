@@ -2,6 +2,7 @@
 using System.IO;
 using ClosedXML.Excel;
 using System.Net;
+using System.Text.RegularExpressions;
 
 namespace 発音記号
 {
@@ -77,6 +78,7 @@ namespace 発音記号
         private string[] url = new string[0];
         const string weblio_url = @"https://ejje.weblio.jp/content/";
         private string[] html = new string[0];
+        private Regex タグの正規表現 = new Regex("<.+?>");
         public Web操作(string[] 英単語)
         {
             count = 英単語.Length;
@@ -120,6 +122,7 @@ namespace 発音記号
                         {
                             読み方[i] = 分割[検索行].Substring(0, 行);
                             読み方[i] = 読み方[i].Substring(92);
+                            読み方[i] = タグの正規表現.Replace(読み方[i], "");
                             // Console.WriteLine(読み方[i]);
                             break;
                         }
