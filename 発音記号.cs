@@ -2,7 +2,6 @@
 using System.IO;
 using ClosedXML.Excel;
 using System.Net;
-using System.Linq;
 
 namespace 発音記号
 {
@@ -38,9 +37,20 @@ namespace 発音記号
         public Excel操作(DirectoryInfo 作業ディレクトリ)
         {
             excelのパス = 作業ディレクトリ.ToString() + @"\発音記号.xlsx";
-            workbook = new XLWorkbook(excelのパス);
+            try
+            {
+                workbook = new XLWorkbook(excelのパス);
+            }
+            catch (System.IO.IOException)
+            {
+                Console.WriteLine("Excelが開いたままです。Excelを終了してください");
+                Console.WriteLine("このウィンドウを閉じるには、任意のキーを押してください...");
+                Console.ReadKey();
+                Environment.Exit(0);
+            }
+
             worksheet = workbook.Worksheet("Sheet1");
-            lastRow = worksheet.LastRowUsed().RowNumber();
+            lastRow = (int)worksheet.Cell("C1").Value;
         }
         public string[] 読み取り()
         {
