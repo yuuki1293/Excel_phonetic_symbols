@@ -18,6 +18,10 @@ namespace 発音記号
             Web操作 we = new Web操作(英単語);
             string[] 発音記号 = we.読み取り();
             ex.書き込み(発音記号);
+            Console.WriteLine("システムは正常に終了しました");
+            Console.WriteLine("このウィンドウを閉じるには、任意のキーを押してください...");
+            Console.ReadKey();
+            Environment.Exit(0);
         }
 
         static void さかのぼる(ref DirectoryInfo path, int 回数)
@@ -51,7 +55,8 @@ namespace 発音記号
             }
 
             worksheet = workbook.Worksheet("Sheet1");
-            lastRow = (int)worksheet.Cell("C1").GetValue<int>();
+            // lastRow = (int)worksheet.Cell("C1").GetValue<int>();
+            lastRow = worksheet.LastRowUsed().RowNumber();
         }
         public string[] 読み取り()
         {
@@ -110,7 +115,8 @@ namespace 発音記号
                 }
 
                 sw.Stop();
-                Console.WriteLine($"\"{url[i].Substring(31)}\"は{sw.ElapsedMilliseconds}ミリ秒でダウンロードされました");
+                Console.Write($"\"{url[i].Substring(31)}\"は{sw.ElapsedMilliseconds}ミリ秒でダウンロードされました");
+                Console.WriteLine($" {i + 1}/{count}");
                 string[] 分割 = html[i].Split("\n");
                 int 検索行 = 0;
                 try
