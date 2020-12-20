@@ -50,7 +50,7 @@ namespace 発音記号
             }
 
             worksheet = workbook.Worksheet("Sheet1");
-            lastRow = (int)worksheet.Cell("C1").Value;
+            lastRow = (int)worksheet.Cell("C1").GetValue<int>();
         }
         public string[] 読み取り()
         {
@@ -97,25 +97,30 @@ namespace 発音記号
                 sw.Restart();
                 html[i] = wc.DownloadString(url[i]);
                 sw.Stop();
-                Console.WriteLine(sw.Elapsed);
+                Console.WriteLine($"\"{url[i].Substring(31)}\"は{sw.ElapsedMilliseconds}ミリ秒でダウンロードされました");
                 string[] 分割 = html[i].Split("\n");
                 int 検索行 = 0;
-                int 符号 = 1;
-                int c = 1;
-                while (true)
+                try
                 {
-                    int 行 = 分割[検索行].IndexOf(@"</span><span class=phoneticEjjeDc>(米国英語)");
-                    if (行 != -1)
+                    while (true)
                     {
-                        読み方[i] = 分割[検索行].Substring(0, 行);
-                        読み方[i] = 読み方[i].Substring(92);
-                        // Console.WriteLine(読み方[i]);
-                        break;
+                        int 行 = 分割[検索行].IndexOf(@"</span><span class=phoneticEjjeDc>(米国英語)");
+                        if (行 != -1)
+                        {
+                            読み方[i] = 分割[検索行].Substring(0, 行);
+                            読み方[i] = 読み方[i].Substring(92);
+                            // Console.WriteLine(読み方[i]);
+                            break;
+                        }
+                        検索行 += 1;
                     }
-                    検索行 += 1;
-                    符号 *= -1;
-                    c++;
                 }
+                catch (System.IndexOutOfRangeException)
+                {
+                    Console.WriteLine($"{url[i].Substring(31)}は見つかりませんでした");
+                    読み方[i] = "Not found";
+                }
+
             }
             return 読み方;
         }
