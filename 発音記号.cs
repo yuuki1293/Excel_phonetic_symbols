@@ -95,7 +95,18 @@ namespace 発音記号
             for (int i = 0; i < count; i++)
             {
                 sw.Restart();
-                html[i] = wc.DownloadString(url[i]);
+                try
+                {
+                    html[i] = wc.DownloadString(url[i]);
+                }
+                catch (System.Net.WebException)
+                {
+                    Console.WriteLine("接続が切断されました。ネットワーク接続を確認してください。");
+                    Console.WriteLine("このウィンドウを閉じるには、任意のキーを押してください...");
+                    Console.ReadKey();
+                    Environment.Exit(0);
+                }
+
                 sw.Stop();
                 Console.WriteLine($"\"{url[i].Substring(31)}\"は{sw.ElapsedMilliseconds}ミリ秒でダウンロードされました");
                 string[] 分割 = html[i].Split("\n");
