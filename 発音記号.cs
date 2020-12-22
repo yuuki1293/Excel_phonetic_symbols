@@ -12,7 +12,7 @@ namespace 発音記号
         {
             string exeファイルのパス = AppDomain.CurrentDomain.BaseDirectory.TrimEnd('\\');
             DirectoryInfo 作業ディレクトリ = new DirectoryInfo(exeファイルのパス);
-            さかのぼる(ref 作業ディレクトリ, 3);
+            さかのぼる(ref 作業ディレクトリ, 1);
             Excel操作 ex = new Excel操作(作業ディレクトリ);
             string[] 英単語 = ex.読み取り();
             Web操作 we = new Web操作(英単語);
