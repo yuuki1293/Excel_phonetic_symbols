@@ -16,7 +16,7 @@ namespace 発音記号
             Excel操作 ex = new Excel操作(作業ディレクトリ);
             string[] 英単語 = ex.読み取り();
             Web操作 we = new Web操作(英単語);
-            string[] 発音記号 = we.読み取り();
+            string[,] 発音記号 = we.読み取り();
             ex.書き込み(発音記号);
             Console.WriteLine("システムは正常に終了しました");
             Console.WriteLine("このウィンドウを閉じるには、任意のキーを押してください...");
@@ -67,19 +67,21 @@ namespace 発音記号
             }
             return 英単語;
         }
-        public void 書き込み(string[] 発音記号, bool カッコを外す = false)
+        public void 書き込み(string[,] 発音記号, bool カッコを外す = false)
         {
-            for (int i = 0; i < 発音記号.Length; i++)
+            for (int i = 0; i < 発音記号.Length / 2; i++)
             {
-                if (カッコを外す || 発音記号[i] == "Not found")
+                if (カッコを外す || 発音記号[0, i] == "Not found")
                 {
-                    worksheet.Cell(i + 1, 2).SetValue(発音記号[i]);
+                    worksheet.Cell(i + 1, 2).SetValue(発音記号[0, i]);
                 }
                 else
                 {
-                    worksheet.Cell(i + 1, 2).SetValue($"[{発音記号[i]}]");
+                    worksheet.Cell(i + 1, 2).SetValue($"[{発音記号[0, i]}]");
                 }
+                worksheet.Cell(i + 1, 3).SetValue(発音記号[1, i]);
             }
+
             workbook.Save();
         }
     }
@@ -101,10 +103,10 @@ namespace 発音記号
 
         private string conecturl(string input) { return $"{weblio_url}{input}"; }
 
-        public string[] 読み取り()
+        public string[,] 読み取り()
         {
             WebClient wc = new WebClient();
-            string[] 読み方 = new string[count];
+            string[,] 読み方と意味 = new string[2, count];
             var sw = new System.Diagnostics.Stopwatch();
             for (int i = 0; i < count; i++)
             {
@@ -133,10 +135,10 @@ namespace 発音記号
                         int 行 = 分割[検索行].IndexOf(@"</span><span class=phoneticEjjeDc>(米国英語)");
                         if (行 != -1)
                         {
-                            読み方[i] = 分割[検索行].Substring(0, 行);
-                            読み方[i] = 読み方[i].Substring(92);
-                            読み方[i] = タグの正規表現.Replace(読み方[i], "");
-                            // Console.WriteLine(読み方[i]);
+                            読み方と意味[0, i] = 分割[検索行].Substring(0, 行);
+                            読み方と意味[0, i] = 読み方と意味[0, i].Substring(92);
+                            読み方と意味[0, i] = タグの正規表現.Replace(読み方と意味[0, i], "");
+                            // Console.WriteLine(読み方と意味[i]);
                             break;
                         }
                         検索行 += 1;
@@ -144,12 +146,36 @@ namespace 発音記号
                 }
                 catch (System.IndexOutOfRangeException)
                 {
-                    Console.WriteLine($"{url[i].Substring(31)}は見つかりませんでした");
-                    読み方[i] = "Not found";
+                    Console.WriteLine($"\"{url[i].Substring(31)}\"の読み方は見つかりませんでした");
+                    読み方と意味[0, i] = "Not found";
                 }
 
+                検索行 = 0;
+                try
+                {
+                    while (true)
+                    {
+                        int 行 = 分割[検索行].IndexOf(@"主な意味");
+                        if (行 != -1)
+                        {
+                            読み方と意味[1, i] = タグの正規表現.Replace(分割[検索行], "");
+                            読み方と意味[1, i] = 読み方と意味[1, i].Substring(4);
+
+
+                            break;
+                        }
+                        検索行 += 1;
+                    }
+                }
+                catch (System.IndexOutOfRangeException)
+                {
+                    Console.WriteLine($"\"{url[i].Substring(31)}\"の意味は見つかりませんでした");
+                    読み方と意味[1, i] = "Not found";
+                }
+                // Console.WriteLine(読み方と意味[1, i]);
+
             }
-            return 読み方;
+            return 読み方と意味;
         }
     }
 }
