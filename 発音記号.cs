@@ -67,11 +67,18 @@ namespace 発音記号
             }
             return 英単語;
         }
-        public void 書き込み(string[] 発音記号)
+        public void 書き込み(string[] 発音記号, bool カッコを外す = false)
         {
             for (int i = 0; i < 発音記号.Length; i++)
             {
-                worksheet.Cell(i + 1, 2).SetValue(発音記号[i]);
+                if (カッコを外す || 発音記号[i] == "Not found")
+                {
+                    worksheet.Cell(i + 1, 2).SetValue(発音記号[i]);
+                }
+                else
+                {
+                    worksheet.Cell(i + 1, 2).SetValue($"[{発音記号[i]}]");
+                }
             }
             workbook.Save();
         }
