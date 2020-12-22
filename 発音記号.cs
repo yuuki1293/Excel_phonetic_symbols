@@ -12,16 +12,13 @@ namespace 発音記号
         {
             string exeファイルのパス = AppDomain.CurrentDomain.BaseDirectory.TrimEnd('\\');
             DirectoryInfo 作業ディレクトリ = new DirectoryInfo(exeファイルのパス);
-            さかのぼる(ref 作業ディレクトリ, 1);
+            さかのぼる(ref 作業ディレクトリ, 2);
             Excel操作 ex = new Excel操作(作業ディレクトリ);
             string[] 英単語 = ex.読み取り();
             Web操作 we = new Web操作(英単語);
             string[,] 発音記号 = we.読み取り();
             ex.書き込み(発音記号);
-            Console.WriteLine("システムは正常に終了しました");
-            Console.WriteLine("このウィンドウを閉じるには、任意のキーを押してください...");
-            Console.ReadKey();
-            Environment.Exit(0);
+            Error.Massage("システムは正常に終了しました");
         }
 
         static void さかのぼる(ref DirectoryInfo path, int 回数)
@@ -29,7 +26,11 @@ namespace 発音記号
             for (int i = 0; i < 回数; i++)
             {
                 path = path.Parent;
+                if (File.Exists($"{path}/発音記号.xlsx")) { break; }
+                // Console.WriteLine(i);
             }
+            Error.Massage("発音記号.xlsxが見つかりません");
+            Error.Exit();
         }
     }
 
@@ -48,10 +49,12 @@ namespace 発音記号
             }
             catch (System.IO.IOException)
             {
-                Console.WriteLine("Excelが開いたままです。Excelを終了してください");
-                Console.WriteLine("このウィンドウを閉じるには、任意のキーを押してください...");
-                Console.ReadKey();
-                Environment.Exit(0);
+                Error.Massage("Excelが開いたままです。Excelを終了してください");
+                Error.Exit();
+                // Console.WriteLine("Excelが開いたままです。Excelを終了してください");
+                // Console.WriteLine("このウィンドウを閉じるには、任意のキーを押してください...");
+                // Console.ReadKey();
+                // Environment.Exit(0);
             }
 
             worksheet = workbook.Worksheet("Sheet1");
@@ -117,10 +120,12 @@ namespace 発音記号
                 }
                 catch (System.Net.WebException)
                 {
-                    Console.WriteLine("接続が切断されました。ネットワーク接続を確認してください。");
-                    Console.WriteLine("このウィンドウを閉じるには、任意のキーを押してください...");
-                    Console.ReadKey();
-                    Environment.Exit(0);
+                    Error.Massage("接続が切断されました。ネットワーク接続を確認してください。");
+                    Error.Exit();
+                    // Console.WriteLine("接続が切断されました。ネットワーク接続を確認してください。");
+                    // Console.WriteLine("このウィンドウを閉じるには、任意のキーを押してください...");
+                    // Console.ReadKey();
+                    // Environment.Exit(0);
                 }
 
                 sw.Stop();
@@ -176,6 +181,21 @@ namespace 発音記号
 
             }
             return 読み方と意味;
+        }
+    }
+
+    class Error
+    {
+        public static void Massage(string massage)
+        {
+            Console.WriteLine(massage);
+            Console.WriteLine("このウィンドウを閉じるには、任意のキーを押してください...");
+            Console.ReadKey();
+        }
+
+        public static void Exit()
+        {
+            Environment.Exit(0);
         }
     }
 }

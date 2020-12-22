@@ -368,3 +368,5 @@ MigrationBackup/
 # End of https://www.toptal.com/developers/gitignore/api/vscode,csharp
 
 win-x64/*
+*.lnk
+コマンド.txt
