@@ -21,16 +21,17 @@ namespace 発音記号
             Error.Massage("システムは正常に終了しました");
         }
 
-        static void さかのぼる(ref DirectoryInfo path, int 回数)
+        static int さかのぼる(ref DirectoryInfo path, int 回数)
         {
             for (int i = 0; i < 回数; i++)
             {
                 path = path.Parent;
-                if (File.Exists($"{path}/発音記号.xlsx")) { break; }
+                if (File.Exists($"{path}/発音記号.xlsx")) { return 0; }
                 // Console.WriteLine(i);
             }
             Error.Massage("発音記号.xlsxが見つかりません");
             Error.Exit();
+            return -1;
         }
     }
 
