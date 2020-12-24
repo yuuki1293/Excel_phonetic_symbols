@@ -12,7 +12,7 @@ namespace 発音記号
         {
             string exeファイルのパス = AppDomain.CurrentDomain.BaseDirectory.TrimEnd('\\');
             DirectoryInfo 作業ディレクトリ = new DirectoryInfo(exeファイルのパス);
-            さかのぼる(ref 作業ディレクトリ, 2);
+            さかのぼる(ref 作業ディレクトリ, 5);
             Excel操作 ex = new Excel操作(作業ディレクトリ);
             string[] 英単語 = ex.読み取り();
             Web操作 we = new Web操作(英単語);
@@ -115,18 +115,25 @@ namespace 発音記号
             for (int i = 0; i < count; i++)
             {
                 sw.Restart();
-                try
+                while (true)
                 {
-                    html[i] = wc.DownloadString(url[i]);
-                }
-                catch (System.Net.WebException)
-                {
-                    Error.Massage("接続が切断されました。ネットワーク接続を確認してください。");
-                    Error.Exit();
-                    // Console.WriteLine("接続が切断されました。ネットワーク接続を確認してください。");
-                    // Console.WriteLine("このウィンドウを閉じるには、任意のキーを押してください...");
-                    // Console.ReadKey();
-                    // Environment.Exit(0);
+                    try
+                    {
+                        // throw new System.Net.WebException();
+                        html[i] = wc.DownloadString(url[i]);
+                        break;
+                    }
+                    catch (System.Net.WebException)
+                    {
+                        Console.WriteLine("接続が切断されました。ネットワーク接続を確認してください。");
+                        Console.WriteLine("任意のキーで再読み込み。");
+                        Console.WriteLine("終了するには、Escキーを押してください...");
+                        // Console.WriteLine(Console.ReadKey().Key.ToString());
+                        // File.WriteAllText("./test.txt", Console.ReadKey(true).Key.ToString());
+                        if (Console.ReadKey().Key.ToString().Equals("Escape"))
+                            Environment.Exit(0);
+                        Console.WriteLine("");
+                    }
                 }
 
                 sw.Stop();
