@@ -3,7 +3,7 @@ using System.IO;
 using ClosedXML.Excel;
 using System.Net;
 using System.Text.RegularExpressions;
-
+using System.Diagnostics;
 namespace 発音記号
 {
     class 発音記号
@@ -19,6 +19,7 @@ namespace 発音記号
             string[,] 発音記号 = we.読み取り();
             ex.書き込み(発音記号);
             Error.Massage("システムは正常に終了しました");
+            ex.起動();
         }
 
         static int さかのぼる(ref DirectoryInfo path, int 回数)
@@ -87,6 +88,11 @@ namespace 発音記号
             }
 
             workbook.Save();
+        }
+
+        public void 起動()
+        {
+            Process.Start(@"C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE", excelのパス);
         }
     }
 
