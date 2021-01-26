@@ -370,5 +370,5 @@ MigrationBackup/
 win-x64/*
 *.lnk
 コマンド.txt
-発音記号.xlsx
+# 発音記号.xlsx
 test.txt
