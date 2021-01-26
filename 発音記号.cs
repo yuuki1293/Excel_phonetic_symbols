@@ -11,11 +11,11 @@ namespace 発音記号
         static void Main(string[] args)
         {
             string exeファイルのパス = AppDomain.CurrentDomain.BaseDirectory.TrimEnd('\\');
-            DirectoryInfo 作業ディレクトリ = new DirectoryInfo(exeファイルのパス);
+            DirectoryInfo 作業ディレクトリ = new(exeファイルのパス);
             さかのぼる(ref 作業ディレクトリ, 5);
-            Excel操作 ex = new Excel操作(作業ディレクトリ);
+            Excel操作 ex = new(作業ディレクトリ);
             string[] 英単語 = ex.読み取り();
-            Web操作 we = new Web操作(英単語);
+            Web操作 we = new(英単語);
             string[,] 発音記号 = we.読み取り();
             ex.書き込み(発音記号);
             Error.Massage("システムは正常に終了しました");
@@ -63,15 +63,18 @@ namespace 発音記号
             // lastRow = (int)worksheet.Cell("C1").GetValue<int>();
             lastRow = worksheet.LastRowUsed().RowNumber();
         }
+
         public string[] 読み取り()
         {
             string[] 英単語 = new string[lastRow];
             for (int i = 0; i < lastRow; i++)
             {
                 英単語[i] = worksheet.Cell(i + 1, 1).Value.ToString();
+                英単語[i] = カッコ内の文字を消す(英単語[i]);
             }
             return 英単語;
         }
+
         public void 書き込み(string[,] 発音記号, bool カッコを外す = false)
         {
             for (int i = 0; i < 発音記号.Length / 2; i++)
@@ -93,6 +96,14 @@ namespace 発音記号
         public void 起動()
         {
             Process.Start(@"C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE", excelのパス);
+            // Process.Start(@"EXCEL.EXE", excelのパス);
+            // System.Diagnostics.Process.Start(excelのパス);
+        }
+
+        private string カッコ内の文字を消す(string 単語)
+        {
+            Regex カッコの正規表現 = new(@"\(.+?\)");
+            return カッコの正規表現.Replace(単語, "");
         }
     }
 
@@ -102,7 +113,7 @@ namespace 発音記号
         private string[] url = new string[0];
         const string weblio_url = @"https://ejje.weblio.jp/content/";
         private string[] html = new string[0];
-        private Regex タグの正規表現 = new Regex("<.+?>");
+        private Regex タグの正規表現 = new("<.+?>");
         public Web操作(string[] 英単語)
         {
             count = 英単語.Length;

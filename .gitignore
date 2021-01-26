@@ -367,8 +367,7 @@ MigrationBackup/
 
 # End of https://www.toptal.com/developers/gitignore/api/vscode,csharp
 
-win-x64/*
-*.lnk
+発音記号.exeデバッグ.lnk
 コマンド.txt
 # 発音記号.xlsx
 test.txt
