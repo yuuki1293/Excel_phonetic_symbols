@@ -4,6 +4,8 @@ using ClosedXML.Excel;
 using System.Net;
 using System.Text.RegularExpressions;
 using System.Diagnostics;
+using Microsoft.Win32;
+
 namespace 発音記号
 {
     class 発音記号
@@ -95,15 +97,44 @@ namespace 発音記号
 
         public void 起動()
         {
-            Process.Start(@"C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE", excelのパス);
-            // Process.Start(@"EXCEL.EXE", excelのパス);
-            // System.Diagnostics.Process.Start(excelのパス);
+            Process.Start(EXCEL実行ファイルのパス取得(), excelのパス);
         }
 
         private string カッコ内の文字を消す(string 単語)
         {
             Regex カッコの正規表現 = new(@"\(.+?\)");
             return カッコの正規表現.Replace(単語, "");
+        }
+
+        string EXCEL実行ファイルのパス取得()
+        {
+            // 操作するレジストリ・キーの名前
+            string rKeyName = @"SOFTWARE\Microsoft\Windows\CurrentVersion\Extensions";
+            // 取得処理を行う対象となるレジストリの値の名前
+            string rGetValueName = "xlsx";
+
+            // レジストリの取得
+            try
+            {
+                // レジストリ・キーのパスを指定してレジストリを開く
+                RegistryKey rKey = Registry.CurrentUser.OpenSubKey(rKeyName);
+
+                // レジストリの値を取得
+                string location = (string)rKey.GetValue(rGetValueName);
+
+                // 開いたレジストリ・キーを閉じる
+                rKey.Close();
+
+                return location;
+            }
+            catch (NullReferenceException)
+            {
+                // レジストリ・キーまたは値が存在しない
+                Console.WriteLine("レジストリ［" + rKeyName
+                  + "］の［" + rGetValueName + "］がありません！");
+                Console.WriteLine("EXCEL.EXEのパスを入力してください");
+                return Console.ReadLine();
+            }
         }
     }
 
