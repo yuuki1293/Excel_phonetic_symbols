@@ -116,6 +116,7 @@ namespace 発音記号
             // レジストリの取得
             try
             {
+                // throw new NullReferenceException();
                 // レジストリ・キーのパスを指定してレジストリを開く
                 RegistryKey rKey = Registry.CurrentUser.OpenSubKey(rKeyName);
 
@@ -129,11 +130,23 @@ namespace 発音記号
             }
             catch (NullReferenceException)
             {
-                // レジストリ・キーまたは値が存在しない
-                Console.WriteLine("レジストリ［" + rKeyName
-                  + "］の［" + rGetValueName + "］がありません！");
-                Console.WriteLine("EXCEL.EXEのパスを入力してください");
-                return Console.ReadLine();
+                DirectoryInfo Excelexeのパスtxt = new(excelのパス);
+                Excelexeのパスtxt = new(Excelexeのパスtxt.Parent.ToString() + @"\EXCEL.EXEのパス.txt");
+                Console.WriteLine(Excelexeのパスtxt);
+                if (File.Exists(Excelexeのパスtxt.ToString()))
+                {
+                    return File.ReadLines(Excelexeのパスtxt.ToString()).ToString();
+                }
+                else
+                {
+                    // レジストリ・キーまたは値が存在しない
+                    Console.WriteLine($"レジストリ{rKeyName}の{rGetValueName}がありません！");
+                    Console.WriteLine("EXCEL.EXEのパスを入力してください");
+                    string EXCELdotEXEのパス = Console.ReadLine();
+                    // File.Create(Excelexeのパスtxt.ToString());
+                    File.WriteAllText(Excelexeのパスtxt.ToString(), EXCELdotEXEのパス);
+                    return EXCELdotEXEのパス;
+                }
             }
         }
     }
