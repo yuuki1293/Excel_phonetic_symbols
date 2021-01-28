@@ -1,10 +1,12 @@
-﻿using System;
+﻿using Microsoft.WindowsAPICodePack.Dialogs;
+using System;
 using System.IO;
 using ClosedXML.Excel;
 using System.Net;
 using System.Text.RegularExpressions;
 using System.Diagnostics;
 using Microsoft.Win32;
+using System.Text;
 
 namespace 発音記号
 {
@@ -97,7 +99,9 @@ namespace 発音記号
 
         public void 起動()
         {
-            Process.Start(EXCEL実行ファイルのパス取得(), excelのパス);
+            string a = EXCEL実行ファイルのパス取得();
+            Console.WriteLine(a);
+            Process.Start(a, excelのパス);
         }
 
         private string カッコ内の文字を消す(string 単語)
@@ -132,20 +136,37 @@ namespace 発音記号
             {
                 DirectoryInfo Excelexeのパスtxt = new(excelのパス);
                 Excelexeのパスtxt = new(Excelexeのパスtxt.Parent.ToString() + @"\EXCEL.EXEのパス.txt");
-                Console.WriteLine(Excelexeのパスtxt);
+                // Console.WriteLine(Excelexeのパスtxt);
                 if (File.Exists(Excelexeのパスtxt.ToString()))
                 {
                     return File.ReadLines(Excelexeのパスtxt.ToString()).ToString();
                 }
                 else
                 {
-                    // レジストリ・キーまたは値が存在しない
-                    Console.WriteLine($"レジストリ{rKeyName}の{rGetValueName}がありません！");
-                    Console.WriteLine("EXCEL.EXEのパスを入力してください");
-                    string EXCELdotEXEのパス = Console.ReadLine();
-                    // File.Create(Excelexeのパスtxt.ToString());
-                    File.WriteAllText(Excelexeのパスtxt.ToString(), EXCELdotEXEのパス);
-                    return EXCELdotEXEのパス;
+                    using (var cofd = new CommonOpenFileDialog()
+                    {
+                        Title = "EXCEL.EXEを選択してください",
+                        InitialDirectory = @"C:\\",
+                        // フォルダ選択モードにする
+                        IsFolderPicker = false,
+                        AllowNonFileSystemItems = false,
+                        Multiselect = false
+                    })
+                    {
+                        if (cofd.ShowDialog() != CommonFileDialogResult.Ok)
+                        {
+                            return "";
+                        }
+                        using (FileStream fs = File.Create(Excelexeのパスtxt.ToString()))
+                        {
+                            byte[] info = new UTF8Encoding(true).GetBytes(cofd.FileName);
+                            fs.Write(info, 0, info.Length);
+                        }
+
+                        return cofd.FileName;
+                        // FileNameで選択されたフォルダを取得する
+                        // System.Windows.MessageBox.Show($"{cofd.FileName}を選択しました");
+                    }
                 }
             }
         }
