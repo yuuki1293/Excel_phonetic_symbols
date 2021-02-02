@@ -100,7 +100,8 @@ namespace 発音記号
         public void 起動()
         {
             string a = EXCEL実行ファイルのパス取得();
-            Console.WriteLine(a);
+            // Console.WriteLine(a);
+            excelのパス = $"\"{excelのパス}\"";
             Process.Start(a, excelのパス);
         }
 
