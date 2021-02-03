@@ -4,7 +4,11 @@
     "includedFrameworks": [
       {
         "name": "Microsoft.NETCore.App",
-        "version": "5.0.1"
+        "version": "5.0.2"
+      },
+      {
+        "name": "Microsoft.WindowsDesktop.App",
+        "version": "5.0.2"
       }
     ]
   }
