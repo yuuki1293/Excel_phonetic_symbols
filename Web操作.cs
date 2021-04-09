@@ -6,11 +6,11 @@ namespace 発音記号
 {
     class Web操作
     {
-        private int count;
-        private string[] url = new string[0];
+        private int count { get; set; }
+        private string[] url { get; set; } = new string[0];
         const string weblio_url = @"https://ejje.weblio.jp/content/";
-        private string[] html = new string[0];
-        private Regex タグの正規表現 = new("<.+?>");
+        private string[] html { get; set; } = new string[0];
+        private Regex タグの正規表現 { get; set; } = new("<.+?>");
         public Web操作(string[] 英単語)
         {
             count = 英単語.Length;

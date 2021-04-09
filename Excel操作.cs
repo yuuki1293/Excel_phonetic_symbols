@@ -11,9 +11,9 @@ namespace 発音記号
 {
     class Excel操作
     {
-        private string excelのパス;
-        private XLWorkbook workbook;
-        private IXLWorksheet worksheet;
+        private string excelのパス { get; set; }
+        private XLWorkbook workbook { get; set; }
+        private IXLWorksheet worksheet { get; set; }
         int lastRow;
         public Excel操作(DirectoryInfo 作業ディレクトリ)
         {
