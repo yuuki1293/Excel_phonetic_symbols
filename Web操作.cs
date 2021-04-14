@@ -14,8 +14,8 @@ namespace 発音記号
         public Web操作(string[] 英単語)
         {
             count = 英単語.Length;
-            Array.Resize<string>(ref url, count);
-            Array.Resize<string>(ref html, count);
+            url = new string[count];
+            html = new string[count];
             url = (Array.ConvertAll(英単語, conecturl));
         }
 
