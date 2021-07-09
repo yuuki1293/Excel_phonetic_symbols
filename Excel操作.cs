@@ -31,6 +31,10 @@ namespace 発音記号
                 // Console.ReadKey();
                 // Environment.Exit(0);
             }
+            catch (System.Exception e)
+            {
+                Console.WriteLine(e);
+            }
 
             worksheet = workbook.Worksheet("Sheet1");
             // lastRow = (int)worksheet.Cell("C1").GetValue<int>();
@@ -71,7 +75,8 @@ namespace 発音記号
             string a = EXCEL実行ファイルのパス取得();
             // Console.WriteLine(a);
             excelのパス = $"\"{excelのパス}\"";
-            Process.Start(a, excelのパス);
+            var p = Process.Start(a, excelのパス);
+            p.WaitForExit();
         }
 
         private string カッコ内の文字を消す(string 単語)
@@ -135,7 +140,6 @@ namespace 発音記号
 
                         return cofd.FileName;
                         // FileNameで選択されたフォルダを取得する
-                        // System.Windows.MessageBox.Show($"{cofd.FileName}を選択しました");
                     }
                 }
             }

@@ -1,5 +1,7 @@
 ﻿using System;
 using System.IO;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace 発音記号
 {
@@ -10,6 +12,8 @@ namespace 発音記号
             string exeファイルのパス = AppDomain.CurrentDomain.BaseDirectory.TrimEnd('\\');
             DirectoryInfo 作業ディレクトリ = new(exeファイルのパス);
             さかのぼる(ref 作業ディレクトリ, 5);
+            Excel操作 excel = new(作業ディレクトリ);
+            excel.起動();
             Excel操作 ex = new(作業ディレクトリ);
             string[] 英単語 = ex.読み取り();
             Web操作 we = new(英単語);
